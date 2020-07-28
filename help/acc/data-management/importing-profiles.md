@@ -1,6 +1,6 @@
 ---
 title: Come importare i profili
-description: Questo video spiega come importare i profili in  Adobe Campaign Classic
+description: Questo video spiega come importare i profili in Adobe Campaign Classic
 feature: Profile Management
 topics: Data Import and Export
 kt: 2176
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # Come importare i profili
 
-In questo video viene illustrato come importare i profili in  Adobe Campaign Classic.
+Questo video spiega come importare i profili in Adobe Campaign Classic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12)
 
