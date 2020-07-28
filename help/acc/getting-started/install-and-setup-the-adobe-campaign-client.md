@@ -27,4 +27,4 @@ Nel seguente video viene illustrato come scaricare e installare la console clien
 
 * [Matrice di compatibilità](https://helpx.adobe.com/campaign/kb/compatibility-matrix.html)
 * [Installazione della console client](https://docs.adobe.com/content/help/en/campaign-classic/using/installing-campaign-classic/installing-campaign-in-windows-/installing-the-client-console.html)
-* [Guida all&#39;implementazione di Campaign Classic](https://helpx.adobe.com/campaign/kb/acc-implementation.html)
+* [Guida all&#39;implementazione Campaign Classic](https://helpx.adobe.com/campaign/kb/acc-implementation.html)
