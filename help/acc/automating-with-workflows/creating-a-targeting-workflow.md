@@ -1,6 +1,6 @@
 ---
 title: Creazione di un flusso di lavoro di targeting
-description: ' Adobe Campaign Classic utilizza i flussi di lavoro per realizzare campagne di targeting, generare campagne o eseguire processi tecnici  Adobe Campaign. In questo video ci concentreremo sui flussi di lavoro di targeting. I flussi di lavoro di targeting consentono di creare diversi target di consegna.'
+description: Adobe Campaign Classic utilizza i flussi di lavoro per realizzare campagne di targeting, generare campagne o eseguire processi tecnici  Adobe Campaign. In questo video ci concentreremo sui flussi di lavoro di targeting. I flussi di lavoro di targeting consentono di creare diversi target di consegna.
 feature: Workflows
 topics: Targeting Activities
 kt: 2174
