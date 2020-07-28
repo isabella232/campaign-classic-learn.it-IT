@@ -1,7 +1,7 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: ' Adobe Campaign Esercitazioni classiche'
+user-guide-title: Tutorials Adobe Campaign Classic
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -12,25 +12,24 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 translation-type: tm+mt
 source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '319'
 ht-degree: 3%
 
 ---
 
 
-#  Adobe Campaign Esercitazioni classiche {#tutorials}
+# Tutorials Adobe Campaign Classic {#tutorials}
 
 + [Panoramica](/help/acc/overview.md)
 + Getting Started {#getting-started}
-   + [Introduzione a  Adobe Campaign Classic](/help/acc/getting-started/introduction-to-adobe-campaign-classic.md)
-   + [Esplorazione dell&#39;interfaccia utente  Adobe Campaign Classic](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
+   + [Introduzione ad Adobe Campaign Classic](/help/acc/getting-started/introduction-to-adobe-campaign-classic.md)
+   + [Esplorazione dell’interfaccia utente di Adobe Campaign Classic](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Gestione di campagne di marketing](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [Creazione di un piano di marketing, programmi e campagne](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Creazione di una campagna e di un messaggio e-mail](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
    + [Creazione di un elenco di destinatari](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [Creazione di un flusso di lavoro](/help/acc/automating-with-workflows/creating-a-workflow.md)
-   + [Creazione di un flusso di lavoro di targeting](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [Gestione di seed e prove in un&#39;e-mail](/help/acc/sending-messages/managing-seed-and-proofs.md)
+   + [Creazione di un flusso di lavoro](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [Targeting dei profili in un flusso di lavoro](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Gestione profili {#profile-management}
    + [Creazione e gestione di profili](/help/acc/profile-management/create-and-manage-profiles.md)
    + [Importazione di profili](/help/acc/data-management/importing-profiles.md)
@@ -38,11 +37,13 @@ ht-degree: 3%
    + Canale e-mail{#email-channel}
       + [Creazione di una campagna e di un messaggio e-mail](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
       + [Gestione di seed e prove in un&#39;e-mail](/help/acc/sending-messages/managing-seed-and-proofs.md)
-      + [Personalizzare le e-mail utilizzando blocchi di contenuto dinamici](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
+      + [Personalizzazione di e-mail mediante blocchi di contenuto dinamici](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [Personalizzazione di e-mail tramite campo di personalizzazione](/help/acc/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [Personalizzazione delle e-mail - Creazione di una newsletter multilingue con contenuti condizionali](/help/acc/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Configurare campagne e-mail ricorrenti e continue](/help/acc/sending-messages/recurring-deliveries.md)
       + [Definizione di contenuto e-mail interattivo con AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Canale push {#push-channel}
-      + [Configurare il canale push con l&#39;SDK di Experience Platform Mobile](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
+      + [Configurare il canale push con l&#39;SDK di Mobile  Experience Platform](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
    + Utilizzo dei modelli di consegna{#using-delivery-templates}
       + [Configurazione di un modello di consegna](/help/acc/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Impostazione delle proprietà del modello di consegna](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
@@ -64,7 +65,7 @@ ht-degree: 3%
    + [Heatmap flusso di lavoro](/help/acc/monitoring-campaign-classic/workflow-heatmap.md)
    + [Audit Trail](/help/acc/monitoring-campaign-classic/audit-trail.md)
 + Integrazione {#integrating}
-   + [Come integrare Dynamics 365 con  Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
+   + [Come integrare Dynamics 365 con Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
 + Amministrazione {#administrating}
    + Pannello di controllo Campaign {#control-panel-acc}
       + [Panoramica Pannello di controllo Campaign](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
@@ -84,5 +85,5 @@ ht-degree: 3%
          + [Decrittografare i dati](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Risoluzione dei problemi del Pannello di controllo Campaign](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Accesso a un database esterno (FDA) {#fda}
-      + [Gestione dei grandi dati su [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [Big data management su  Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
