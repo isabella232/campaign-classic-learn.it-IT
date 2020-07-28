@@ -1,6 +1,6 @@
 ---
 title: Gestione della stanchezza di marketing con le regole di pressione
-description: La gestione della fatica controlla la frequenza e la quantità di messaggi per evitare un eccesso di richieste da parte dei destinatari. Se nell’istanza della campagna non è presente il modulo di ottimizzazione della campagna, potete configurare un filtro predefinito che filtrerà la popolazione di destinazione in base al numero di messaggi ricevuti.   Questo video spiega come implementare la gestione della fatica in  Adobe Campaign Classic utilizzando i filtri.
+description: La gestione della fatica controlla la frequenza e la quantità di messaggi per evitare un eccesso di richieste da parte dei destinatari. Se nell’istanza della campagna non è presente il modulo di ottimizzazione della campagna, potete configurare un filtro predefinito che filtrerà la popolazione di destinazione in base al numero di messaggi ricevuti.   Questo video spiega come implementare la gestione della fatica in Adobe Campaign Classic utilizzando i filtri.
 feature: Fatigue Management
 topics: null
 kt: 2148
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 La gestione della fatica controlla la frequenza e la quantità di messaggi per evitare un eccesso di richieste da parte dei destinatari. Se nell’istanza della campagna non è presente il modulo di ottimizzazione della campagna, potete configurare un filtro predefinito che filtrerà la popolazione di destinazione in base al numero di messaggi ricevuti.
 
-Questo video spiega come implementare la gestione della fatica in  Adobe Campaign Classic utilizzando i filtri.
+Questo video spiega come implementare la gestione della fatica in Adobe Campaign Classic utilizzando i filtri.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12)
 
