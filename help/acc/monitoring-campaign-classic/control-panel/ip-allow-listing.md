@@ -12,7 +12,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -20,16 +20,16 @@ ht-degree: 0%
 
 # IP allow list for Instance Access
 
-Il Pannello di controllo Campaign consente di impostare nuove connessioni alle istanze consentendo l&#39;elencazione degli intervalli di indirizzi IP. Per impostazione predefinita, un&#39;istanza di Adobe Campaign Classic  non è accessibile da vari indirizzi IP. Pertanto, un indirizzo IP deve essere consentito:
+Il Pannello di controllo Campaign consente di impostare nuove connessioni alle istanze consentendo l&#39;elencazione degli intervalli di indirizzi IP. Per impostazione predefinita, un&#39;istanza di Adobe Campaign Classic non è accessibile da vari indirizzi IP. Pertanto, un indirizzo IP deve essere consentito:
 
-* Per consentire l&#39;accesso all&#39; [!DNL Campaign] istanza da questo indirizzo IP
+* Per consentire l&#39;accesso all&#39;istanza Campaign da questo indirizzo IP
 * Per collegare un&#39;API al Centro messaggi o all&#39;istanza di marketing
 
 ## Accesso alle impostazioni dell&#39;istanza di Pannello di controllo Campaign
 
 Per accedere a Gestione sottodominio nel Pannello di controllo Campaign, vai a:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Selezione soluzioni: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** scheda > scheda **Impostazioni** istanze
+* [Home](https://experience.adobe.com/#/home) Experience Cloud  > Selezione soluzione: Campaign > scheda **Pannello di controllo Campaign** > scheda **Impostazioni** istanze
 
    o
 * Direttamente dall’URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
