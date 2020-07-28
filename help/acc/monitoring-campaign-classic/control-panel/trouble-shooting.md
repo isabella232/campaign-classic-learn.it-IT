@@ -20,26 +20,26 @@ ht-degree: 1%
 
 ## Accesso e homepage
 
-### Sintomo: Impossibile accedere a  Experience Cloud
+### Sintomo: Impossibile accedere al  Experience Cloud
 
 **Procedura:**
 L&#39;utente deve individuare il proprio ID organizzazione IMS (xxx). L&#39;amministratore deve aggiungere l&#39;utente al profilo di prodotto &quot;Campaign-xxx-Admins&quot; per ogni istanza da gestire. Se l&#39;utente è un amministratore di tutte le istanze, potrebbe comunque dover aggiungere se stesso come utenti.
 
-### Sintomo: I collegamenti nella  Experience Cloud Home per l&#39;accesso [!UICONTROL Control Panel] non vengono visualizzati per un utente
+### Sintomo: I collegamenti nella home del Experience Cloud  per accedere [!UICONTROL Control Panel] non vengono visualizzati per un utente
 
 **Causa:**
-Gli utenti non visualizzeranno i collegamenti finché non saranno stati aggiunti come utenti al profilo di prodotto _Campaign-xxx-Administrators/Admin_.
+Gli utenti non visualizzeranno i collegamenti finché non saranno stati aggiunti come utenti al profilo di prodotto &quot;Campaign-xxx-Administrators/Admin&quot;
 
 **Procedura:**
-L&#39;amministratore deve aggiungere l&#39;utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza da gestire. Se l&#39;utente è un amministratore di tutte le istanze, potrebbe comunque dover aggiungere se stesso come &quot;utenti.
+L&#39;amministratore deve aggiungere l&#39;utente al profilo di prodotto &quot;Campaign-xxx-Admins&quot; per ogni istanza da gestire. Se l&#39;utente è un amministratore di tutte le istanze, potrebbe comunque dover aggiungere se stesso come &quot;utenti.
 
 ### Sintomo: Un&#39;istanza non è elencata nella variabile [!UICONTROL Control Panel]
 
 **Causa:**
-Probabilmente l&#39;utente deve essere aggiunto come &quot;utente&quot; Profilo di prodotto _Campaign-xxx-Administrators/Admin_ per l&#39;istanza mancante
+Probabilmente l&#39;utente deve essere aggiunto come profilo di prodotto &quot;utente&quot; &quot;Campaign-xxx-Administrators/Admin&quot; per l&#39;istanza mancante
 
 **Procedura:**
-L&#39;amministratore deve aggiungere l&#39;utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza da gestire. Se l&#39;utente è un amministratore di tutte le istanze, potrebbe comunque dover aggiungere se stesso come &quot;utenti&quot;.
+L&#39;amministratore deve aggiungere l&#39;utente al profilo di prodotto &quot;Campaign-xxx-Admins&quot; per ogni istanza da gestire. Se l&#39;utente è un amministratore di tutte le istanze, potrebbe comunque dover aggiungere se stesso come &quot;utenti&quot;.
 
 ### Video utili
 
