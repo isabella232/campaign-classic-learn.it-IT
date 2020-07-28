@@ -24,7 +24,7 @@ Il Pannello di controllo Campaign consente di monitorare e gestire lo storage SF
 
 Per accedere a Gestione sottodominio in [!UICONTROL Control Panel], vai a:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** scheda > **[!UICONTROL Subdomains & Certificates]** scheda
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** scheda > **[!UICONTROL Subdomains & Certificates]** scheda
 
    o
 * Direttamente dall’URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
