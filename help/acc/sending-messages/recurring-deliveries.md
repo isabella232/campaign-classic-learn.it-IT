@@ -1,6 +1,6 @@
 ---
 title: Come impostare campagne e-mail ricorrenti e continue
-description: Questa esercitazione spiega come impostare una consegna periodica e continua e le differenze tra i due approcci in  Adobe Campaign Classic (ACC).
+description: Questa esercitazione spiega come impostare una distribuzione ricorrente e continua e le differenze tra i due approcci in Adobe Campaign Classic (ACC).
 feature: workflows
 topics: channel activities
 kt: 1560
