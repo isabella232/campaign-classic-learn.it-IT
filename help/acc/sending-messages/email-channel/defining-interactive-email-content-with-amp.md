@@ -1,6 +1,6 @@
 ---
 title: Definizione di contenuto e-mail interattivo con AMP
-description: Questo video spiega come configurare il contenuto dell’e-mail  Adobe Campaign Classic(ACC) in formato AMP.
+description: Questo video spiega come configurare il contenuto dell’e-mail Adobe Campaign Classic(ACC) in formato AMP.
 feature: Email Channel
 topics: Create and Send Email Deliveries
 kt: 3475
@@ -24,9 +24,9 @@ Attualmente è supportato da due provider di posta elettronica: Gmail e Outlook.
 
 >[!NOTE]
 >
-> Per poter inviare e-mail AMP dovrete registrare l&#39;indirizzo e-mail che state inviando con [Google](https://developers.google.com/gmail/ampemail/register) e [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook).
+>Per poter inviare e-mail AMP dovrete registrare l&#39;indirizzo e-mail che state inviando con [Google](https://developers.google.com/gmail/ampemail/register) e [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook).
 
-Il video seguente spiega come attivare AMP in  Adobe Campaign Classic e ne illustra l’utilizzo.
+Il video seguente spiega come attivare AMP in Adobe Campaign Classic e ne illustra l’utilizzo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
