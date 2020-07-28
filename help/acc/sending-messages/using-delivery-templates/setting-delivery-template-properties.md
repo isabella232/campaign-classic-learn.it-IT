@@ -1,6 +1,6 @@
 ---
-title: Impostazione delle proprietà del modello di consegna in  Adobe Campaign Classic
-description: Il seguente video mostra come impostare le proprietà del modello di consegna in  Adobe Campaign Classic e spiega in dettaglio ciascuna proprietà.
+title: Impostazione delle proprietà del modello di consegna in Adobe Campaign Classic
+description: Il seguente video mostra come impostare le proprietà del modello di consegna in Adobe Campaign Classic e spiega in dettaglio ciascuna proprietà.
 feature: Delivery Templates
 topics: Templates
 kt: 1981
