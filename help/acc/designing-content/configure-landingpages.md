@@ -1,6 +1,6 @@
 ---
-title: Come configurare le pagine di destinazione in  Adobe Campaign Classic
-description: ' Adobe Campaign Classic consente di progettare e ospitare una serie di pagine Web sul suo server, tra cui sondaggi online, centri preferenza, pagine di annullamento dell’iscrizione. Questo video illustra come navigare ''editor dell''applicazione Web del Adobe Campaign creando un centro preferenze.'
+title: Come configurare le pagine di destinazione in Adobe Campaign Classic
+description: Adobe Campaign Classic consente di progettare e ospitare diverse pagine Web sul server, tra cui sondaggi online, centri preferenza, pagine di annullamento dell’iscrizione. Questo video illustra come navigare 'editor dell'applicazione Web del Adobe Campaign creando un centro preferenze.
 feature: Landing Pages
 topics: Configure
 kt: 1562
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Come configurare le pagine di destinazione
 
- Adobe Campaign Classic consente di progettare e ospitare una serie di pagine Web sul suo server, tra cui sondaggi online, centri preferenza, pagine di annullamento dell’iscrizione.
+Adobe Campaign Classic consente di progettare e ospitare diverse pagine Web sul server, tra cui sondaggi online, centri preferenza, pagine di annullamento dell’iscrizione.
 
 Questo video illustra come navigare &#39;editor dell&#39;applicazione Web del Adobe Campaign creando un centro preferenze.
 
