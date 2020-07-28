@@ -29,7 +29,7 @@ ht-degree: 6%
 
 ## Accesso [!UICONTROL Control Panel]
 
-Per accedere al Pannello di controllo Campaign, andate  Experience Cloud Home: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Per accedere al Pannello di controllo Campaign, andate  Experience Cloud principale: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
