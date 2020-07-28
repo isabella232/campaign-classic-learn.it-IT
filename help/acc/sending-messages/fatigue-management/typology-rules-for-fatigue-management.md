@@ -1,6 +1,6 @@
 ---
-title: Come impostare la gestione dell'affaticamento utilizzando le regole di tipologia in  Adobe Campaign Classic
-description: La gestione della fatica controlla la frequenza e la quantità di messaggi per evitare l'eccessiva sollecitazione dei destinatari e viene spesso applicata utilizzando una regola di tipologia. Questo video spiega come implementare la gestione della fatica in  Adobe Campaign Classic sfruttando le regole di tipologia.
+title: Come impostare la gestione dell'affaticamento utilizzando le regole di tipologia in Adobe Campaign Classic
+description: La gestione della fatica controlla la frequenza e la quantità di messaggi per evitare l'eccessiva sollecitazione dei destinatari e viene spesso applicata utilizzando una regola di tipologia. Questo video spiega come implementare la gestione della fatica in Adobe Campaign Classic sfruttando le regole della tipologia.
 feature: Fatigue Management
 topics: null
 kt: 1564
@@ -26,7 +26,7 @@ In genere, una serie di regole *di* tipologia viene raggruppata all&#39;interno 
 
 Questo elimina i passaggi aggiuntivi durante la creazione di campagne e flussi di lavoro diversi, garantendo allo stesso tempo che il targeting della popolazione corretta sia coerente al momento giusto.
 
-Questo video spiega come implementare la gestione della fatica in  Adobe Campaign Classic sfruttando le regole di tipologia.
+Questo video spiega come implementare la gestione della fatica in Adobe Campaign Classic sfruttando le regole della tipologia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
