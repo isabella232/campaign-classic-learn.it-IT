@@ -11,7 +11,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '107'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 # Generazione e installazione di chiavi GPG per la crittografia dei dati
 
-Il Pannello di controllo Campaign consente di crittografare i dati provenienti dall&#39;istanza del Adobe Campaign . Scoprite come generare e installare una coppia di chiavi pubblica/privata in un&#39; [!DNL Campaign] istanza specifica per la crittografia dei dati in uscita.
+Il Pannello di controllo Campaign consente di crittografare i dati provenienti dall&#39;istanza del Adobe Campaign . Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza di Campaign per la crittografia dei dati in uscita.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
