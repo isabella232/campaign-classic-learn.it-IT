@@ -11,7 +11,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '89'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 # Decrittografare i dati
 
 L&#39;Pannello di controllo Campaign consente di decrittografare i dati esterni che entrano nelle istanze del Adobe Campaign  utilizzando una coppia di chiavi pubblica/privata.
-Scopri come creare una chiave pubblica e importarla e installarla in un’ [!DNL Campaign] istanza per la decrittazione dei dati in entrata.
+Scopri come creare una chiave pubblica e importarla e installarla in un&#39;istanza Campaign per la decrittazione dei dati in entrata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
 
