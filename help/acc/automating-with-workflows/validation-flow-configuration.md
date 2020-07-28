@@ -1,6 +1,6 @@
 ---
-title: Come configurare i flussi di lavoro di convalida in  Adobe Campaign Classic
-seo-title: Come configurare i flussi di lavoro di convalida in  Adobe Campaign Classic
+title: Come configurare i flussi di lavoro di convalida in Adobe Campaign Classic
+seo-title: Come configurare i flussi di lavoro di convalida in Adobe Campaign Classic
 description: ' Adobe Campaign offre diverse opzioni che consentono agli esperti di marketing di rivedere e fornire contenuti di distribuzione, target della campagna, estrazione dei dati e approvazioni del budget. Questa esercitazione spiega come configurare diversi flussi di lavoro di convalida dell''approvazione.'
 seo-description: In questo video viene illustrato come configurare e utilizzare un modello di consegna in ACCAdobe Campaign, i professionisti del marketing possono rivedere e fornire contenuti di consegna, target della campagna, estrazione dei dati e approvazioni del budget. Questa esercitazione spiega come configurare diversi flussi di lavoro di convalida dell'approvazione.
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
@@ -14,13 +14,13 @@ team: TM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
 
 
-# Come configurare i flussi di lavoro di convalida in  Adobe Campaign Classic
+# Come configurare i flussi di lavoro di convalida in Adobe Campaign Classic
 
  Adobe Campaign offre diverse opzioni che consentono agli esperti di marketing di rivedere e fornire contenuti di distribuzione, target della campagna, estrazione dei dati e approvazioni del budget.
 
@@ -35,7 +35,7 @@ Prima di abilitare i passaggi di approvazione, il team marketing deve definire i
 
 ## Configurazione delle approvazioni per le campagne  {#configuring-approvals-for-campaigns}
 
-Se disponete dello stesso set di revisori per tutte le consegne nel flusso di lavoro della campagna, sfrutterete le funzionalità di [!DNL Campaign] approvazione. Impostando approvazioni e revisori a livello di campagna, le attività di approvazione e i revisori verranno ridotti a ogni attività di distribuzione del flusso di lavoro una volta eseguito il flusso di lavoro.
+Se disponete dello stesso set di revisori per tutte le consegne del flusso di lavoro della campagna, sfrutterete le funzionalità di approvazione della campagna. Impostando approvazioni e revisori a livello di campagna, le attività di approvazione e i revisori verranno ridotti a ogni attività di distribuzione del flusso di lavoro una volta eseguito il flusso di lavoro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
