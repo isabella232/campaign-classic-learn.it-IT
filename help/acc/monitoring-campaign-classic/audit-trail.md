@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Come utilizzare la traccia di controllo
 
-[!UICONTROL Audit Trail] acquisisce, in tempo reale, un elenco completo delle azioni e degli eventi che si verificano all&#39;interno  Adobe Campaign. Le [!UICONTROL Audit Trail] funzioni includono un modo autonomo di accedere alla cronologia dei dati per rispondere a domande quali:
+La traccia di audit acquisisce, in tempo reale, un elenco completo delle azioni e degli eventi che si verificano all&#39;interno  Adobe Campaign. Le funzioni Audit Trail includono un modo autonomo di accedere a una cronologia di dati per rispondere a domande quali:
 
 * Cos&#39;è successo a un oggetto?
 * Chi l&#39;ha modificato per ultimo e quando?
@@ -26,9 +26,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->I sentieri di controllo richiedono Campaign Classic versione 19.1 o successiva
+>I sentieri di controllo richiedono la versione Campaign Classic 19.1 o successiva
 
-Verranno [!UICONTROL Audit Trail] registrate ed elencate le azioni degli operatori, ad esempio creazione, modifica ed eliminazione per flussi di lavoro, opzioni e schema di origine. Inoltre, per i flussi di lavoro vengono registrate le azioni seguenti:
+Il Audit Trail registra ed elenca le azioni degli operatori, come creazione, modifica ed eliminazione per flussi di lavoro, opzioni e schema di origine. Inoltre, per i flussi di lavoro vengono registrate le azioni seguenti:
 
 * Inizio
 * Pausa
