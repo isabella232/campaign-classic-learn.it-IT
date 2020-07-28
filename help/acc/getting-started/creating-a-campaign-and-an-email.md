@@ -1,6 +1,6 @@
 ---
 title: 'Creazione di una campagna e di un messaggio e-mail '
-description: In questo video viene illustrato come creare una campagna e un messaggio e-mail in  Adobe Campaign Classic.
+description: In questo video viene illustrato come creare una campagna e un’e-mail in Adobe Campaign Classic.
 feature: Email
 topics: Getting started
 kt: 2172
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 # Creazione di una campagna e di un messaggio e-mail
 
-In questo video viene illustrato come creare una campagna e un messaggio e-mail in  Adobe Campaign Classic.
+In questo video viene illustrato come creare una campagna e un’e-mail in Adobe Campaign Classic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
