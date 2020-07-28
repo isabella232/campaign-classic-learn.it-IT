@@ -1,5 +1,5 @@
 ---
-title: Configurazione di un modello di consegna in  Adobe Campaign Classic
+title: Configurazione di un modello di consegna in Adobe Campaign Classic
 description: Un modello può includere sistematicamente tipologie, mittenti e indirizzi di risposta, nonché blocchi di personalizzazione di base come la pagina mirror e i collegamenti di annullamento dell’iscrizione. Può anche includere contenuto, logo aziendale o firma e altre proprietà di consegna, come la validità delle risorse, le quantità batch e così via. Il seguente video illustra come configurare un modello per una distribuzione ad hoc.
 feature: Delivery Templates
 topics: Templates
