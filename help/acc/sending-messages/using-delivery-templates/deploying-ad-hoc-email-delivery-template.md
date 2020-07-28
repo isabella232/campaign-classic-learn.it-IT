@@ -1,5 +1,5 @@
 ---
-title: Distribuzione di un modello di consegna e-mail ad hoc in  Adobe Campaign Classic
+title: Distribuzione di un modello di consegna e-mail ad hoc in Adobe Campaign Classic
 description: 'Questo video spiega come distribuire un modello di consegna e-mail ad hoc e spiega la differenza tra una consegna e-mail e un flusso di lavoro di consegna. '
 feature: Delivery Templates
 topics: Templates
