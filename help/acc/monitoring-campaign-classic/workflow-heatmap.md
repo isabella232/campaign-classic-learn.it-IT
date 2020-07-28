@@ -24,13 +24,13 @@ La HeatMap del flusso di lavoro consente agli amministratori della piattaforma d
 
 * Visualizzare e comprendere flussi di lavoro simultanei
 * Filtrare i flussi di lavoro per durata per vedere quali flussi di lavoro potrebbero incontrare problemi
-* Trova facilmente flussi di lavoro singoli e tutte le attività correlate (con la loro durata)
+* Trova facilmente flussi di lavoro individuali e tutte le attività correlate (con la loro durata)
 
 * Ricerca per tipo di flusso di lavoro (flussi di lavoro[](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows) tecnici o flussi di lavoro [di](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows)campagna)
 
 * Cercare un flusso di lavoro specifico da analizzare
 
-Nota: Questa funzione è disponibile solo  Adobe Campaign Classic V7 (build 18.11.1)
+Nota: Questa funzione è disponibile solo a partire da Adobe Campaign Classic V7 (build 18.11.1)
 
 >[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12)
 
