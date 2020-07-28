@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Per accedere alla Gestione SFTP nel Pannello di controllo Campaign, vai a:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Selezione soluzioni: **[!DNL Campaign]** > scheda **Pannello di controllo Campaign** > scheda **SFTP**
+* [Home](https://experience.adobe.com/#/home) Experience Cloud  > Selezione soluzione: Campaign > scheda **Pannello di controllo Campaign** > scheda **SFTP**
 
    o
 * Direttamente dall’URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
