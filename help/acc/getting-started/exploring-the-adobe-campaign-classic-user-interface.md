@@ -1,6 +1,6 @@
 ---
-title: Esplora l'interfaccia utente di  Adobe Campaign Classic
-description: In questa lezione viene illustrata l'interfaccia utente principale  Adobe Campaign Classic e viene illustrato come navigare con le funzionalità principali.
+title: Esplora l'interfaccia utente di Adobe Campaign Classic
+description: Questa lezione illustra l’interfaccia utente principale di Adobe Campaign Classic e illustra come navigare tra le funzionalità principali.
 feature: User Interface
 topics: Getting started
 kt: 5009
@@ -18,9 +18,9 @@ ht-degree: 2%
 ---
 
 
-# Esplora l&#39;interfaccia utente di  Adobe Campaign Classic
+# Esplora l&#39;interfaccia utente di Adobe Campaign Classic
 
-In questa lezione viene illustrata l&#39;interfaccia utente principale  Adobe Campaign Classic e viene illustrato come navigare con le funzionalità principali.
+Questa lezione illustra l’interfaccia utente principale di Adobe Campaign Classic e illustra come navigare tra le funzionalità principali.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
 
