@@ -1,6 +1,6 @@
 ---
 title: Come configurare le attività di arricchimento
-seo-title: Come configurare le attività di arricchimento in  Adobe Campaign Classic
+seo-title: Come configurare le attività di arricchimento in Adobe Campaign Classic
 description: Un'attività di arricchimento è un oggetto del flusso di lavoro che consente all'utente di aggiungere dati alla tabella di lavoro. Con un arricchimento, è possibile aggiungere colonne a tale tabella per contenere dati aggiuntivi OPPURE definire nuovi collegamenti da tale tabella di lavoro ad altri dati esistenti.  Questo video spiega come configurare un’attività di arricchimento in base alle informazioni del registro di distribuzione.
 seo-description: Un'attività di arricchimento è un oggetto del flusso di lavoro che consente all'utente di aggiungere dati alla tabella di lavoro. Con un arricchimento, è possibile aggiungere colonne a tale tabella per contenere dati aggiuntivi OPPURE definire nuovi collegamenti da tale tabella di lavoro ad altri dati esistenti.   Questo video spiega come configurare un’attività di arricchimento in base alle informazioni del registro di distribuzione.
 uuid: 544128b9-9912-4ba7-8910-ad11a26a73ff
