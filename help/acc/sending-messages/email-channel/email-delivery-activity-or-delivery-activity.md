@@ -1,5 +1,5 @@
 ---
-title: Attività di distribuzione tramite e-mail e attività di consegna in  Adobe Campaign Classic
+title: Attività di distribuzione tramite e-mail e distribuzione in Adobe Campaign Classic
 description: In questo video viene illustrato come configurare e utilizzare un modello di consegna.
 feature: Delivery Templates
 topics: Templates
