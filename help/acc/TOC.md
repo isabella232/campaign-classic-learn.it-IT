@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentazione
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '323'
 ht-degree: 3%
 
 ---
@@ -26,13 +26,13 @@ ht-degree: 3%
    + [Esplorazione dell’interfaccia utente di Adobe Campaign Classic](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Gestione di campagne di marketing](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [Creazione di un piano di marketing, programmi e campagne](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Creazione di una campagna e di un messaggio e-mail](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
-   + [Creazione di un elenco di destinatari](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [Creazione di un flusso di lavoro](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [Creazione di una campagna e di un messaggio e-mail](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
    + [Targeting dei profili in un flusso di lavoro](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Gestione profili {#profile-management}
    + [Creazione e gestione di profili](/help/acc/profile-management/create-and-manage-profiles.md)
    + [Importazione di profili](/help/acc/data-management/importing-profiles.md)
+   + [Creazione di un elenco di destinatari](/help/acc/profile-management/creating-a-list-of-recipients.md)
+   + [Creazione di un elenco di destinatari con un flusso di lavoro](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Invio di messaggi{#sending-messages}
    + Canale e-mail{#email-channel}
       + [Creazione di una campagna e di un messaggio e-mail](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
@@ -85,5 +85,5 @@ ht-degree: 3%
          + [Decrittografare i dati](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Risoluzione dei problemi del Pannello di controllo Campaign](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Accesso a un database esterno (FDA) {#fda}
-      + [Big data management su  Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [Gestione dei grandi dati su [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
