@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentazione
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: 2edcee1cd0ecf0dd34b7320a532ab79e6d9823ee
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '329'
 ht-degree: 3%
 
 ---
@@ -53,6 +53,8 @@ ht-degree: 3%
       + [Utilizzo di filtri predefiniti](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + Orchestrazione di campagne {#orchestration}
    + [Creazione di campagne multicanale](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
++ Reporting
+   + [Generazione di un rapporto di analisi descrittivo](/help/acc/reporting/generating-a-descriptive-analysis-report.md)
 + Automatizzazione con il flusso di lavoro{#automating-with-workflows}
    + [Creazione di un flusso di lavoro](/help/acc/automating-with-workflows/creating-a-workflow.md)
    + [Creazione di un flusso di lavoro di targeting](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
