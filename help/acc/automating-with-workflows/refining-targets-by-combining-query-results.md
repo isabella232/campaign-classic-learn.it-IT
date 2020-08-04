@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '111'
 ht-degree: 4%
 
 ---
@@ -28,11 +28,11 @@ Scoprite come perfezionare la destinazione combinando i risultati della query in
 Documentazione:
 
 * [Informazioni sui flussi di lavoro](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-* [Intersezione](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
-* [Unione](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
+* [Intersection](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
+* [Union](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
 Esercitazioni:
 
 * [Targeting dei profili in un flusso di lavoro](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 * [Ottimizzazione delle destinazioni mediante l&#39;esclusione dei risultati delle query](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [Creazione di elenchi con un flusso di lavoro](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+* [Utilizzo dell&#39;attività di aggiornamento elenco per creare un elenco con un flusso di lavoro](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
