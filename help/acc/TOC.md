@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentazione
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: c7505e00eaf83336a2fdd76f489674928ea22b85
+source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '346'
 ht-degree: 3%
 
 ---
@@ -58,6 +58,9 @@ ht-degree: 3%
 + Automatizzazione con il flusso di lavoro{#automating-with-workflows}
    + [Creazione di un flusso di lavoro](/help/acc/automating-with-workflows/creating-a-workflow.md)
    + [Creazione di un flusso di lavoro di targeting](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
+   + [Ottimizzazione delle destinazioni combinando i risultati delle query](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
+   + [Ottimizzazione delle destinazioni mediante l&#39;esclusione dei risultati delle query](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+   + [Creazione di elenchi con un flusso di lavoro](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
    + [Configurazione dei flussi di lavoro di convalida](/help/acc/automating-with-workflows/validation-flow-configuration.md)
    + [Configurare le attività di arricchimento](/help/acc/automating-with-workflows/enrichment-activity.md)
    + [Segmentazione dei dati](/help/acc/data-management/data-segmentation.md)
