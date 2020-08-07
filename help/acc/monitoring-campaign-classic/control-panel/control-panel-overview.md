@@ -1,8 +1,8 @@
 ---
 title: Pannello di controllo Campaign
 seo-title: Pannello di controllo Campaign
-description: Il Pannello di controllo Campaign consente di monitorare e gestire lo storage SFTP per istanza e  indirizzi IP del elenco consentiti.
-seo-description: Il Pannello di controllo Campaign consente di monitorare e gestire lo storage SFTP per istanza e  indirizzi IP del elenco consentiti.
+description: Il Pannello di controllo Campaign ti consente di monitorare e gestire lo storage SFTP per istanza e di aggiungere indirizzi IP all’elenco Consentiti.
+seo-description: Il Pannello di controllo Campaign ti consente di monitorare e gestire lo storage SFTP per istanza e di aggiungere indirizzi IP all’elenco Consentiti.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 37c36a52fb6fc7a5ccfe5d82dc9a32397b9a7d89
+source-git-commit: ca3b7933927914b9965f6f059293041dd1db1da2
 workflow-type: tm+mt
-source-wordcount: '441'
-ht-degree: 6%
+source-wordcount: '419'
+ht-degree: 76%
 
 ---
 
@@ -22,19 +22,19 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->I termini &quot;[!UICONTROL whitelist]&quot; e &quot;[!UICONTROL blacklist]&quot; sono stati sostituiti da &quot;[!UICONTROL allow list]&quot; e &quot;[!UICONTROL block list]&quot; nella documentazione del Adobe Campaign .
->Alcune occorrenze di questi termini possono ancora essere presenti nell&#39;interfaccia utente del prodotto, nei nomi delle opzioni, nel codice interno e nei video delle esercitazioni. Saranno sostituiti nelle prossime release di Pannello di controllo Campaign.
+>I termini “[!UICONTROL whitelist]” e “[!UICONTROL blacklist]” sono stati sostituiti da “[!UICONTROL allow list]” e “[!UICONTROL block list]” nella documentazione di Adobe Campaign.
+>Alcune occorrenze di questi termini possono ancora essere presenti nell’interfaccia utente del prodotto, nei nomi delle opzioni, nel codice interno e nei video tutorial. Tali termini saranno sostituiti nelle prossime versioni del Pannello di controllo Campaign.
 
- amministratori di Adobe Campaign [!UICONTROL Control Panel] possono monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire lo storage SFTP per istanza o indirizzi [!UICONTROL allow list] IP.
+ Il [!UICONTROL Control Panel] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio la gestione dello storage SFTP per istanza o [!UICONTROL allow list] di indirizzi IP.
 
-## Accesso [!UICONTROL Control Panel]
+## Accesso a [!UICONTROL Control Panel]
 
-Per accedere al Pannello di controllo Campaign, andate  Experience Cloud principale: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Per accedere al Pannello di controllo Campaign, vai alla home di Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
    o
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]card **
+* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > scheda **[!UICONTROL Control Panel]**
 
    o
 
@@ -42,22 +42,22 @@ Per accedere al Pannello di controllo Campaign, andate  Experience Cloud princip
 
 ## Prerequisiti
 
-Prima di iniziare, completate i seguenti prerequisiti:
+Prima di iniziare, completa i seguenti prerequisiti:
 
 ### Conferma [!DNL IMS Org ID]
 
-Deve sapere il suo [!DNL IMS org ID]. Il seguente video descrive le aree in cui è possibile eseguire ricerche nell’istanza [!DNL IMS org ID].
+Devi conoscere il tuo [!DNL IMS org ID]. Il seguente video descrive le aree in cui puoi ricercare l’[!DNL IMS org ID] della tua istanza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Check[!DNL IMS Org ID](00:26 min)*
+*Controllare l’[!DNL IMS Org ID](00:26 min)*
 
 ### Diritti di amministratore
 
 I diritti di amministratore sono necessari per accedere al [!UICONTROL Control Panel].
-Nel video seguente viene illustrato come aggiungere un amministratore a un&#39;istanza Campaign
+Nel video seguente viene illustrato come aggiungere un amministratore a un’istanza di Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Come aggiungere un amministratore al profilo di prodotto &quot;[!UICONTROL Administrators]&quot; per poter utilizzare[!UICONTROL Control Panel](01:03 min)*
+*Come aggiungere un amministratore al profilo di prodotto “[!UICONTROL Administrators]” per poter utilizzare il[!UICONTROL Control Panel](01:03 min)*
 
 ## [!UICONTROL Control Panel] esercitazioni
 
@@ -65,21 +65,17 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un&#39;i
 
    *Scopri come monitorare la capacità del server, gli indirizzi[!UICONTROL allow list]IP e aggiungere le chiavi SSH*
 
-   * [Monitoraggio della capacità del server, abilitazione dell&#39;elenco di indirizzi IP e aggiunta di chiavi SSH](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+   * [Monitoraggio della capacità del server, aggiunta di indirizzi IP all’elenco Consentiti e aggiunta di chiavi SSH](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Generazione di una chiave SSH](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
    * [Connessione a un server SFTP](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
 
 * **[Delega di sottodomini](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
-   *Scopri come delegare completamente un sottodominio a[!UICONTROL Adobe Campaign]*
+   *Scopri come delegare interamente un sottodominio ad[!UICONTROL Adobe Campaign]*
 
 * **[Aggiunta di certificati SSL](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
 
    *Scoprite come aggiungere certificati SSL per proteggere i sottodomini utilizzando il Pannello di controllo Campaign.*
-
-* **[Gestione dei certificati SSL](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)**
-
-   *Scopri come visualizzare lo stato dei certificati SSL dei tuoi sottodomini, nonché come richiedere rinnovi.*
 
 * **[Aggiunta di autorizzazioni URL](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
 
@@ -93,13 +89,13 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un&#39;i
 
    *Scopri come aggiungere il record di verifica[!DNL Google TXT]del sito a tutti i sottodomini utilizzati per inviare e-mail agli[!DNL GMAIL]indirizzi tramite[!UICONTROL Campaign Control Panel].*
 
-* **Gestione chiavi GPG**
+* **Gestione chiave GPG**
 
-   *Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza Campaign per la crittografia dei dati in uscita, nonché come importare e installare una chiave pubblica in un&#39;istanza Campaign per la decrittazione dei dati in entrata:*
+   *Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza di Campaign per la crittografia dei dati in uscita e come importare e installare una chiave pubblica in un’istanza di Campaign per la decrittografia dei dati in entrata:*
 
-   * [Generazione e installazione di chiavi GPG per la crittografia dei dati](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-   * [Utilizzo di una chiave GPG per cifrare i dati](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-   * [Decrittografare i dati](./gpg-key-management/decrypting-data.md)
+   * [Generazione e installazione delle chiavi GPG per la crittografia dei dati](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [Utilizzo di una chiave GPG per crittografare i dati](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [Decrittografia dei dati](./gpg-key-management/decrypting-data.md)
 
 * **[Risoluzione dei problemi relativi al pannello di controllo](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)**
 
@@ -107,4 +103,4 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un&#39;i
 
 ## Risorse aggiuntive
 
-* [Pannello di controllo Campaign Help Center](https://docs.adobe.com/content/help/it-IT/control-panel/using/control-panel-home.html)
+* [Centro assistenza del Pannello di controllo Campaign](https://docs.adobe.com/content/help/it-IT/control-panel/using/control-panel-home.html)
