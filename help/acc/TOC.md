@@ -10,15 +10,15 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentazione
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
+source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 3%
+source-wordcount: '350'
+ht-degree: 19%
 
 ---
 
 
-# Tutorials Adobe Campaign Classic {#tutorials}
+# Adobe Campaign Classic Tutorials {#tutorials}
 
 + [Panoramica](/help/acc/overview.md)
 + Getting Started {#getting-started}
@@ -48,7 +48,7 @@ ht-degree: 3%
       + [Configurazione di un modello di consegna](/help/acc/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Impostazione delle proprietà del modello di consegna](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Distribuzione di un modello di consegna e-mail ad hoc](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + Fatigue Management{#fatigue-management}
+   + Gestione dell’affaticamento{#fatigue-management}
       + [Utilizzo delle regole di tipologia](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Utilizzo di filtri predefiniti](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + Orchestrazione di campagne {#orchestration}
@@ -73,21 +73,20 @@ ht-degree: 3%
    + [Come integrare Dynamics 365 con Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
 + Amministrazione {#administrating}
    + Pannello di controllo Campaign {#control-panel-acc}
-      + [Panoramica Pannello di controllo Campaign](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [Monitoraggio della capacità del server, abilitazione dell&#39;elenco di indirizzi IP e aggiunta di chiavi SSH](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+      + [Panoramica del Pannello di controllo Campaign](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
+      + [Monitoraggio della capacità del server, aggiunta di indirizzi IP all’elenco Consentiti e aggiunta di chiavi SSH](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Generazione di una chiave SSH](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
       + [Connessione a un server SFTP](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
       + [Delega di sottodomini](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
       + [Aggiunta di certificati SSL](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [Gestione dei certificati SSL](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
       + [Aggiunta di autorizzazioni URL](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
       + [IP allow list for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Gestione dei record TXT di Google](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-      + Gestione chiavi GPG {#gpg-key-management}
-         + [Gestione chiavi GPG - panoramica](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [Generazione e installazione di chiavi GPG per la crittografia dei dati](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [Utilizzo di una chiave GPG per cifrare i dati](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [Decrittografare i dati](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
+      + Gestione chiave GPG {#gpg-key-management}
+         + [Gestione chiave GPG - panoramica](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [Generazione e installazione delle chiavi GPG per la crittografia dei dati](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [Utilizzo di una chiave GPG per crittografare i dati](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+         + [Decrittografia dei dati](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Risoluzione dei problemi del Pannello di controllo Campaign](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Accesso a un database esterno (FDA) {#fda}
       + [Gestione dei grandi dati su [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
