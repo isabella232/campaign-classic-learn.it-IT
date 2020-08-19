@@ -1,6 +1,6 @@
 ---
-title: Come utilizzare la traccia di controllo
-description: 'La traccia di audit acquisisce, in tempo reale, un elenco completo delle azioni e degli eventi che si verificano all''interno  Adobe Campaign. '
+title: Utilizzare Audit Trail
+description: 'Audit Trail acquisisce in tempo reale un elenco completo delle azioni e degli eventi che si verificano all’interno di Adobe Campaign. '
 feature: Audit Trail
 topics: Monitoring and Guardrails
 kt: 2835
@@ -10,37 +10,37 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 0%
+source-wordcount: '161'
+ht-degree: 100%
 
 ---
 
 
-# Come utilizzare la traccia di controllo
+# Utilizzare Audit Trail
 
-La traccia di audit acquisisce, in tempo reale, un elenco completo delle azioni e degli eventi che si verificano all&#39;interno  Adobe Campaign. Le funzioni Audit Trail includono un modo autonomo di accedere a una cronologia di dati per rispondere a domande quali:
+[!UICONTROL Audit Trail] acquisisce in tempo reale un elenco completo delle azioni e degli eventi che si verificano all’interno di Adobe Campaign. Le funzioni di [!UICONTROL Audit Trail] includono una modalità autonoma di accedere alla cronologia dei dati per poter rispondere a domande quali:
 
-* Cos&#39;è successo a un oggetto?
-* Chi l&#39;ha modificato per ultimo e quando?
+* Cos’è successo a un oggetto?
+* Chi l’ha modificato l’ultima volta e quando?
 * Qual era lo stato precedente?
 
 >[!NOTE]
 >
->I sentieri di controllo richiedono la versione Campaign Classic 19.1 o successiva
+>Audit Trail necessita della versione 19.1 o successiva di Campaign Classic
 
-Il Audit Trail registra ed elenca le azioni degli operatori, come creazione, modifica ed eliminazione per flussi di lavoro, opzioni e schema di origine. Inoltre, per i flussi di lavoro vengono registrate le azioni seguenti:
+[!UICONTROL Audit Trail] registra ed elenca le azioni dell’operatore, ad esempio creazione, modifica ed eliminazione per flussi di lavoro, opzioni e schema di origine. Inoltre, per i flussi di lavoro in particolare vengono registrate le azioni seguenti:
 
 * Inizio
 * Pausa
-* Interrompi
-* Riavvia
+* Interruzione
+* Riavvio
 * Pulizia
-* Simulare
-* Wakeup
-* Arresto incondizionato
+* Simulazione
+* Attivazione
+* Arresto totale
 
-Il video seguente descrive la posizione di accesso ai registri di audit trail e le impostazioni che è possibile configurare.
+Il video seguente spiega dove accedere ai registri di Audit Trail e quali impostazioni è possibile configurare.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-Per ulteriori informazioni, consulta la [Documentazione](https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html)audit trail.
+Per ulteriori informazioni, consulta la [documentazione di Audit Trail](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).
