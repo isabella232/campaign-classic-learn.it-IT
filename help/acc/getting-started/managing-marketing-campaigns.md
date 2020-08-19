@@ -1,6 +1,6 @@
 ---
-title: Gestione di campagne di marketing
-description: Comprendi i concetti chiave di  Adobe Campaign che aiutano a pianificare, eseguire e misurare efficacemente le campagne di marketing su più canali.
+title: Gestione delle campagne di marketing
+description: Scopri i concetti chiave di Adobe Campaign per pianificare, eseguire e misurare in modo efficace le campagne di marketing su più canali.
 feature: null
 topics: Getting started
 kt: 5077
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: cf282ccae57a2bbdb28546592757300c1bebc32e
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Gestione di campagne di marketing
+# Gestione delle campagne di marketing
 
-Comprendi i concetti chiave di [!UICONTROL Adobe Campaign] che aiutano a pianificare, eseguire e misurare efficacemente le campagne di marketing su più canali.
+Scopri i concetti chiave di [!UICONTROL Adobe Campaign] per pianificare, eseguire e misurare in modo efficace le campagne di marketing su più canali.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12)
