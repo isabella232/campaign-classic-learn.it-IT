@@ -12,16 +12,16 @@ translation-type: tm+mt
 source-git-commit: 8bd36a13c027138f9555ea800f6f435b135f1e8c
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 1%
+ht-degree: 48%
 
 ---
 
 
 # Personalizzazione di e-mail mediante blocchi di contenuto dinamici
 
-In  Adobe Campaign, puoi personalizzare il contenuto o l&#39;aspetto dei messaggi e combinarli con i criteri dei profili dei destinatari.
+In Adobe Campaign puoi personalizzare il contenuto o l’aspetto dei messaggi e combinarli con i criteri dei profili dei destinatari.
 
-Un blocco di personalizzazione è dinamico, personalizzato e contiene codice di rendering specifico che può essere aggiunto alle consegne. Ad esempio, potete aggiungere immagini, intestazioni e-mail, piè di pagina delle e-mail, collegamenti alle pagine mirror, collegamenti per annullare l’iscrizione e molto altro.
+Un blocco di personalizzazione è dinamico, personalizzato e contiene un codice di rendering specifico che può essere aggiunto alle consegne. Ad esempio puoi aggiungere immagini, intestazioni e piè di pagina per i messaggi di posta elettronica, collegamenti alle pagine mirror, collegamenti per annullare l’iscrizione e molto altro.
 
 Scoprite come creare blocchi di contenuto dinamici e come utilizzarli per personalizzare il contenuto della distribuzione delle e-mail.
 
@@ -31,8 +31,8 @@ Scoprite come creare blocchi di contenuto dinamici e come utilizzarli per person
 
 Documentazione:
 
-* [Informazioni sulla personalizzazione](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* (Blocchi[di personalizzazione](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
+* [Informazioni sulla personalizzazione](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* ([Blocchi di personalizzazione](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 Tutorials video:
 
