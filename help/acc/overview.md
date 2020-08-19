@@ -1,50 +1,50 @@
 ---
-title: Tutorials Adobe Campaign Classic - Panoramica
-description: ' Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente multicanale e fornisce un ambiente per l''orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l''esecuzione tra canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e funzionalità di  Adobe Campaign Standard.'
+title: ' Esercitazioni Adobe Campaign Classic - Panoramica'
+description: ' Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.'
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
 source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 2%
+ht-degree: 92%
 
 ---
 
 
 # Panoramica
 
- Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente multicanale e fornisce un ambiente per l&#39;orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l&#39;esecuzione tra canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e funzionalità di Adobe Campaign Classic.
+ Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Classic.
 
 ## Novità
 
-* **[Gestione chiavi GPG](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Gestione delle chiavi GPG](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Scopri come generare e installare una coppia di chiavi pubblica/privata in un&#39;[!UICONTROL Campaign]istanza specificata per la crittografia dei dati in uscita, nonché come importare e installare una chiave pubblica in un&#39;istanza Campaign per la decrittazione dei dati in ingresso.*
+   *Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza[!UICONTROL Campaign]per la crittografia dei dati in uscita, nonché come importare e installare una chiave pubblica in un’istanza Campaign per la decrittografia dei dati in ingresso.*
 
-* **[Delega di sottodomini (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
+* **[Delega dei sottodomini (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
-   *Scopri come delegare completamente un sottodominio a  Adobe Campaign.*
+   *Scopri come delegare completamente un sottodominio ad Adobe Campaign.*
 
-* **[Definizione di contenuto e-mail interattivo con AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
+* **[Definizione del contenuto delle e-mail interattive con AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
 
-   *Scoprite come configurare il contenuto dell’e-mail Adobe Campaign Classic(ACC) in formato AMP.*
+   *Scopri come configurare il contenuto delle e-mail Adobe Campaign Classic (ACC) in formato AMP.*
 
-## Prezzi del personale
+## Tutorial scelti dal personale
 
 <table>
 <tr>
   <td>
     <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-      <img alt="Heatmap del flusso di lavoro (video)" src="./assets/workflow-heatmap.png"/>
+      <img alt="Workflow Heatmap (video)" src="./assets/workflow-heatmap.png"/>
     </a>
     <div>
       <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-    <strong>Heatmap flusso di lavoro</strong>
+    <strong>Workflow Heatmap</strong>
     </a>
     </div>
     <p>
-    <em>Ottenete una panoramica del numero di flussi di lavoro simultanei.</em>
+    <em>Visualizza una panoramica del numero di flussi di lavoro simultanei.</em>
     <p>
   </td>
    <td>
@@ -57,7 +57,7 @@ ht-degree: 2%
     </a>
     </div> 
     <p>
-    <em>Acquisite un elenco completo delle azioni e degli eventi che si verificano all'interno  Adobe Campaign.</em>
+    <em>Acquisisci un elenco completo delle azioni e degli eventi che si verificano all’interno di Adobe Campaign.</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ ht-degree: 2%
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-    <strong>Definizione di contenuto e-mail interattivo con AMP</strong>
+    <strong>Definizione del contenuto delle e-mail interattive con AMP</strong>
     </a>
     </div>
     <p>
@@ -78,4 +78,4 @@ ht-degree: 2%
 
 ## Risorse aggiuntive
 
-* [Documentazione](https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)
+* [Documentazione](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html)
