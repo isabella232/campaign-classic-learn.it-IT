@@ -1,6 +1,6 @@
 ---
-title: Definizione di contenuto e-mail interattivo con AMP
-description: Questo video spiega come configurare il contenuto dell’e-mail Adobe Campaign Classic(ACC) in formato AMP.
+title: Definizione del contenuto delle e-mail interattive con AMP
+description: Questo video spiega come configurare il contenuto delle e-mail Adobe Campaign Classic (ACC) in formato AMP.
 feature: Email Channel
 topics: Create and Send Email Deliveries
 kt: 3475
@@ -12,20 +12,20 @@ translation-type: tm+mt
 source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Definizione di contenuto e-mail interattivo con AMP
+# Definizione del contenuto delle e-mail interattive con AMP
 
-AMP for Email è un nuovo formato open source che consente agli sviluppatori di creare e-mail dinamiche e interattive. Grazie alle moderne funzionalità delle app disponibili direttamente nelle e-mail, i destinatari possono interagire in modo dinamico con il contenuto del messaggio stesso.
+AMP for Email è un nuovo formato open source che consente agli sviluppatori di creare e-mail dinamiche e interattive. Grazie alle funzionalità moderne dell’app disponibili direttamente nelle e-mail, i destinatari possono interagire in modo dinamico con il contenuto all’interno del messaggio stesso.
 
-Attualmente è supportato da due provider di posta elettronica: Gmail e Outlook.
+Attualmente il formato è supportato da due provider di posta elettronica: Gmail e Outlook.
 
 >[!NOTE]
 >
->Per poter inviare e-mail AMP dovrete registrare l&#39;indirizzo e-mail che state inviando con [Google](https://developers.google.com/gmail/ampemail/register) e [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook).
+>Per poter inviare e-mail AMP è necessario registrare l’indirizzo e-mail da cui intendi inviarle con [Google](https://developers.google.com/gmail/ampemail/register) e [Microsoft](https://docs.microsoft.com/it-IT/outlook/amphtml/register-outlook).
 
 Il video seguente spiega come attivare AMP in Adobe Campaign Classic e ne illustra l’utilizzo.
 
@@ -33,5 +33,5 @@ Il video seguente spiega come attivare AMP in Adobe Campaign Classic e ne illust
 
 ## Risorse aggiuntive
 
-* [Documentazione](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)
+* [Documentazione](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)
 * [Editor AMP](https://playground.amp.dev/)
