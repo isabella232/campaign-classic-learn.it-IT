@@ -1,6 +1,6 @@
 ---
-title: Monitoraggio della capacità del server, abilitazione dell'elenco di indirizzi IP e aggiunta di chiavi SSH
-description: Il Pannello di controllo Campaign consente di monitorare e gestire lo storage SFTP per istanza e  indirizzi IP del elenco consentiti.
+title: Monitoraggio della capacità del server, inserimento di indirizzi IP nell’elenco Consentiti e aggiunta di chiavi SSH
+description: Il Pannello di controllo Campaign consente di monitorare e gestire l’archiviazione SFTP per istanza e di inserire indirizzi IP nell’elenco Consentiti.
 feature: SFTP Server allow listing
 topics: Control Panel
 kt: 3266
@@ -11,43 +11,43 @@ translation-type: tm+mt
 source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Monitoraggio della capacità del server, indirizzi [!UICONTROL allow listing] IP e aggiunta di chiavi SSH
+# Monitoraggio della capacità del server, [!UICONTROL allow listing] degli indirizzi IP e aggiunta di chiavi SSH
 
-Il Pannello di controllo Campaign consente di monitorare e gestire lo storage SFTP per istanza e di aggiungere indirizzi [!UICONTROL allow listing]IP.
+Il Pannello di controllo Campaign consente di monitorare e gestire l’archiviazione SFTP per istanza e di aggiungere l’[!UICONTROL allow listing] degli indirizzi IP.
 
-## Accesso a Gestione dei [!UICONTROL Control Panel] sottodomini
+## Accesso alla gestione dei sottodomini del [!UICONTROL Control Panel]
 
-Per accedere a Gestione sottodominio in [!UICONTROL Control Panel], vai a:
+Per accedere alla gestione dei sottodomini nel [!UICONTROL Control Panel], vai a:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** scheda > **[!UICONTROL Subdomains & Certificates]** scheda\
+* [Home di Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: **[!DNL Campaign]** > scheda **[!UICONTROL Control Panel]** > scheda **[!UICONTROL Subdomains & Certificates]**\
    o
 * Direttamente dall’URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Monitorare la capacità del server, gli indirizzi [!UICONTROL allow list] IP e aggiungere chiavi SSH
+## Monitorare la capacità del server, [!UICONTROL allow list] gli indirizzi IP e aggiungere chiavi SSH
 
-Questo video spiega come accedere [!UICONTROL Adobe Campaign Control Panel], monitorare lo storage dei server SFTP, [!UICONTROL allow list] un indirizzo IP e aggiungere una chiave SSH.
+Questo video spiega come accedere ad [!UICONTROL Adobe Campaign Control Panel], monitorare l’archiviazione dei server SFTP, [!UICONTROL allow list] un indirizzo IP e aggiungere una chiave SSH.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
 
-### Descrizioni interfaccia
+### Descrizioni dell’interfaccia
 
-**Istanze:** Vengono elencate solo le istanze per le quali disponete dei diritti di amministratore.
+**Istanze:** vengono elencate solo le istanze per le quali disponi dei diritti di amministratore.
 
-**Registri processo:** Vengono elencati solo i processi eseguiti nell’ [!UICONTROL Control Panel] elenco. I processi eseguiti al di fuori di [!UICONTROL Control Panel] non sono inclusi (ad esempio, flussi di lavoro in esecuzione, ecc.)
+**Registri di lavoro:** vengono elencati solo i lavori eseguiti nel [!UICONTROL Control Panel]. I lavori eseguiti al di fuori del [!UICONTROL Control Panel] non sono inclusi (ad esempio flussi di lavoro in esecuzione, ecc.)
 
-I registri includono solo i processi eseguiti dagli amministratori dell’organizzazione. Se sono presenti diverse organizzazioni, i registri di altre organizzazioni non verranno visualizzati
+I registri includono solo i lavori eseguiti dagli amministratori dell’organizzazione. Se sono presenti più organizzazioni, i registri di queste ultime non verranno visualizzati nei Registri di lavoro
 
-**Scheda Archiviazione:** L&#39;intestazione mostra i primi tre server più utilizzati, se si dispone di più di 3 server è possibile vedere il resto nella [!UICONTROL Storage] scheda.
+**Scheda Storage (archiviazione):** l’intestazione mostra i tre server più utilizzati. Se disponi di più di 3 server, puoi visualizzare gli altri nella scheda [!UICONTROL Storage].
 
 **Messaggio di avviso:**
 
-* Arancione - il server è utilizzato all&#39;80%
-* Rosso - server utilizzato al 90%
+* Arancione - il server è utilizzato all’80%
+* Rosso - il server è utilizzato al 90%
 
 ## Risorse aggiuntive
 
