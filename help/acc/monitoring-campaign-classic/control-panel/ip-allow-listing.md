@@ -1,8 +1,8 @@
 ---
-title: IP allow list for Instance Access
-seo-title: IP allow list for Instance Access
-description: Il video seguente spiega come impostare nuove connessioni alle istanze consentendo l'elencazione degli intervalli di indirizzi IP.
-seo-description: Il video seguente spiega come impostare nuove connessioni alle istanze consentendo l'elencazione degli intervalli di indirizzi IP.
+title: Inserimento degli IP nell’elenco Consentiti per l’accesso alle istanze
+seo-title: Inserimento degli IP nell’elenco Consentiti per l’accesso alle istanze
+description: Il video seguente spiega come impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti.
+seo-description: Il video seguente spiega come impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti.
 feature: IP allow listing
 topics: Control Panel
 kt: 3479
@@ -13,30 +13,31 @@ translation-type: tm+mt
 source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# IP allow list for Instance Access
+# Inserimento degli IP nell’elenco Consentiti per l’accesso alle istanze
 
-Il Pannello di controllo Campaign consente di impostare nuove connessioni alle istanze consentendo l&#39;elencazione degli intervalli di indirizzi IP. Per impostazione predefinita, un&#39;istanza di Adobe Campaign Classic non è accessibile da vari indirizzi IP. Pertanto, un indirizzo IP deve essere consentito:
+Il Pannello di controllo Campaign consente di impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti. Per impostazione predefinita non è possibile accedere a un’istanza Adobe Campaign Classic da più indirizzi IP. Pertanto, un indirizzo IP deve essere inserito nell’elenco Consentiti:
 
-* Per consentire l&#39;accesso all&#39; [!DNL Campaign] istanza da questo indirizzo IP
-* Per collegare un&#39;API al Centro messaggi o all&#39;istanza di marketing
+* Per consentire l’accesso all’istanza [!DNL Campaign] da questo indirizzo IP
+* Per collegare un’API al Centro messaggi o a un’istanza di marketing
 
-## Accesso alle impostazioni dell&#39;istanza di Pannello di controllo Campaign
+## Accesso alle impostazioni delle istanze del Pannello di controllo Campaign
 
-Per accedere a Gestione sottodominio nel Pannello di controllo Campaign, vai a:
+Per accedere alla gestione dei sottodomini nel Pannello di controllo Campaign, vai a:
 
-* [Home](https://experience.adobe.com/#/home) Experience Cloud  > Selezione soluzione: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** scheda > **Scheda Impostazioni** istanze
+* [Home di Experience Cloud](https://experience.adobe.com/#/home) > Selezione soluzioni: **[!DNL Campaign]** > scheda **[!UICONTROL Control Panel]** > scheda **Impostazioni delle istanze**
+o
 * Direttamente dall’URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## Come  gli indirizzi IP di elenco consentiti
+## Inserire gli indirizzi IP nell’elenco Consentiti
 
-Il video seguente descrive come  gli indirizzi IP degli elenchi consentiti mediante il pannello di controllo.
+Il video seguente descrive come inserire gli indirizzi IP nell’elenco Consentiti utilizzando il Pannello di controllo Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
-*Elenco delle autorizzazioni IP (03:24 min)*
+*IP allow listing  (03:24 min)*
 
-Per ulteriori informazioni sull&#39;opzione IP per l&#39;inserimento nell&#39;elenco, consulta la documentazione [](https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html)dettagliata del prodotto.
+Per ulteriori informazioni sull’inserimento degli indirizzi IP nell’elenco Consentiti, consulta la [documentazione dettagliata del prodotto](https://helpx.adobe.com/it/campaign/kb/control-panel-instance-settings.html).
