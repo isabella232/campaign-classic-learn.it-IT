@@ -1,6 +1,6 @@
 ---
 title: Generazione e installazione di chiavi GPG
-description: Il video seguente spiega come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza Campaign per la crittografia dei dati in uscita e come importare e installare una chiave pubblica in un'istanza Campaign per la decrittazione dei dati in ingresso.
+description: Il video seguente spiega come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza Campaign per la crittografia dei dati in uscita e come importare e installare una chiave pubblica in un’istanza Campaign per la decrittografia dei dati in ingresso.
 feature: Control Panel
 topics: null
 kt: 5240
@@ -12,22 +12,22 @@ translation-type: tm+mt
 source-git-commit: 702ccde94b0437be599eca6997326ae5e37d0408
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Generazione e installazione delle [!DNL GPG] chiavi
+# Generazione e installazione di chiavi [!DNL GPG]
 
-[!DNL GPG (GnuPG)] codifica i messaggi utilizzando coppie di chiavi singole asimmetriche. È possibile installare e generare le chiavi GPG con il Adobe Campaign  [!UICONTROL Control Panel].
+[!DNL GPG (GnuPG)] crittografa i messaggi utilizzando coppie di chiavi singole asimmetriche. Puoi installare e generare le chiavi GPG con il [!UICONTROL Control Panel] Adobe Campaign.
 
 Il video seguente spiega come:
 
-1. Genera e installa una coppia **di chiavi** pubblica/privata in una specifica istanza Campaign per la **crittografia dei dati** in uscita.
-2. Come importare e installare una chiave **** pubblica in un&#39;istanza Campaign per la **decrittazione dei dati** in entrata.
+1. Generare e installare una **coppia di chiavi pubblica/privata** in una specifica istanza Campaign per la **crittografia dei dati in uscita**.
+2. Importare e installare una **chiave pubblica** in un’istanza Campaign per la **decrittografia dei dati in entrata**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34201?quality=12)
 
 ## Risorse aggiuntive
 
-* [Gestione chiavi GPG](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [Gestione delle chiavi GPG](https://docs.adobe.com/content/help/it-IT/control-panel/using/instances-settings/gpg-keys-management.html)
