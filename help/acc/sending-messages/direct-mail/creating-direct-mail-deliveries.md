@@ -9,9 +9,9 @@ doc-type: feature video
 activity: set-up
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 119e622cb267077b12811861953030d382c47ded
+source-git-commit: 2471d1cef630d7c80aeaf43d1eef7b8583bee2d3
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '22'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Creazione di consegne per corrispondenza diretta
 
-Scopri come funziona la posta diretta in  Adobe Campaign e come creare, formattare ed eseguire una consegna diretta per posta.
+Scopri come [!UICONTROL direct mail] funziona [!UICONTROL Adobe Campaign] e come creare, formattare ed eseguire una [!UICONTROL direct mail ]consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12)
