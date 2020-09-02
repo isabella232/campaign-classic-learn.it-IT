@@ -1,26 +1,26 @@
 ---
 title: Aggiunta di autorizzazioni URL
-seo-title: Aggiunta di autorizzazioni URL
-description: 'Il video seguente illustra come aggiungere URL esterni alla lista degli URL autorizzati in modo che l’istanza possa connettersi ad essi.  '
-seo-description: 'Il video seguente illustra come aggiungere URL esterni alla lista degli URL autorizzati in modo che l’istanza possa connettersi ad essi. '
-feature: URl Permissions
-topics: Control Panel
+description: Scoprite come stabilire una connessione dall’istanza di Adobe Campaign Classic a un URL esterno.
+feature: Control Panel
+topics: Instance Settings
 kt: 3259
+thumbnail: 28149.jpg
 doc-type: feature video
 activity: use
-team: PM
+team: TM
 translation-type: tm+mt
-source-git-commit: 7518219e6e6e60a558cfb9026c1f401018927028
+source-git-commit: fd0f2b11328c0f780558410277fcf6a4aa8e85d3
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '51'
+ht-degree: 11%
 
 ---
 
 
 # Aggiunta di autorizzazioni URL
 
-Il video seguente illustra come aggiungere URL esterni alla lista degli URL autorizzati in modo che l’istanza possa connettersi ad essi. Per ulteriori informazioni, consulta Informazioni sulle autorizzazioni URL. Per ulteriori informazioni, consulta [Informazioni sulle autorizzazioni URL](https://helpx.adobe.com/it/campaign/kb/control-panel-instance-settings.html).
+Scoprite come stabilire una connessione dall’ [!UICONTROL Adobe Campaign Classic] istanza a un URL esterno.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
-*Adding URL permissions (01:52 min)*
+
+For more information please see [URL permissions](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/url-permissions.html).
