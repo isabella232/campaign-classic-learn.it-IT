@@ -10,7 +10,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
+source-git-commit: 8ae5f581e289175697306b4c52d840c5ef50a237
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 98%
@@ -81,7 +81,7 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un’ist
 
    *come aggiungere URL esterni alla lista degli URL autorizzati in modo che l’istanza possa connettersi ad essi.*
 
-* **[Aggiunta di indirizzi IP ai elenchi consentiti](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[Aggiunta di indirizzi IP a  elenchi consentiti](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
    *Scopri come impostare nuove connessioni alle istanze attraverso l’[!UICONTROL allow listing]di intervalli di indirizzi IP nell’elenco Consentiti.*
 
