@@ -1,24 +1,25 @@
 ---
-title: Inserimento degli IP nell’elenco Consentiti per l’accesso alle istanze
-seo-title: Inserimento degli IP nell’elenco Consentiti per l’accesso alle istanze
-description: Il video seguente spiega come impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti.
+title: 'Aggiunta di indirizzi IP ai elenchi consentiti '
+seo-title: 'Aggiunta di indirizzi IP ai elenchi consentiti '
+description: Scoprite come aggiungere un intervallo IP ai elenchi consentiti di  delle istanze di Campaign Classic e come rimuoverle dal elenco consentiti di  utilizzando il pannello di controllo.
 seo-description: Il video seguente spiega come impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti.
-feature: IP allow listing
-topics: Control Panel
+feature: instance settings
+topics: null
 kt: 3479
+thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '217'
+ht-degree: 64%
 
 ---
 
 
-# Inserimento degli IP nell’elenco Consentiti per l’accesso alle istanze
+# Aggiunta di indirizzi IP ai elenchi consentiti 
 
 Il Pannello di controllo Campaign consente di impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti. Per impostazione predefinita non è possibile accedere a un’istanza Adobe Campaign Classic da più indirizzi IP. Pertanto, un indirizzo IP deve essere inserito nell’elenco Consentiti:
 
@@ -33,11 +34,10 @@ Per accedere alla gestione dei sottodomini nel Pannello di controllo Campaign, v
 o
 * Direttamente dall’URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## Inserire gli indirizzi IP nell’elenco Consentiti
+## Aggiungere un intervallo IP al elenco consentiti  dell&#39;istanza
 
-Il video seguente descrive come inserire gli indirizzi IP nell’elenco Consentiti utilizzando il Pannello di controllo Campaign.
+Scoprite come aggiungere un intervallo IP ai elenchi consentiti di  delle istanze di Campaign Classic e come rimuoverle dal elenco consentiti di  utilizzando il pannello di controllo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
-*IP allow listing  (03:24 min)*
 
 Per ulteriori informazioni sull’inserimento degli indirizzi IP nell’elenco Consentiti, consulta la [documentazione dettagliata del prodotto](https://helpx.adobe.com/it/campaign/kb/control-panel-instance-settings.html).
