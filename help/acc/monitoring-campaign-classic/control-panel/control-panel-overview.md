@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: ca3b7933927914b9965f6f059293041dd1db1da2
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '419'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -49,7 +49,7 @@ Prima di iniziare, completa i seguenti prerequisiti:
 Devi conoscere il tuo [!DNL IMS org ID]. Il video seguente spiega dove puoi trovare l’[!DNL IMS org ID] dell’istanza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Check[!DNL IMS Org ID] (00:26 min)*
+*Check[!DNL IMS Org ID](00:26 min)*
 
 ### Diritti di amministratore
 
@@ -57,7 +57,7 @@ I diritti di amministratore sono necessari per accedere al [!UICONTROL Control P
 Nel video seguente viene illustrato come aggiungere un amministratore a un’istanza Campaign
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*How to add an administrator to the product profile &quot;[!UICONTROL Administrators]&quot; to be able to use[!UICONTROL Control Panel] (01:03 min)*
+*How to add an administrator to the product profile &quot;[!UICONTROL Administrators]&quot; to be able to use[!UICONTROL Control Panel](01:03 min)*
 
 ## Esercitazioni del [!UICONTROL Control Panel]
 
@@ -81,7 +81,7 @@ Nel video seguente viene illustrato come aggiungere un amministratore a un’ist
 
    *come aggiungere URL esterni alla lista degli URL autorizzati in modo che l’istanza possa connettersi ad essi.*
 
-* **[Inserimento degli IP nell’elenco Consentiti per l’accesso alle istanze](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[Aggiunta di indirizzi IP ai elenchi consentiti](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
    *Scopri come impostare nuove connessioni alle istanze attraverso l’[!UICONTROL allow listing]di intervalli di indirizzi IP nell’elenco Consentiti.*
 
