@@ -1,7 +1,7 @@
 ---
-title: Pannello di controllo Campaign
+title: Pannello di controllo Campaign - Panoramica
 seo-title: Pannello di controllo Campaign
-description: Il Pannello di controllo Campaign consente  amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, come la gestione dello storage SFTP per istanza o  indirizzi IP elenco consentiti.
+description: Il Pannello di controllo Campaign consente  amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l'archiviazione SFTP per istanza, gestire le chiavi GPG o i sottodomini e i certificati.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -9,22 +9,21 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 314a0aa471bdd5673fdbc1c99cfefd325ec268e4
+source-git-commit: ab7c8903a7eaa024abd8e658aee6c31f87f73f96
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 85%
+source-wordcount: '197'
+ht-degree: 72%
 
 ---
 
 
-# [!UICONTROL Control Panel]
+# [!UICONTROL Control Panel] Panoramica
 
 >[!NOTE]
 >
->I termini “[!UICONTROL whitelist]” e “[!UICONTROL blacklist]” sono stati sostituiti da “[!UICONTROL allow list]” e “[!UICONTROL block list]” nella documentazione di Adobe Campaign.
->Alcune occorrenze di questi termini potrebbero ancora essere presenti nell’interfaccia utente del prodotto, nei nomi delle opzioni, nel codice interno e nei video delle esercitazioni. Saranno sostituiti nelle prossime versione del Pannello di controllo Campaign.
+>I termini “[!UICONTROL whitelist]” e “[!UICONTROL blacklist]” sono stati sostituiti da “[!UICONTROL allowlist]” e “[!UICONTROL denylist]” nella documentazione di Adobe Campaign. Alcune occorrenze di questi termini potrebbero ancora essere presenti nell’interfaccia utente del prodotto, nei nomi delle opzioni, nel codice interno e nei video delle esercitazioni. Saranno sostituiti nelle prossime versione del Pannello di controllo Campaign.
 
- Il [!UICONTROL Control Panel] di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza o [!UICONTROL allow list] gli indirizzi IP.
+The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
 
 ## Accesso al [!UICONTROL Control Panel]
 
@@ -53,7 +52,7 @@ Devi conoscere il tuo [!DNL IMS org ID]. Il video seguente spiega dove puoi trov
 ### Diritti di amministratore
 
 I diritti di amministratore sono necessari per accedere al [!UICONTROL Control Panel].
-Nel video seguente viene illustrato come aggiungere un amministratore a un’istanza Campaign
+Nel video seguente viene illustrato come aggiungere un amministratore a un’istanza Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
