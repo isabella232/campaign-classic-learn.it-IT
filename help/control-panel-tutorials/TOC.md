@@ -13,7 +13,7 @@ getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
+source-git-commit: 0c8e60fa27a3cd1699286327fe9722f7fd7f306d
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 80%
@@ -26,9 +26,9 @@ ht-degree: 80%
 + [Panoramica del Pannello di controllo Campaign](/help/control-panel-tutorials/control-panel-overview.md)
 + [Guida introduttiva all’Pannello di controllo Campaign](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + Gestione SFTP {#sftp-management}
+   + [Generazione di una chiave SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Connessione a un server SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
    + [Monitoraggio della capacità del server, inserimento di indirizzi IP nell’elenco Consentiti e aggiunta di chiavi SSH](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-   + [Generazione di una chiave SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
 + Sottodomini e certificati {#subdomains-and-certificates}
    + [Delega dei sottodomini](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [Aggiunta di certificati SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
