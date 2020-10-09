@@ -49,7 +49,7 @@ l’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-x
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*How to add an administrator to the product profile administrators to be able to use[!UICONTROL Control panel](01:03 min)*
+*How to add an administrator to the product profile administrators to be able to use[!UICONTROL Control panel] (01:03 min)*
 
 ### Documentazione utile
 
