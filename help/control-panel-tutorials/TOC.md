@@ -13,9 +13,9 @@ getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-classic/
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '156'
 ht-degree: 60%
 
 ---
@@ -26,7 +26,6 @@ ht-degree: 60%
 + [Panoramica del Pannello di controllo Campaign](/help/control-panel-tutorials/control-panel-overview.md)
 + [Guida introduttiva all’Pannello di controllo Campaign](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + Gestione SFTP {#sftp-management}
-   + Gestione SFTP {#sftp-management}
    + [Monitoraggio della capacità del server](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Aggiunta di un intervallo IP al elenco consentiti](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Generazione di una chiave SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
