@@ -1,6 +1,6 @@
 ---
 title: Creazione di un’e-mail da una campagna
-description: Scoprite come creare una consegna di e-mail direttamente da una campagna.
+description: Scopri come creare una consegna e-mail direttamente da una campagna.
 feature: Email
 topics: null
 kt: 2172
@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 48%
+ht-degree: 81%
 
 ---
 
 
 # Creazione di un’e-mail da una campagna
 
-Scoprite come creare una consegna di e-mail direttamente da una campagna.
+Scopri come creare una consegna e-mail direttamente da una campagna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
