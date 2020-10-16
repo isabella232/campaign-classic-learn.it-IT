@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: ' Pannelli di controllo Campaign Tutorials Adobe Campaign'
+user-guide-title: ' Tutorial sul Pannello di controllo di Adobe Campaign'
 user-guide-description: Il Pannello di controllo Campaign consente  amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, come la gestione dello storage SFTP per istanza o  indirizzi IP elenco consentiti.
 breadcrumb-title: Tutorial del Pannello di controllo Campaign
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
@@ -16,15 +16,15 @@ translation-type: tm+mt
 source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 60%
+ht-degree: 75%
 
 ---
 
 
-# Pannello di controllo Campaign Adobe Campaign  - Tutorials {#control-panel}
+# Pannello di controllo di Adobe Campaign - Tutorial {#control-panel}
 
 + [Panoramica del Pannello di controllo Campaign](/help/control-panel-tutorials/control-panel-overview.md)
-+ [Guida introduttiva all’Pannello di controllo Campaign](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
++ [Guida introduttiva al Pannello di controllo Campaign](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + Gestione SFTP {#sftp-management}
    + [Monitoraggio della capacità del server](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Aggiunta di un intervallo IP al elenco consentiti](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
@@ -34,8 +34,8 @@ ht-degree: 60%
    + [Delega dei sottodomini](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [Aggiunta di certificati SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Gestione dei record TXT di Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
-+ Impostazioni istanza {#instance-settings}
-   + [Aggiunta di indirizzi IP a  elenchi consentiti](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
++ Impostazioni delle istanze {#instance-settings}
+   + [Aggiunta di indirizzi IP all’elenco consentiti](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [Aggiunta di autorizzazioni URL](/help/control-panel-tutorials/instance-settings/adding-url-permissions.md)
    + Gestione delle chiavi GPG {#gpg-key-management}
       + [Gestione delle chiavi GPG - panoramica](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
