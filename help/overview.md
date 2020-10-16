@@ -3,11 +3,11 @@ title: ' Esercitazioni Adobe Campaign Classic - Panoramica'
 description: ' Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.'
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '250'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 92%
 
 * **[Gestione delle chiavi GPG](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza[!UICONTROL Campaign]per la crittografia dei dati in uscita, nonché come importare e installare una chiave pubblica in un’istanza Campaign per la decrittografia dei dati in ingresso.*
+   *Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza [!UICONTROL Campaign] per la crittografia dei dati in uscita, nonché come importare e installare una chiave pubblica in un’istanza Campaign per la decrittografia dei dati in ingresso.*
 
 * **[Delega dei sottodomini (BETA)](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -62,7 +62,7 @@ ht-degree: 92%
   </td>
   <td>
     <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-      <img alt="Definizione di contenuto e-mail interattivo con AMP (video)" src="./assets/29940.png" />
+      <img alt="Definizione del contenuto delle e-mail interattive con AMP (video)" src="./assets/29940.png" />
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
