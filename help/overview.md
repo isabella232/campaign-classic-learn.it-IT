@@ -3,11 +3,11 @@ title: Esercitazioni Adobe Campaign Classic - Panoramica
 description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
-source-wordcount: '250'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+workflow-type: tm+mt
+source-wordcount: '194'
+ht-degree: 89%
 
 ---
 
@@ -18,17 +18,9 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Gestione delle chiavi GPG](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Delega di sottodomini tramite CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza [!UICONTROL Campaign] per la crittografia dei dati in uscita, nonché come importare e installare una chiave pubblica in un’istanza Campaign per la decrittografia dei dati in ingresso.*
-
-* **[Delega dei sottodomini (BETA)](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
-
-   *Scopri come delegare completamente un sottodominio ad Adobe Campaign.*
-
-* **[Definizione del contenuto delle e-mail interattive con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
-
-   *Scopri come configurare il contenuto delle e-mail Adobe Campaign Classic (ACC) in formato AMP.*
+   *Scopri come impostare e inviare un sottodominio utilizzando i CNAME nel Pannello di controllo Campaign.*
 
 ## Tutorial scelti dal personale
 
