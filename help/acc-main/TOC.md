@@ -13,10 +13,10 @@ getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 100%
+source-wordcount: '324'
+ht-degree: 97%
 
 ---
 
@@ -77,21 +77,6 @@ ht-degree: 100%
 + Integrazione {#integrating}
    + [Integrare Dynamics 365 con Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Amministrazione {#administrating}
-   + Pannello di controllo Campaign {#control-panel-acc}
-      + [Panoramica del Pannello di controllo Campaign](/help/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [Monitoraggio della capacità del server, inserimento di indirizzi IP nell’elenco Consentiti e aggiunta di chiavi SSH](/help/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [Generazione di una chiave SSH](/help/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
-      + [Connessione a un server SFTP](/help/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
-      + [Delega dei sottodomini](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [Aggiunta di certificati SSL](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [Aggiunta di autorizzazioni URL](/help/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [Aggiunta di indirizzi IP all’elenco consentiti](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
-      + [Gestione dei record TXT di Google](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-      + Gestione delle chiavi GPG {#gpg-key-management}
-         + [Gestione delle chiavi GPG - panoramica](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [Generazione e installazione di chiavi GPG per la crittografia dei dati](/help/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [Utilizzo di una chiave GPG per crittografare i dati](/help/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [Decrittografia dei dati](/help/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
-      + [Risoluzione dei problemi del Pannello di controllo Campaign](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)
+   + [Pannello di controllo Campaign](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
    + Accesso a un database esterno (FDA) {#fda}
       + [Gestione dei big data su [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
