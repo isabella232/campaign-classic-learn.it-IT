@@ -7,11 +7,11 @@ kt: 3262
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: ht
-source-wordcount: '197'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 94fec8af7e6de034e3482d39fde79f70bfa8b089
+workflow-type: tm+mt
+source-wordcount: '209'
+ht-degree: 94%
 
 ---
 
@@ -20,6 +20,10 @@ ht-degree: 100%
 Il Pannello di controllo di Adobe Campaign consente agli amministratori di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione SFTP per istanza e le chiavi GPG o i sottodomini e i certificati.
 
 ## Novità
+
+* **[Monitoraggio dei database](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *Scoprite come monitorare l&#39;utilizzo del database delle istanze.*
 
 * **[Delega dei sottodomini tramite CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
