@@ -10,17 +10,17 @@ audience: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 94fec8af7e6de034e3482d39fde79f70bfa8b089
+source-git-commit: 4f24a2b09209e4641186d3b4f2d9bbdc9e450a1b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 3%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 
 # Monitoraggio dei database
 
-I database delle [!DNL Adobe Campaign] istanze includono tutte le risorse, i flussi di lavoro e i dati memorizzati in [!DNL Adobe Campaign]. Il monitoraggio dei database delle istanze è pertanto essenziale per garantire prestazioni ottimali.
+Tutte le risorse, i flussi di lavoro e i dati dell&#39;istanza Campaign sono memorizzati nel database. Il database che raggiunge la capacità massima può causare problemi con la vostra istanza (impossibilità di effettuare il login, inviare e-mail ecc.). È quindi essenziale monitorare regolarmente i database delle istanze per garantire prestazioni ottimali.
 
 Scoprite come monitorare l&#39;utilizzo del database delle istanze con il [!DNL Control Panel].
 
