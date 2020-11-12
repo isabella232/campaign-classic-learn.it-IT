@@ -3,7 +3,7 @@ product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: ' Esercitazioni Adobe Campaign Classic'
 user-guide-description: Adobe Campaign Classic consente agli esperti di marketing di progettare esperienze cliente cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
-breadcrumb-title: Esercitazioni
+breadcrumb-title: Tutorial
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/it/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/it-IT/campaign-classic-learn/
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 350ef2c3cf70a253b74c48feced0f5f319022631
+source-git-commit: fe2f788ef711612382a2fc80c43f34249f1f877e
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 100%
+source-wordcount: '329'
+ht-degree: 97%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 100%
 + [Panoramica](/help/overview.md)
 + Guida introduttiva {#getting-started}
    + [Introduzione ad Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
+   + [Installare e configurare il client Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Esplorazione dell’interfaccia utente di Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Gestione delle campagne di marketing](/help/getting-started/managing-marketing-campaigns.md)
    + [Creazione di un piano di marketing, programmi e campagne](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
