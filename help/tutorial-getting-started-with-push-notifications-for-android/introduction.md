@@ -8,7 +8,7 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 6%
@@ -36,7 +36,7 @@ Prima di iniziare, dovrete soddisfare i seguenti prerequisiti
 
    Dovrai disporre del pacchetto del canale dell&#39;app mobile installato nella tua istanza. Il video seguente spiega come verificare se il canale dell&#39;app mobile è installato nell&#39;istanza e, in caso contrario, come installarlo.
 
-   [!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
 ## Esercitazione
 
