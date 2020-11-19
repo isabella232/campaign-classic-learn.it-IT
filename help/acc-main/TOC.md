@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/it-IT/campaign-classic-learn/
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '334'
-ht-degree: 96%
+source-wordcount: '348'
+ht-degree: 92%
 
 ---
 
@@ -48,6 +48,7 @@ ht-degree: 96%
    + Canale push {#push-channel}
       + [Installazione del canale app mobile](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configurare il canale push con l’SDK mobile di Experience Platform](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
+      + [Guida introduttiva alle notifiche push per Android (esercitazione)] (https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
    + Utilizzo dei modelli di consegna{#using-delivery-templates}
       + [Configurazione di un modello di consegna](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Impostazione delle proprietà del modello di consegna](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
