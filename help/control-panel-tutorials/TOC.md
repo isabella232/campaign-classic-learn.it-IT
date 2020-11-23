@@ -5,7 +5,7 @@ user-guide-description: Il Pannello di controllo di Adobe Campaign consente agli
 breadcrumb-title: Tutorial del Pannello di controllo Campaign
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/it/?tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/it/?tag=Campaign+Classic&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Esercitazioni
 tutorials-url: https://docs.adobe.com/content/help/it-IT/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentazione
