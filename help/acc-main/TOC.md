@@ -6,16 +6,16 @@ user-guide-description: Adobe Campaign Classic consente agli esperti di marketin
 breadcrumb-title: Esercitazioni
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/it/?tag=Campaign+Classic&tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=it&tag=Campaign+Classic&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Esercitazioni
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=it
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 90%
    + [Esplorazione dell’interfaccia utente di Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Gestione delle campagne di marketing](/help/getting-started/managing-marketing-campaigns.md)
    + [Creazione di un piano di marketing, programmi e campagne](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Creazione di una campagna e di un messaggio e-mail](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
+   + [Creazione di una campagna e di un messaggio e-mail](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=it)
    + [Targeting dei profili in un flusso di lavoro](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + Gestione profilo {#profile-management}
    + [Creare e gestire i profili](/help/profile-management/create-and-manage-profiles.md)
@@ -48,7 +48,7 @@ ht-degree: 90%
    + Canale push {#push-channel}
       + [Installazione del canale app mobile](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configurare il canale push con l’SDK mobile di Experience Platform](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-      + [Guida introduttiva alle notifiche push per Android (esercitazione)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
+      + [Guida introduttiva alle notifiche push per Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=it)
    + Utilizzo dei modelli di consegna{#using-delivery-templates}
       + [Configurazione di un modello di consegna](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Impostazione delle proprietà del modello di consegna](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
