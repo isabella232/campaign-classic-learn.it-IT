@@ -1,5 +1,5 @@
 ---
-title: Guida introduttiva alle notifiche push per Android - Introduzione
+title: 'Guida introduttiva alle notifiche push per Android: introduzione'
 description: Questo tutorial illustra i passaggi necessari per inviare notifiche push da Adobe Campaign e riceverle nell’app Android.
 feature: push
 topics: mobile channels
@@ -7,59 +7,59 @@ kt: 6438
 doc-type: article
 activity: setup
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '365'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# Guida introduttiva alle notifiche push per Android - Introduzione
+# Guida introduttiva alle notifiche push per Android: introduzione
 
-Adobe Campaign allows you to send personalized and segmented [!DNL push] notifications to [!DNL iOS] and [!DNL Android] mobile devices. Questa esercitazione illustra i passaggi necessari per inviare [!DNL push] notifiche da  Adobe Campaign a un&#39; [!DNL Android] app.
+Adobe Campaign ti consente di inviare notifiche [!DNL push] personalizzate e segmentate ai dispositivi mobili [!DNL iOS] e [!DNL Android]. Questo tutorial illustra i passaggi necessari per inviare le notifiche [!DNL push] da Adobe Campaign a un’app [!DNL Android].
 
 ## Prerequisiti
 
 Prima di iniziare, è necessario disporre dei seguenti elementi:
 
-1) **Applicazione Android Mobile**
+1) **Applicazione Android mobile**
 
-   Questa esercitazione non descrive i passaggi dettagliati necessari per configurare l’applicazione mobile. Sarà necessario disporre di un&#39;applicazione **[!DNL Android]mobile con l&#39; [!DNL Campaign SDK] integrato**.
+   Questo tutorial non descrive i passaggi dettagliati necessari per configurare l’applicazione mobile. Sarà necessario disporre di un’applicazione mobile **[!DNL Android]con [!DNL Campaign SDK] integrato**.
 
-   La descrizione dettagliata dei passaggi richiesti è disponibile nella documentazione del prodotto:
+   La descrizione dettagliata dei passaggi necessari è disponibile nella documentazione del prodotto:
 
-   [Integrazione dell’SDK Campaign nell’app mobile](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html)
+   [Integrazione dell’SDK Campaign nell’app mobile](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html?lang=it)
 
-   Puoi anche usare l’SDK per dispositivi mobili  Experience Platform. Per ulteriori informazioni, guardate il video dell’esercitazione:
+   Puoi anche usare l’SDK mobile di Experience Platform. Per ulteriori informazioni, guarda il video del tutorial:
 
-   [Configurare il canale push con l&#39;SDK di Mobile del Experience Platform](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html)
+   [Configurare il canale push con l’SDK mobile di Experience Platform](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/push-channel/configure-push-using-aep-mobile-sdk.html?lang=it)
 
-2) **[!DNL Mobile App channel]pacchetto installato**
+2) Pacchetto **[!DNL Mobile App channel]installato**
 
-   Il [!DNL Mobile App channel] pacchetto deve essere installato nell&#39; [!DNL Campaign] istanza. Il seguente video spiega come verificare se l’ [!DNL Mobile App channel] istanza è installata nell’istanza e, in caso contrario, come installarla.
+   Il pacchetto [!DNL Mobile App channel] deve essere installato nell’istanza [!DNL Campaign]. Il seguente video spiega come verificare se [!DNL Mobile App channel] è installato nell’istanza indicata e, in caso contrario, come installarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&captions=ita)
 
-## Panoramica delle esercitazioni
+## Panoramica del tutorial
 
-Desideriamo inviare una [!DNL push] notifica promozionale personalizzata agli abbonati dell&#39;app [!DNL Neotrip] [!DNL Android] mobile. L&#39; [!DNL Neotrip] app è configurata con l&#39; [!DNL Campaign SDK] e abbiamo verificato che l&#39; [!DNL Mobile App channel] app sia attivata nella nostra [!DNL Campaign] istanza.
+Il nostro obiettivo è quello di inviare una notifica promozionale [!DNL push] personalizzata agli abbonati dell’app mobile [!DNL Neotrip] [!DNL Android]. L’app [!DNL Neotrip] è configurata con [!DNL Campaign SDK] e abbiamo verificato che [!DNL Mobile App channel] è attivo nell’istanza [!DNL Campaign].
 
 Sono necessari i seguenti passaggi di configurazione:
 
-### Passaggio 1: Estendi lo schema di iscrizione all&#39;app per personalizzare [!DNL push] le notifiche
+### Passaggio 1: estendere lo schema di iscrizione all’app per personalizzare le notifiche [!DNL push]
 
-Poiché vorremmo personalizzare la [!DNL push] notifica, [estenderemo lo schema](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md) di iscrizione all&#39;app per poter memorizzare i valori di personalizzazione che riceviamo dall&#39;app quando l&#39;utente si iscrive al servizio.
+Poiché vorremmo personalizzare la notifica [!DNL push], prima [estenderemo lo schema di iscrizione all’app](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md) per poter archiviare i valori di personalizzazione che questa invia quando l’utente si iscrive al servizio.
 
-### Passaggio 2: Configurare il servizio Android e creare l&#39;applicazione mobile in Campaign
+### Passaggio 2: configurare il servizio Android e creare l’applicazione mobile in Campaign
 
-Successivamente, dovremo [configurare il servizio Android e creare l&#39;applicazione mobile in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md). In questo passaggio definiremo l&#39; [!DNL Neotrip] app come destinazione per la notifica push.
+Successivamente, sarà necessario [configurare il servizio Android e creare l’applicazione mobile in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md). In questo passaggio definiremo l’app [!DNL Neotrip] come destinazione per la notifica push.
 
-### Passaggio 3: Configurare e inviare la notifica push
+### Passaggio 3: configurare e inviare la notifica push
 
-Quindi siamo pronti per [configurare e inviare la notifica](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)push.
+Siamo infine pronti a [configurare e inviare la notifica push](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md).
 
-## Avviare l&#39;esercitazione
+## Inizia l’esercitazione
 
-Passaggio 1: [Estendi lo schema di iscrizione dell&#39;app](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+Passaggio 1: [estendere lo schema di iscrizione all’app](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
