@@ -3,11 +3,11 @@ title: Esercitazioni Adobe Campaign Classic - Panoramica
 description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 * **[Guida introduttiva alle notifiche push per Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
-   *Questa esercitazione illustra i passaggi necessari per inviare notifiche push da  Adobe Campaign a un&#39;app Android.*
+   *Questo tutorial illustra i passaggi necessari per inviare notifiche push da Adobe Campaign a un’app Android.*
 
 
 * **[Delega dei sottodomini tramite CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
