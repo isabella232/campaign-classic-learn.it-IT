@@ -20,9 +20,9 @@ ht-degree: 2%
 
 La gestione della fatica controlla la frequenza e la quantità di messaggi per evitare l&#39;eccessiva sollecitazione dei destinatari e viene spesso applicata utilizzando una regola di tipologia.
 
-Le regole di tipologia consentono ai professionisti del marketing di standardizzare le pratiche aziendali in tutte le consegne in modo più efficiente, per controllare i messaggi delle campagne per i clienti. Ciò viene fatto eliminando la necessità di applicare esclusioni o regole comunemente utilizzate a ogni singola campagna. I destinatari che corrispondono ai criteri all&#39;interno di una regola *di* tipologia saranno esclusi dal recapito durante la fase di analisi.
+Le regole di tipologia consentono ai professionisti del marketing di standardizzare le pratiche aziendali in tutte le consegne in modo più efficiente, per controllare i messaggi delle campagne per i clienti. Ciò viene fatto eliminando la necessità di applicare esclusioni o regole comunemente utilizzate a ogni singola campagna. I destinatari che corrispondono ai criteri all&#39;interno di una *regola di tipologia* verranno esclusi dalla consegna durante la fase di analisi.
 
-In genere, una serie di regole *di* tipologia viene raggruppata all&#39;interno di una *tipologia* per applicare facilmente più regole di filtro a una consegna alla volta.
+Solitamente un insieme di *regole di tipologia* viene raggruppato all&#39;interno di una *tipologia* per applicare facilmente più regole di filtro a una consegna alla volta.
 
 Questo elimina i passaggi aggiuntivi durante la creazione di campagne e flussi di lavoro diversi, garantendo allo stesso tempo che il targeting della popolazione corretta sia coerente al momento giusto.
 
