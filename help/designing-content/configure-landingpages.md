@@ -25,4 +25,4 @@ Questo video illustra come navigare  editor di applicazioni Web di Adobe Campaig
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-Per ulteriori informazioni, consultate la documentazione dettagliata sulla [creazione di una pagina](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)di destinazione.
+Per ulteriori informazioni, consultare la documentazione dettagliata su [Creazione di una pagina di destinazione](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
