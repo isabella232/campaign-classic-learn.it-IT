@@ -1,6 +1,6 @@
 ---
 title: Creazione di campagne multicanale in Adobe Campaign Classic (ACC)
-description: Scoprite come creare una campagna multicanale utilizzando e-mail, SMS e consegne dirette.
+description: Scopri come creare una campagna multicanale utilizzando e-mail, SMS e consegne direct mail.
 feature: Workflows
 topics: null
 kt: 1563
@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 5%
+ht-degree: 38%
 
 ---
 
@@ -23,7 +23,7 @@ In una campagna multi-canale, una singola comunicazione di marketing utilizza pi
 
 Le consegne multicanale sono progettate ed eseguite in un unico flusso di lavoro.
 
-Scoprite come creare una campagna multicanale utilizzando e-mail, SMS e consegne dirette.
+Scopri come creare una campagna multicanale utilizzando e-mail, SMS e consegne direct mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
 
