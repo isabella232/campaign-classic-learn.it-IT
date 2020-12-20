@@ -17,9 +17,9 @@ ht-degree: 1%
 ---
 
 
-# Configurazione di un [!DNL Android] servizio e creazione di un&#39;applicazione [!DNL Android] mobile in Campaign
+# Configurazione di un servizio [!DNL Android] e creazione di un&#39;applicazione mobile [!DNL Android] in Campaign
 
-Scopri come configurare un [!DNL Android] servizio e creare un&#39;applicazione [!DNL Android] mobile in Campaign. Questo passaggio è necessario per poter definire l&#39;applicazione mobile di destinazione per la notifica push.
+Scopri come configurare un servizio [!DNL Android] e creare un&#39;applicazione mobile [!DNL Android] in Campaign. Questo passaggio è necessario per poter definire l&#39;applicazione mobile di destinazione per la notifica push.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
