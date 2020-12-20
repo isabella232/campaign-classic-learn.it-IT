@@ -16,7 +16,7 @@ ht-degree: 100%
 ---
 
 
-# Workflow Heatmap
+# Heatmap flusso di lavoro
 
 La Workflow HeatMap di Adobe Campaign consiste in una rappresentazione grafica codificata per colori di tutti i flussi di lavoro attualmente in esecuzione. Essa fornisce una rapida panoramica sul numero di flussi di lavoro simultanei, consentendo così agli amministratori della piattaforma Adobe Campaign di monitorare il carico sull’istanza e pianificare i flussi di lavoro di conseguenza.
 
