@@ -1,5 +1,5 @@
 ---
-title: Utilizzo dell'attività di aggiornamento elenco per creare un elenco con un flusso di lavoro
+title: Utilizzo dell’attività di aggiornamento elenco per creare un elenco con un flusso di lavoro
 description: Scoprite come perfezionare la destinazione applicando un'esclusione standard a un flusso di lavoro. Inoltre verrà illustrato come creare filtri predefiniti e come interrompere le riprese del flusso di lavoro.
 feature: Workflows
 topics: Targeting Activities
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 3%
+ht-degree: 36%
 
 ---
 
 
-# Utilizzo dell&#39;attività di aggiornamento elenco per creare un elenco con un flusso di lavoro
+# Utilizzo dell’attività di aggiornamento elenco per creare un elenco con un flusso di lavoro
 
 Comprendere il concetto di elenchi in Adobe Campaign Classic e imparare a creare un elenco utilizzando l&#39;attività dell&#39;elenco di aggiornamenti in un flusso di lavoro.
 
@@ -30,8 +30,8 @@ Documentazione:
 * [Informazioni sui flussi di lavoro](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
 * [Aggiornamento elenco](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
 
-Tutorial:
+Esercitazioni:
 
 * [Targeting dei profili in un flusso di lavoro](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [Ottimizzazione delle destinazioni combinando i risultati delle query](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [Ottimizzazione delle destinazioni mediante l&#39;esclusione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Ottimizzazione delle destinazioni attraverso la combinazione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [Ottimizzazione delle destinazioni attraverso l’esclusione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
