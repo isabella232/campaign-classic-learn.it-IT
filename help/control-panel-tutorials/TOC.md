@@ -5,15 +5,15 @@ user-guide-description: Il Pannello di controllo di Adobe Campaign consente agli
 breadcrumb-title: Tutorial del Pannello di controllo Campaign
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/it/?tag=Campaign+Classic&tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=it&tag=Campaign+Classic&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Esercitazioni
 tutorials-url: https://docs.adobe.com/content/help/it-IT/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 100%
 
