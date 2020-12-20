@@ -1,5 +1,5 @@
 ---
-title: Personalizzazione delle e-mail - Creazione di una newsletter multilingue con contenuti condizionali
+title: Personalizzazione delle e-mail - Creazione di una newsletter multilingue tramite il contenuto condizionale
 description: Scoprite come aggiungere contenuti condizionali a una distribuzione, ad esempio una newsletter multilingue.
 feature: Dynamic Content Blocks
 topics: Email Channel
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 35%
+ht-degree: 62%
 
 ---
 
 
-# Personalizzazione delle e-mail - Creazione di una newsletter multilingue con contenuti condizionali
+# Personalizzazione delle e-mail - Creazione di una newsletter multilingue tramite il contenuto condizionale
 
 Configurando i campi di contenuto condizionale puoi creare una personalizzazione avanzata. I blocchi di testo completi e/o le immagini vengono sostituiti quando viene soddisfatta una particolare condizione.
 
@@ -34,5 +34,5 @@ Documentazione:
 
 Tutorials video:
 
-* [Personalizzazione di e-mail mediante blocchi di contenuto dinamici](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [Personalizzazione di e-mail tramite campo di personalizzazione](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+* [Personalizzazione delle e-mail mediante blocchi di contenuto dinamici](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [Personalizzazione delle e-mail tramite campi di personalizzazione](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
