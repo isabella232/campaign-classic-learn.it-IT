@@ -1,5 +1,5 @@
 ---
-title: Personalizzazione di e-mail mediante blocchi di contenuto dinamici
+title: Personalizzazione delle e-mail mediante blocchi di contenuto dinamici
 description: Scoprite come creare blocchi di contenuto dinamici e come utilizzarli per personalizzare il contenuto della distribuzione delle e-mail.
 feature: Dynamic Content Blocks
 topics: Email Channel
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 48%
+ht-degree: 67%
 
 ---
 
 
-# Personalizzazione di e-mail mediante blocchi di contenuto dinamici
+# Personalizzazione delle e-mail mediante blocchi di contenuto dinamici
 
 In Adobe Campaign puoi personalizzare il contenuto o l’aspetto dei messaggi e combinarli con i criteri dei profili dei destinatari.
 
@@ -36,5 +36,5 @@ Documentazione:
 
 Tutorials video:
 
-* [Personalizzazione di e-mail tramite campo di personalizzazione](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [Personalizzazione delle e-mail - Creazione di una newsletter multilingue con contenuti condizionali](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [Personalizzazione delle e-mail tramite campi di personalizzazione](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+* [Personalizzazione delle e-mail - Creazione di una newsletter multilingue tramite il contenuto condizionale](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
