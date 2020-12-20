@@ -1,5 +1,5 @@
 ---
-title: Guida introduttiva all’Pannello di controllo Campaign
+title: Guida introduttiva al Pannello di controllo Campaign
 description: Questo articolo spiega come accedere al Pannello di controllo Campaign e quali prerequisiti devono essere utilizzati con il pannello di controllo.
 feature: Control Panel
 topics: Control Panel
@@ -11,19 +11,19 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 65%
 
 ---
 
 
-# Getting started with the [!UICONTROL Control Panel] {#control-panel}
+# Guida introduttiva di [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
 >I termini “[!UICONTROL whitelist]” e “[!UICONTROL blacklist]” sono stati sostituiti da “[!UICONTROL allowlist]” e “[!UICONTROL denylist]” nella documentazione di Adobe Campaign. Alcune occorrenze di questi termini potrebbero ancora essere presenti nell’interfaccia utente del prodotto, nei nomi delle opzioni, nel codice interno e nei video delle esercitazioni. Saranno sostituiti nelle prossime versione del Pannello di controllo Campaign.
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+[!UICONTROL Control Panel] consente  amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l&#39;archiviazione [!DNL SFTP] per istanza, gestire le chiavi [!DNL GPG] o [!UICONTROL subdomains] e [!UICONTROL certificates].
 
 Questo articolo spiega come accedere al Pannello di controllo Campaign e quali prerequisiti devono essere utilizzati con il pannello di controllo.
 
@@ -50,7 +50,7 @@ Devi conoscere il tuo [!DNL IMS org ID]. Il video seguente spiega dove puoi trov
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Check[!DNL IMS Org ID](00:26 min)*
+*Check [!DNL IMS Org ID] (00:26 min)*
 
 ### Diritti di amministratore
 
