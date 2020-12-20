@@ -20,7 +20,7 @@ ht-degree: 55%
 
 # Generazione di un rapporto di analisi descrittivo
 
-Scopri come generare un flusso di lavoro [!UICONTROL descriptive analysis report] da un flusso di lavoro.
+Scopri come generare un [!UICONTROL descriptive analysis report] da un flusso di lavoro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
