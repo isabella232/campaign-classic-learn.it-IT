@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 7%
+ht-degree: 38%
 
 ---
 
@@ -25,9 +25,9 @@ Comprendi l’utilizzo dei flussi di lavoro delle campagne e come creare un flus
 
 ## Tutorials successivi da guardare
 
-* [Ottimizzazione delle destinazioni combinando i risultati delle query](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [Ottimizzazione delle destinazioni mediante l&#39;esclusione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [Utilizzo dell&#39;attività di aggiornamento elenco per creare un elenco con un flusso di lavoro](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [Ottimizzazione delle destinazioni attraverso la combinazione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [Ottimizzazione delle destinazioni attraverso l’esclusione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Utilizzo dell’attività di aggiornamento elenco per creare un elenco con un flusso di lavoro](/help/automating-with-workflows/using-the-update-list-activity.md)
 
 ## Risorse aggiuntive
 
@@ -37,7 +37,7 @@ Documentazione:
 * [Creazione di un flusso di lavoro](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
 * [Informazioni sulle attività di targeting](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
 
-Tutorial:
+Esercitazioni:
 
-* [Creazione e gestione di profili](/help/profile-management/create-and-manage-profiles.md)
-* [Importazione di profili](/help/data-management/importing-profiles.md)
+* [Creare e gestire i profili](/help/profile-management/create-and-manage-profiles.md)
+* [Importazione dei profili](/help/data-management/importing-profiles.md)
