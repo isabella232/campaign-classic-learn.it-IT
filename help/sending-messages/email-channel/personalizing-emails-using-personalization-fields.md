@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 25%
+ht-degree: 37%
 
 ---
 
@@ -32,7 +32,7 @@ Documentazione:
 * [Informazioni sulla personalizzazione](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
 * [Campi di personalizzazione](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-fields.html)
 
-Tutorial:
+Esercitazioni:
 
-* [Personalizzazione di e-mail mediante blocchi di contenuto dinamici](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [Personalizzazione delle e-mail - Creazione di una newsletter multilingue con contenuti condizionali](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [Personalizzazione delle e-mail mediante blocchi di contenuto dinamici](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+* [Personalizzazione delle e-mail - Creazione di una newsletter multilingue tramite il contenuto condizionale](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
