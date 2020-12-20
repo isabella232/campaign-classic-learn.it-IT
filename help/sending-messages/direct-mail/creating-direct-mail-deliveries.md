@@ -1,5 +1,5 @@
 ---
-title: Creazione di consegne per corrispondenza diretta
+title: Creazione di consegne di direct mailing
 description: null
 feature: Direct mail
 topics: null
@@ -12,13 +12,13 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '22'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
 
 
-# Creazione di consegne per corrispondenza diretta
+# Creazione di consegne di direct mailing
 
-Scopri come [!UICONTROL direct mail] funziona [!UICONTROL Adobe Campaign] e come creare, formattare ed eseguire una [!UICONTROL direct mail ]consegna.
+Scopri come [!UICONTROL direct mail] funziona in [!UICONTROL Adobe Campaign] e come creare, formattare ed eseguire una [!UICONTROL direct mail ]consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12)
