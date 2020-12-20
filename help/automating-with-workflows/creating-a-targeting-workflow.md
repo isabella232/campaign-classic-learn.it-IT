@@ -22,4 +22,5 @@ ht-degree: 7%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-Per ulteriori informazioni, consulta la documentazione [sui flussi di lavoro](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)e [sulle attività](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) di targeting.
+Vedere la documentazione [sui flussi di lavoro](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+e [informazioni sulle attività di targeting](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) per ulteriori informazioni.
