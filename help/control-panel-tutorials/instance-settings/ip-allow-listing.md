@@ -1,6 +1,6 @@
 ---
-title: Aggiunta di indirizzi IP a  elenchi consentiti
-seo-title: Aggiunta di indirizzi IP a  elenchi consentiti
+title: Aggiunta di indirizzi IP all’elenco consentiti
+seo-title: Aggiunta di indirizzi IP all’elenco consentiti
 description: Scoprite come aggiungere un intervallo IP ai elenchi consentiti di  delle istanze di Campaign Classic e come rimuoverle dal elenco consentiti di  utilizzando il pannello di controllo.
 seo-description: Il video seguente spiega come impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti.
 feature: instance settings
@@ -14,12 +14,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '217'
-ht-degree: 64%
+ht-degree: 72%
 
 ---
 
 
-# Aggiunta di indirizzi IP a  elenchi consentiti
+# Aggiunta di indirizzi IP all’elenco consentiti
 
 Il Pannello di controllo Campaign consente di impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti. Per impostazione predefinita non è possibile accedere a un’istanza Adobe Campaign Classic da più indirizzi IP. Pertanto, un indirizzo IP deve essere inserito nell’elenco Consentiti:
 
