@@ -24,9 +24,9 @@ I flussi di lavoro si verificano in vari contesti e fasi del processo di gestion
 
  Adobe Campaign utilizza i flussi di lavoro per:
 
-* Eseguire campagne di targeting. For more on this, refer to [Implementation steps](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_).
-* Creare campagne: per ogni campagna, la scheda **Workflow** consente di creare la destinazione e creare le consegne. For more on this, refer to [Campaign workflows](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows).
-* Esecuzione  processi tecnici Adobe Campaign: pulizia, raccolta delle informazioni di tracciamento o calcoli provvisori. For more on this, refer to [Technical workflows](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows).
+* Eseguire campagne di targeting. Per ulteriori informazioni, fare riferimento a [Passaggi di implementazione](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_).
+* Creare campagne: per ogni campagna, la scheda **Workflow** consente di creare la destinazione e creare le consegne. Per ulteriori informazioni, consultare [Flussi di lavoro delle campagne](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows).
+* Esecuzione  processi tecnici Adobe Campaign: pulizia, raccolta delle informazioni di tracciamento o calcoli provvisori. Per ulteriori informazioni, fare riferimento a [Flussi di lavoro tecnici](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows).
 
 In questo video viene illustrato come creare un flusso di lavoro in Adobe Campaign Classic.
 
