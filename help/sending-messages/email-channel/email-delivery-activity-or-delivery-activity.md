@@ -18,7 +18,7 @@ ht-degree: 9%
 
 # Attività di distribuzione tramite e-mail e attività di consegna
 
-A [!UICONTROL Delivery-type activity] consente di creare un&#39;azione di consegna. Può essere costruito utilizzando elementi di input.
+Un [!UICONTROL Delivery-type activity] consente di creare un&#39;azione di consegna. Può essere costruito utilizzando elementi di input.
 
 In questo video viene illustrato come distribuire un modello di consegna e-mail. Vengono illustrate le differenze tra la consegna dell’e-mail e il flusso di lavoro di consegna.
 
