@@ -32,7 +32,7 @@ I clienti generano dati con ogni canale a loro disposizione, così come fanno tu
 
 >[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
 
-## Segmentazione cliente  {#customer-segmentation}
+## Segmentazione cliente {#customer-segmentation}
 
 Una volta compresi i profili, è possibile eseguire una segmentazione avanzata attraverso query approfondite degli attributi comuni del consumatore e di altre origini dati. Consente di creare elenchi riutilizzabili, aggiornare dinamicamente gli elenchi in base a modifiche in tempo reale dei dati e persino di eseguire attività più complesse, ad esempio test multivalore su uno qualsiasi di questi punti dati.
 
