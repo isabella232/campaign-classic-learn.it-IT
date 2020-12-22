@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+source-git-commit: e2425ddf8c06c20691276674d41f63239f6905f2
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 98%
+source-wordcount: '352'
+ht-degree: 97%
 
 ---
 
@@ -45,6 +45,7 @@ ht-degree: 98%
       + [Personalizzazione delle e-mail - Creazione di una newsletter multilingue tramite il contenuto condizionale](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Configurare campagne e-mail ricorrenti e continue](/help/sending-messages/recurring-deliveries.md)
       + [Definizione del contenuto delle e-mail interattive con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
+      + [Risoluzione dei problemi di consegna delle e-mail](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
    + Canale push {#push-channel}
       + [Installazione del canale app mobile](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configurare il canale push con l’SDK mobile di Experience Platform](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
