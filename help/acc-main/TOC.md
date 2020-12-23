@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
+source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 96%
+source-wordcount: '363'
+ht-degree: 95%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 96%
 + Invio dei messaggi{#sending-messages}
    + Canale e-mail{#email-channel}
       + [Creazione di una campagna e di un messaggio e-mail](/help/getting-started/creating-a-campaign-and-an-email.md)
-      + [Gestione di seed e prove in un’e-mail](/help/sending-messages/managing-seed-and-proofs.md)
+      + [Gestione di seed e prove in un’e-mail](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Configurazione del contenuto dinamico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalizzazione delle e-mail mediante blocchi di contenuto dinamici](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personalizzazione delle e-mail tramite campi di personalizzazione](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -60,6 +60,7 @@ ht-degree: 96%
    + Gestione dell’affaticamento{#fatigue-management}
       + [Utilizzo delle regole di tipologia](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Utilizzo di filtri predefiniti](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+   + [Configurazione e gestione dei servizi di iscrizione](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestrazione delle campagne {#orchestration}
    + [Esecuzione di una campagna](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Creazione di campagne multicanale](/help/orchestrating-campaigns/multi-channel-campaigns.md)
