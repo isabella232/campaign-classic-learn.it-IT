@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 95%
+source-wordcount: '367'
+ht-degree: 88%
 
 ---
 
@@ -26,11 +26,12 @@ ht-degree: 95%
 + Guida introduttiva {#getting-started}
    + [Introduzione ad Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installare e configurare il client di Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-   + [Esplorazione dell’interfaccia utente di Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
+   + [Esplorare l’interfaccia utente di Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Gestione delle campagne di marketing](/help/getting-started/managing-marketing-campaigns.md)
-   + [Creazione di un piano di marketing, programmi e campagne](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Creazione di una campagna e di un messaggio e-mail](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=it)
-   + [Targeting dei profili in un flusso di lavoro](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Creare un piano di marketing, programmi e campagne](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
+   + [Creare una campagna e un messaggio e-mail](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=it)
+   + [Eseguire il targeting dei profili in un flusso di lavoro](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Creazione di campagne con attivazione evento](/help/getting-started/create-event-triggered-campaigns.md)
 + Gestione profilo {#profile-management}
    + [Creare e gestire i profili](/help/profile-management/create-and-manage-profiles.md)
    + [Importazione dei profili](/help/data-management/importing-profiles.md)
