@@ -3,11 +3,11 @@ title: Esercitazioni Adobe Campaign Classic - Panoramica
 description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: ht
-source-wordcount: '233'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 90%
 
 ---
 
@@ -18,18 +18,17 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
+* **[Creazione e progettazione di invii e-mail](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+
+   *Comprendere il processo di creazione di una distribuzione e-mail e imparare a progettare e personalizzare il contenuto delle e-mail.*
+
 * **[Guida introduttiva alle notifiche push per Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *Questo tutorial illustra i passaggi necessari per inviare notifiche push da Adobe Campaign a un’app Android.*
 
-
 * **[Delega dei sottodomini tramite CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Scopri come impostare e inviare un sottodominio tramite CNAME nel Pannello di controllo Campaign.*
-
-* **[Monitoraggio dei database](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
-
-   *Scopri come monitorare l’utilizzo del database delle istanze.*
 
 ## Tutorial scelti dal personale
 
