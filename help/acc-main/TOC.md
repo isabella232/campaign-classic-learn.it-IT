@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '358'
 ht-degree: 88%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 88%
    + [Esplorare l’interfaccia utente di Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Gestione delle campagne di marketing](/help/getting-started/managing-marketing-campaigns.md)
    + [Creare un piano di marketing, programmi e campagne](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Creare una campagna e un messaggio e-mail](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=it)
+   + [Creazione di una campagna e di un messaggio e-mail](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Eseguire il targeting dei profili in un flusso di lavoro](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [Creazione di campagne con attivazione evento](/help/getting-started/create-event-triggered-campaigns.md)
 + Gestione profilo {#profile-management}
@@ -39,7 +39,7 @@ ht-degree: 88%
    + [Creazione di un elenco di destinatari con un flusso di lavoro](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Invio dei messaggi{#sending-messages}
    + Canale e-mail{#email-channel}
-      + [Creazione di una campagna e di un messaggio e-mail](/help/getting-started/creating-a-campaign-and-an-email.md)
+      + [Creazione e progettazione di invii e-mail](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Gestione di seed e prove in un’e-mail](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Configurazione del contenuto dinamico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalizzazione delle e-mail mediante blocchi di contenuto dinamici](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -52,12 +52,12 @@ ht-degree: 88%
       + [Installazione del canale app mobile](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configurare il canale push con l’SDK mobile di Experience Platform](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Guida introduttiva alle notifiche push per Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=it)
+   + Direct mailing {#direct-mail}
+      + [Creazione di consegne di direct mailing](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Utilizzo dei modelli di consegna{#using-delivery-templates}
       + [Configurazione di un modello di consegna](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Impostazione delle proprietà del modello di consegna](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Distribuzione di un modello di consegna e-mail ad hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + Direct mailing {#direct-mail}
-      + [Creazione di consegne di direct mailing](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Gestione dell’affaticamento{#fatigue-management}
       + [Utilizzo delle regole di tipologia](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Utilizzo di filtri predefiniti](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
