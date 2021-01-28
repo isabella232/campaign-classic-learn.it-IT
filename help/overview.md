@@ -4,10 +4,10 @@ description: Adobe Campaign fornisce una piattaforma per la progettazione di cus
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 90%
+source-wordcount: '254'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 90%
 Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Classic.
 
 ## Novità
+
+* **+ E-mail  [di progettazione per la recapito](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+
+   *Scopri come applicare le best practice per la recapito.*
 
 * **[Creazione e progettazione di invii e-mail](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
