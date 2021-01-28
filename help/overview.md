@@ -4,7 +4,7 @@ description: Adobe Campaign fornisce una piattaforma per la progettazione di cus
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
+source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 81%
@@ -20,7 +20,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 * **[Inviare e convalidare le prove](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-*Scopri come inviare e convalidare una prova.*
+   *Scopri come inviare e convalidare una prova.*
 
 * **[Creare e-mail per la consegna](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
