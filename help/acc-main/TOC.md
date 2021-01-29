@@ -12,7 +12,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 30c86539ae3b543b29f4929c45da32b5751ea40b
+source-git-commit: 72815762856f9537e409b52c4c9752c5193a0efc
 workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 85%
@@ -52,7 +52,7 @@ ht-degree: 85%
       + [Risoluzione dei problemi di consegna delle e-mail](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Creare e-mail per la consegna](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + Canale SMS {#sms-channel}
-      + [Creare una consegna SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery)
+      + [Creare una consegna SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canale push {#push-channel}
       + [Installazione del canale app mobile](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configurare il canale push con l’SDK mobile di Experience Platform](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
