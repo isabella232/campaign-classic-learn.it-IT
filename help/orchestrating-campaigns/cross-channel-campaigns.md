@@ -1,0 +1,32 @@
+---
+title: Creazione di campagne multicanale
+description: Scopri come creare una campagna canale-canale.
+feature: Workflows
+kt: 7018
+thumbnail: 330990.jpg
+doc-type: feature video
+activity: use
+team: TM
+translation-type: tm+mt
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
+
+---
+
+
+# Creazione di campagne multicanale
+
+In una campagna multicanale, una singola comunicazione di marketing utilizza più canali per raggiungere un pubblico di destinazione più ampio, in base al canale di destinazione preferito.
+
+Le consegne multicanale sono progettate ed eseguite in un unico flusso di lavoro.
+
+Scopri come creare una campagna multicanale utilizzando e-mail, SMS e consegne direct mail.
+
+>[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
+
+## Risorse aggiuntive
+
+* [Progettare e orchestrare campagne e-mail in Adobe Campaign Classic](https://helpx.adobe.com/campaign/classic/how-to/design-orchestrate-email-campaigns-in-campaign-classic.html)
+
