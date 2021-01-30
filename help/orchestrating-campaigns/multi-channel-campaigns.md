@@ -1,5 +1,5 @@
 ---
-title: Creazione di campagne multicanale in Adobe Campaign Classic (ACC)
+title: Creazione di campagne multicanale
 description: Scopri come creare una campagna multicanale utilizzando e-mail, SMS e consegne direct mail.
 feature: Workflows
 topics: null
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 38%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
