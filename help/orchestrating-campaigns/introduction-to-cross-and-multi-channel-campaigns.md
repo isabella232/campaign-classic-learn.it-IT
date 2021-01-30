@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '58'
+ht-degree: 3%
 
 ---
 
@@ -24,6 +24,6 @@ Comprendi la differenza tra campagne multicanale e multicanale e quali sono i ca
 
 ## Risorse aggiuntive
 
-* [Creare campagne multicanale](/help/orchestrating-campaigns/cross-channel-campaigns.mdhelp/orchestrating-campaigns/cross-channel-campaigns.md)
-* [Creazione di campagne multicanale](help/orchestrating-campaigns/multi-channel-campaigns.md)
+* [Creare campagne multicanale](/help/orchestrating-campaigns/cross-channel-campaigns.md)
+* [Creazione di campagne multicanale](/help/orchestrating-campaigns/multi-channel-campaigns.md)
 
