@@ -4,10 +4,10 @@ description: Adobe Campaign fornisce una piattaforma per la progettazione di cus
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 72%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 72%
 Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Classic.
 
 ## Novità
+
+* **[Creare campagne multicanale](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+
+   *Scopri come creare ed eseguire una campagna tra canali.*
 
 * **[Utilizzare i gruppi di controllo](/help/sending-messages/email-channel/use-control-groups.md)**
 
