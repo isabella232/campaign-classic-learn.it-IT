@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 24%
 
 ---
 
@@ -28,5 +28,5 @@ Scopri come creare una campagna multicanale utilizzando e-mail, SMS e consegne d
 
 ## Risorse aggiuntive
 
-* [Progettare e orchestrare campagne e-mail in Adobe Campaign Classic](https://helpx.adobe.com/campaign/classic/how-to/design-orchestrate-email-campaigns-in-campaign-classic.html)
+* [Introduzione a campagne multicanale e multicanale](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
 
