@@ -1,14 +1,16 @@
 ---
 title: Creazione di un flusso di lavoro
-description: In questo video viene illustrato come creare un flusso di lavoro in Adobe Campaign Classic.
-feature: Workflow
+description: Questo video spiega come creare un flusso di lavoro.
+feature: Flussi di lavoro
 topics: null
 kt: 2175
 doc-type: feature video
 activity: use
 team: DOC
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 28%
@@ -18,16 +20,16 @@ ht-degree: 28%
 
 # Creazione di un flusso di lavoro
 
- Adobe Campaign include un modulo di flusso di lavoro che consente di orchestrare l&#39;intera gamma di processi e attività tra i diversi moduli del server applicazioni. Questo ambiente grafico completo ti consente di progettare processi inclusi segmentazione, esecuzione di campagne, elaborazione di file, partecipazione di utenti, ecc. Il motore del flusso di lavoro esegue e traccia tali processi.
+Adobe Campaign include un modulo di flusso di lavoro che ti consente di orchestrare l’intera gamma di processi e attività nei diversi moduli dell’application server. Questo ambiente grafico completo ti consente di progettare processi inclusi segmentazione, esecuzione di campagne, elaborazione di file, partecipazione di utenti, ecc. Il motore del flusso di lavoro esegue e traccia tali processi.
 
 I flussi di lavoro si verificano in vari contesti e fasi del processo di gestione delle campagne.
 
- Adobe Campaign utilizza i flussi di lavoro per:
+Adobe Campaign utilizza flussi di lavoro per:
 
-* Eseguire campagne di targeting. Per ulteriori informazioni, fare riferimento a [Passaggi di implementazione](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_).
-* Creare campagne: per ogni campagna, la scheda **Workflow** consente di creare la destinazione e creare le consegne. Per ulteriori informazioni, consultare [Flussi di lavoro delle campagne](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows).
-* Esecuzione  processi tecnici Adobe Campaign: pulizia, raccolta delle informazioni di tracciamento o calcoli provvisori. Per ulteriori informazioni, fare riferimento a [Flussi di lavoro tecnici](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows).
+* Eseguire campagne di targeting. Per ulteriori informazioni, consulta [Passaggi di implementazione](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_).
+* Creare campagne: per ogni campagna, la scheda **Flusso di lavoro** ti consente di creare il target e le consegne. Per ulteriori informazioni, consulta [Flussi di lavoro di campagna](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows).
+* Esecuzione dei processi tecnici di Adobe Campaign: pulizia, raccolta di informazioni di tracciamento o calcoli provvisori. Per ulteriori informazioni, consulta [Flussi di lavoro tecnici](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows).
 
-In questo video viene illustrato come creare un flusso di lavoro in Adobe Campaign Classic.
+Questo video spiega come creare un flusso di lavoro in Adobe Campaign Classic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12)
