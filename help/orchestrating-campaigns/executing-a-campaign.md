@@ -1,27 +1,29 @@
 ---
 title: Esecuzione di una campagna
-description: Scoprite come eseguire una campagna, esaminare la consegna di un'e-mail e le proprietà di consegna.
-feature: Campaigns
+description: Scopri come eseguire una campagna, esaminare una consegna e-mail e le proprietà di consegna.
+feature: Campagne, E-mail
 topics: null
 kt: 5092
 thumbnail: 329647.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '58'
 ht-degree: 3%
 
 ---
 
 # Esecuzione di una campagna
 
-Scoprite come eseguire una campagna, esaminare la consegna di un&#39;e-mail e le proprietà di consegna.
+Scopri come eseguire una campagna, esaminare una consegna e-mail e le proprietà di consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329647?quality=12)
 
 ## Risorse aggiuntive
 
-*[Impostazione delle campagne di marketing (documentazione prodotto)](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en#orchestrating-campaigns)
+*[Impostazione di campagne di marketing (documentazione del prodotto)](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en#orchestrating-campaigns)
