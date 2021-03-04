@@ -1,25 +1,27 @@
 ---
-title: Come creare e progettare le consegne tramite e-mail
-description: Comprendere il processo di creazione di una distribuzione e-mail e imparare a progettare e personalizzare il contenuto delle e-mail.
-feature: Email, Email Design, Personalization
+title: Come creare e progettare consegne e-mail
+description: Scopri il processo di creazione di una consegna e-mail e come progettare e personalizzare il contenuto delle e-mail.
+feature: E-mail, Progettazione e-mail, Personalizzazione
 topics: null
 kt: 6824
 thumbnail: 330941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: e83e6225cd7312c95dabe44f994f797a7b165226
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 12%
+source-wordcount: '69'
+ht-degree: 11%
 
 ---
 
 
-# Creazione e progettazione di invii e-mail
+# Creare e progettare consegne e-mail
 
-Comprendere il processo di creazione di una distribuzione e-mail e imparare a progettare e personalizzare il contenuto delle e-mail.
+Scopri il processo di creazione di una consegna e-mail e come progettare e personalizzare il contenuto delle e-mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12)
 
