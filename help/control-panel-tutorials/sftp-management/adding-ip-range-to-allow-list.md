@@ -1,7 +1,7 @@
 ---
 title: 'Aggiunta di un intervallo IP all’elenco Consentiti '
-description: Scopri come aggiungere un intervallo di indirizzi IP al elenco consentiti .
-feature: Ip Range
+description: Scopri come aggiungere un intervallo di indirizzi IP all’elenco Consentiti.
+feature: 'Pannello di controllo Campaign   '
 topics: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
@@ -9,20 +9,22 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
+role: Amministratore
+level: Esperienza
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 20%
+source-wordcount: '96'
+ht-degree: 21%
 
 ---
 
 
 # Aggiunta di un intervallo IP all’elenco Consentiti
 
-Per connettersi a un server, tramite un&#39;applicazione client o un&#39;API, è necessario impostare una chiave SSH pubblica e aggiungere l&#39;indirizzo IP che si connette al server SFTP al elenco consentiti .
+Per connettersi a un server tramite un’applicazione client o un’API, è necessario impostare una chiave SSH pubblica e aggiungere l’indirizzo IP che si connette al server SFTP all’elenco Consentiti.
 
-Scopri come aggiungere un intervallo di indirizzi IP al elenco consentiti .
+Scopri come aggiungere un intervallo di indirizzi IP all’elenco Consentiti.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
 
