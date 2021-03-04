@@ -1,37 +1,39 @@
 ---
 title: Configurazione di un modello di consegna in Adobe Campaign Classic
-description: Un modello può includere sistematicamente tipologie, mittenti e indirizzi di risposta, nonché blocchi di personalizzazione di base come la pagina mirror e i collegamenti di annullamento dell’iscrizione. Può anche includere contenuto, logo aziendale o firma e altre proprietà di consegna, come la validità delle risorse, le quantità batch e così via. Il seguente video illustra come configurare un modello per una distribuzione ad hoc.
-feature: Delivery Templates
+description: Scopri come configurare un modello per una consegna ad hoc.
+feature: Modelli di consegna
 topics: Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Amministratore
+level: Principiante
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 16%
 
 ---
 
 
 # Configurazione di un modello di consegna
 
-I reparti marketing producono modelli di distribuzione per standardizzare l&#39;aspetto e il comportamento creativo, in modo da essere più veloci nell&#39;esecuzione e nell&#39;avvio delle campagne.
+I reparti di marketing producono modelli di consegna per standardizzare l’aspetto creativo e l’aspetto creativo, al fine di essere più rapidi nell’esecuzione e nel lancio delle campagne.
 
 Un modello può includere sistematicamente:
 
 * Tipologie
 * Indirizzi di invio e risposta
 * Blocchi di personalizzazione di base
-* Collegamenti alle pagine mirror e annullamento della sottoscrizione
-* Contenuto, un logo aziendale o una firma
-* Altre proprietà di consegna, quali validità delle risorse, quantità batch, ...
+* Collegamenti a pagine mirror e annullamento dell’abbonamento
+* Contenuto, logo o firma dell&#39;azienda
+* Altre proprietà di consegna, ad esempio validità delle risorse, quantità batch...
 
-Il seguente video illustra come configurare un modello per una distribuzione ad hoc.
+Il video seguente illustra come configurare un modello per una consegna ad hoc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12)
 
