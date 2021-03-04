@@ -1,21 +1,23 @@
 ---
 title: Aggiunta di indirizzi IP all’elenco consentiti
 seo-title: Aggiunta di indirizzi IP all’elenco consentiti
-description: Scoprite come aggiungere un intervallo IP ai elenchi consentiti di  delle istanze di Campaign Classic e come rimuoverle dal elenco consentiti di  utilizzando il pannello di controllo.
+description: Scopri come aggiungere un intervallo IP agli elenchi consentiti delle istanze Campaign Classic e come rimuoverli dall’elenco Consentiti utilizzando il pannello di controllo .
 seo-description: Il video seguente spiega come impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti.
-feature: instance settings
+feature: 'Pannello di controllo Campaign   '
 topics: null
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: Amministratore
+level: Esperienza
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '221'
+ht-degree: 72%
 
 ---
 
@@ -35,9 +37,9 @@ Per accedere alla gestione dei sottodomini nel Pannello di controllo Campaign, v
 o
 * Direttamente dall’URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## Aggiungere un intervallo IP al elenco consentiti  dell&#39;istanza
+## Aggiungi un intervallo IP all’elenco Consentiti dell’istanza
 
-Scoprite come aggiungere un intervallo IP ai elenchi consentiti di  delle istanze di Campaign Classic e come rimuoverle dal elenco consentiti di  utilizzando il pannello di controllo.
+Scopri come aggiungere un intervallo IP agli elenchi consentiti delle istanze Campaign Classic e come rimuoverli dall’elenco Consentiti utilizzando il pannello di controllo .
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
