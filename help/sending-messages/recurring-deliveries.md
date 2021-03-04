@@ -1,42 +1,44 @@
 ---
 title: Come impostare campagne e-mail ricorrenti e continue
-description: Questa esercitazione spiega come impostare una distribuzione ricorrente e continua e le differenze tra i due approcci in Adobe Campaign Classic (ACC).
-feature: workflows
+description: Scopri come impostare una consegna ricorrente e continua e comprendere le differenze tra i due approcci.
+feature: Flussi di lavoro
 topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 5%
+source-wordcount: '270'
+ht-degree: 6%
 
 ---
 
 
 # Come impostare campagne e-mail ricorrenti e continue
 
-Questa esercitazione spiega come impostare una distribuzione ricorrente e continua e le differenze tra i due approcci.
+Questa esercitazione spiega come impostare una consegna ricorrente e continua e le differenze tra i due approcci.
 
 ## Tracciamento continuo e ricorrente delle consegne {#recurring-and-continuous-delivery-tracking}
 
 Le consegne ricorrenti e continue differiscono nel modo in cui vengono gestiti i dati di contatto:
 
-* La **consegna continua** consente di aggiungere nuovi destinatari a una consegna esistente ed evita di dover creare una nuova consegna ogni volta che viene aggiunto un nuovo destinatario. Potete aggiornare il creativo direttamente nel flusso di lavoro della campagna e il modello verrà aggiornato nella cartella delle risorse del modello di consegna.
+* La **consegna continua** consente di aggiungere nuovi destinatari a una consegna esistente e di evitare di dover creare una nuova consegna ogni volta che viene aggiunto un nuovo destinatario. Puoi aggiornare il creativo direttamente nel flusso di lavoro della campagna e il modello verrà aggiornato nella cartella Resource del modello di consegna.
 
-   Una consegna continua creerà un singolo log di consegna e consegna (wideLog) e registri di tracciamento che fanno riferimento al fatto che una consegna viene aggiunta ogni volta che viene eseguita.
+   Una consegna continua creerà un singolo log di consegna e consegna (wideLog) e registri di tracciamento che fanno riferimento a tale consegna che vengono aggiunti ogni volta che viene eseguita.
 
 ![Consegna continua](/help/assets/delivery_continuous.jpg)
 
-* Una **consegna ricorrente** creerà una nuova istanza di consegna ogni volta che viene eseguita. Ad esempio, se il flusso di lavoro è pianificato per essere eseguito una volta alla settimana, il risultato sarà 52 Consegne dopo un anno. Ciò significa anche che i log di registro e di monitoraggio ampi saranno separati da ogni istanza di consegna.
+* Una **consegna ricorrente** creerà una nuova istanza di consegna ogni volta che viene eseguita. Ad esempio, se il flusso di lavoro è pianificato per essere eseguito una volta alla settimana, si otterranno 52 consegne dopo un anno. Ciò significa anche che i registri di registro e di tracciamento ampi saranno separati da ogni istanza di consegna.
 
 ![Consegna ricorrente](/help/assets/delivery_recurring.jpg)
 
 ## Come impostare una consegna ricorrente {#how-to-set-up-a-recurring-delivery}
 
-In questo video viene illustrato come configurare un&#39;attività di consegna periodica e un&#39;attività di pianificazione.
+Questo video spiega come configurare una consegna ricorrente e un’attività di pianificazione.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
 
