@@ -1,25 +1,27 @@
 ---
 title: Creazione di un elenco di destinatari con un flusso di lavoro
 description: Scopri come creare un pubblico configurando un elenco di destinatari da Esplora risorse.
-feature: Audiences
+feature: Pubblici
 topics: Getting started
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
 activity: setup
 team: DOC
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 50%
+source-wordcount: '88'
+ht-degree: 48%
 
 ---
 
 
 # Creazione di un elenco di destinatari con un flusso di lavoro
 
-Scoprite come creare un flusso di lavoro per indirizzare i destinatari e come renderlo ricorrente prima di utilizzare l&#39;elenco in una destinazione e-mail.
+Scopri come creare un flusso di lavoro per eseguire il targeting dei destinatari e come renderlo ricorrente prima di utilizzare l’elenco in una destinazione e-mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12)
 
