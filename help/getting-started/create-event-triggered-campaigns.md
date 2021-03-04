@@ -1,23 +1,25 @@
 ---
-title: Creazione di campagne con attivazione evento
-description: Scoprite come creare una campagna con attivazione di un evento e comprenderne gli usi.
-feature: Workflows, Targeting Activity
+title: Creare campagne con attivazione evento
+description: Scopri come creare una campagna attivata da un evento e comprenderne gli utilizzi.
+feature: Flussi di lavoro, attività di targeting
 kt: 5087
 thumbnail: 330920.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Professionista
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
 
-# Creazione di campagne con attivazione evento
+# Creare campagne con attivazione evento
 
-Scoprite come creare una campagna con attivazione di un evento e comprenderne gli usi.
+Scopri come creare una campagna attivata da un evento e comprenderne gli utilizzi.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330920?quality=12)
