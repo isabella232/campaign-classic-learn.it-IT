@@ -1,7 +1,7 @@
 ---
 product: Adobe Campaign Classic
 user-guide-title: ' Tutorial sul Pannello di controllo di Adobe Campaign'
-user-guide-description: Scoprite come monitorare le risorse chiave delle vostre istanze Adobe Campaign  ed eseguire attività amministrative nel Pannello di controllo Campaign.
+user-guide-description: Scopri come monitorare le risorse chiave delle istanze Adobe Campaign ed eseguire attività amministrative nel Pannello di controllo Campaign.
 breadcrumb-title: Tutorial del Pannello di controllo Campaign
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
@@ -11,11 +11,14 @@ tutorials-url: https://docs.adobe.com/content/help/it-IT/campaign-classic-learn/
 getting-started-title: Documentazione
 getting-started-url: https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
+feature: 'Pannello di controllo Campaign   '
+role: Amministratore
+level: Esperienza
 translation-type: tm+mt
-source-git-commit: f4be1f91a69c14fe6a61b4e286c656dcf46a5a67
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 89%
+source-wordcount: '161'
+ht-degree: 88%
 
 ---
 
