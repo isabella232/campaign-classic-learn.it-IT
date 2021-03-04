@@ -1,25 +1,27 @@
 ---
 title: Configurazione del contenuto dinamico
-description: Comprendi i diversi tipi di contenuto dinamico e scopri come creare e applicare blocchi di personalizzazione e istruzioni condizionali a una distribuzione.
-feature: Dynamic Content, Personalization, Email
+description: Scopri i diversi tipi di contenuti dinamici e come creare e applicare blocchi di personalizzazione e istruzioni condizionali a una consegna.
+feature: Contenuto dinamico, Personalizzazione, E-Mail
 topics: null
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 22%
+source-wordcount: '84'
+ht-degree: 20%
 
 ---
 
 
 # Configurazione del contenuto dinamico
 
-Comprendi i diversi tipi di contenuto dinamico e scopri come creare e applicare blocchi di personalizzazione e istruzioni condizionali a una distribuzione.
+Scopri i diversi tipi di contenuti dinamici e come creare e applicare blocchi di personalizzazione e istruzioni condizionali a una consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
 
