@@ -8,16 +8,18 @@ thumbnail: 25604.jpg
 doc-type: feature video
 activity: use
 team: DOC
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 60%
+source-wordcount: '54'
+ht-degree: 57%
 
 ---
 
 
-# Creazione di un’e-mail da una campagna
+# Creazione di un messaggio e-mail da una campagna
 
 Scopri come creare una consegna e-mail direttamente da una campagna.
 
