@@ -1,25 +1,27 @@
 ---
 title: Utilizzo dell’attività di aggiornamento elenco per creare un elenco con un flusso di lavoro
-description: Scoprite come perfezionare la destinazione applicando un'esclusione standard a un flusso di lavoro. Inoltre verrà illustrato come creare filtri predefiniti e come interrompere le riprese del flusso di lavoro.
-feature: Workflows
+description: Scopri come perfezionare la destinazione applicando un’esclusione standard a un flusso di lavoro. Inoltre verrà illustrato come creare filtri predefiniti e come risolvere i problemi relativi al flusso di lavoro.
+feature: Flussi di lavoro, Attività di targeting, Editor query
 topics: Targeting Activities
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 36%
+source-wordcount: '131'
+ht-degree: 34%
 
 ---
 
 
 # Utilizzo dell’attività di aggiornamento elenco per creare un elenco con un flusso di lavoro
 
-Comprendere il concetto di elenchi in Adobe Campaign Classic e imparare a creare un elenco utilizzando l&#39;attività dell&#39;elenco di aggiornamenti in un flusso di lavoro.
+Scopri il concetto degli elenchi in Adobe Campaign Classic e come creare un elenco utilizzando l’attività di aggiornamento elenco in un flusso di lavoro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
 
