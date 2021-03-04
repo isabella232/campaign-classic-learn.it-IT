@@ -3,11 +3,15 @@ title: Esercitazioni Adobe Campaign Classic - Panoramica
 description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
+feature: Panoramica
+topic: null
+role: Business Practices, amministratore, sviluppatore
+level: Principiante
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '257'
+ht-degree: 68%
 
 ---
 
@@ -18,25 +22,25 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Creare campagne multicanale](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+* **[Creare campagne cross-channel](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
-   *Scopri come creare ed eseguire una campagna tra canali.*
+   *Scopri come creare ed eseguire una campagna cross-channel.*
 
 * **[Utilizzare i gruppi di controllo](/help/sending-messages/email-channel/use-control-groups.md)**
 
-   *Comprendere il concetto di gruppi di controllo e imparare a utilizzare un gruppo di controllo per la distribuzione.*
+   *Scopri il concetto di gruppi di controllo e come utilizzare un gruppo di controllo per la consegna.*
 
-* **[Inviare e convalidare le prove](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
+* **[Inviare e convalidare le bozze](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-   *Scopri come inviare e convalidare una prova.*
+   *Scopri come inviare e convalidare una bozza.*
 
-* **[Creare e-mail per la consegna](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[E-mail di progettazione per il recapito messaggi](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
-   *Scopri come applicare le best practice per la recapito.*
+   *Scopri come applicare le best practice per il recapito messaggi.*
 
-* **[Creazione e progettazione di invii e-mail](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+* **[Creare e progettare consegne e-mail](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
-   *Comprendere il processo di creazione di una distribuzione e-mail e imparare a progettare e personalizzare il contenuto delle e-mail.*
+   *Scopri il processo di creazione di una consegna e-mail e come progettare e personalizzare il contenuto delle e-mail.*
 
 
 ## Tutorial scelti dal personale
