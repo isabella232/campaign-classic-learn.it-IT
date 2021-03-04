@@ -1,16 +1,18 @@
 ---
 title: 'Configurare il canale push con l’SDK mobile di Experience Platform '
-description: 'Questo video spiega come configurare il canale push per i Campaign Classic mediante l’SDK Mobile per Experience Cloud . '
-feature: Mobile SDK
+description: 'Scopri come configurare il canale push con l’SDK di Experience Cloud Mobile. '
+feature: Push
 topics: Mobile Channels
 kt: 2683
 doc-type: feature video
 activity: setup
 team: PM
+role: Amministratore
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '89'
 ht-degree: 24%
 
 ---
@@ -18,14 +20,14 @@ ht-degree: 24%
 
 # Configurare il canale push con l’SDK mobile di Experience Platform
 
-In questo video viene illustrato come configurare e installare l’SDK di Adobe Experience Platform Mobile.
+Questo video spiega come configurare e installare l’SDK di Adobe Experience Platform Mobile.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12)
 
-*Configurare e installare Adobe Experience Platform Mobile SDK (07:04 min)*
+*Configurare e installare l’SDK di Adobe Experience Platform Mobile (07:04 min)*
 
 ## Risorse aggiuntive
 
-* [Estensione Campaign Classic per Adobe Experience Platform SDK](https://helpx-internal.corp.adobe.com/content/help/en/campaign/kb/acc-aep-extension.html)
+* [Estensione Campaign Classic per l’SDK di Adobe Experience Platform](https://helpx-internal.corp.adobe.com/content/help/en/campaign/kb/acc-aep-extension.html)
 
-* [Configurare l&#39;estensione Campaign Classic in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
+* [Configurare l’estensione Campaign Classic in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
