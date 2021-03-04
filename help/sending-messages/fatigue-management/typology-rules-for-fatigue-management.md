@@ -1,37 +1,39 @@
 ---
-title: Come impostare la gestione dell'affaticamento utilizzando le regole di tipologia in Adobe Campaign Classic
-description: La gestione della fatica controlla la frequenza e la quantità di messaggi per evitare l'eccessiva sollecitazione dei destinatari e viene spesso applicata utilizzando una regola di tipologia. Questo video spiega come implementare la gestione della fatica in Adobe Campaign Classic sfruttando le regole della tipologia.
-feature: Fatigue Management
+title: Come impostare la gestione dell’affaticamento utilizzando le regole di tipologia in Adobe Campaign Classic
+description: Scopri come implementare la gestione dell’affaticamento sfruttando le regole di tipologia.
+feature: Gestione dell’affaticamento
 topics: null
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 2%
+source-wordcount: '210'
+ht-degree: 3%
 
 ---
 
 
-# Come impostare la gestione dell&#39;affaticamento utilizzando le regole di tipologia
+# Come impostare la gestione dell’affaticamento utilizzando le regole di tipologia
 
-La gestione della fatica controlla la frequenza e la quantità di messaggi per evitare l&#39;eccessiva sollecitazione dei destinatari e viene spesso applicata utilizzando una regola di tipologia.
+La gestione dell’affaticamento controlla la frequenza e la quantità di messaggi per evitare un’eccessiva sollecitazione dei destinatari e viene spesso applicata utilizzando una regola di tipologia.
 
-Le regole di tipologia consentono ai professionisti del marketing di standardizzare le pratiche aziendali in tutte le consegne in modo più efficiente, per controllare i messaggi delle campagne per i clienti. Ciò viene fatto eliminando la necessità di applicare esclusioni o regole comunemente utilizzate a ogni singola campagna. I destinatari che corrispondono ai criteri all&#39;interno di una *regola di tipologia* verranno esclusi dalla consegna durante la fase di analisi.
+Le regole di tipologia consentono agli esperti di marketing di standardizzare le pratiche aziendali su tutte le consegne in modo più efficiente per controllare la messaggistica delle campagne ai clienti. A tal fine, elimina la necessità di applicare esclusioni o regole di uso comune a ogni singola campagna. I destinatari che soddisfano i criteri all&#39;interno di una *regola di tipologia* verranno esclusi dalla consegna durante la fase di analisi.
 
-Solitamente un insieme di *regole di tipologia* viene raggruppato all&#39;interno di una *tipologia* per applicare facilmente più regole di filtro a una consegna alla volta.
+Di solito un set di *regole di tipologia* è raggruppato all&#39;interno di una *tipologia* per applicare facilmente più regole di filtro a una consegna alla volta.
 
-Questo elimina i passaggi aggiuntivi durante la creazione di campagne e flussi di lavoro diversi, garantendo allo stesso tempo che il targeting della popolazione corretta sia coerente al momento giusto.
+Questo elimina i passaggi aggiuntivi durante la creazione di campagne e flussi di lavoro diversi, garantendo al contempo di eseguire il targeting coerente della popolazione corretta al momento giusto.
 
-Questo video spiega come implementare la gestione della fatica in Adobe Campaign Classic sfruttando le regole della tipologia.
+Questo video spiega come implementare la gestione dell’affaticamento in Adobe Campaign Classic sfruttando le regole di tipologia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
 ## Risorse aggiuntive
 
 * [Informazioni sulle tipologie di campagne](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
-* [Gestione della stanchezza di marketing con le regole di pressione](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
+* [Gestione dell’affaticamento del marketing con le regole di pressione](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
 
