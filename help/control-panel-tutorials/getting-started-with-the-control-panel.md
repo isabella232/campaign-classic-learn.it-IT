@@ -1,31 +1,34 @@
 ---
 title: Guida introduttiva al Pannello di controllo Campaign
-description: Questo articolo spiega come accedere al Pannello di controllo Campaign e quali prerequisiti devono essere utilizzati con il pannello di controllo.
-feature: Control Panel
+description: Scopri come accedere al Pannello di controllo Campaign e quali sono i prerequisiti per utilizzare il pannello di controllo.
+feature: 'Pannello di controllo Campaign   '
 topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
+topic: null
+role: Amministratore
+level: Esperienza
 translation-type: tm+mt
-source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 65%
+source-wordcount: '219'
+ht-degree: 66%
 
 ---
 
 
-# Guida introduttiva di [!UICONTROL Control Panel] {#control-panel}
+# Guida introduttiva a [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
 >I termini “[!UICONTROL whitelist]” e “[!UICONTROL blacklist]” sono stati sostituiti da “[!UICONTROL allowlist]” e “[!UICONTROL denylist]” nella documentazione di Adobe Campaign. Alcune occorrenze di questi termini potrebbero ancora essere presenti nell’interfaccia utente del prodotto, nei nomi delle opzioni, nel codice interno e nei video delle esercitazioni. Saranno sostituiti nelle prossime versione del Pannello di controllo Campaign.
 
-[!UICONTROL Control Panel] consente  amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l&#39;archiviazione [!DNL SFTP] per istanza, gestire le chiavi [!DNL GPG] o [!UICONTROL subdomains] e [!UICONTROL certificates].
+Il [!UICONTROL Control Panel] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione [!DNL SFTP] per istanza, gestire le chiavi [!DNL GPG] o [!UICONTROL subdomains] e [!UICONTROL certificates].
 
-Questo articolo spiega come accedere al Pannello di controllo Campaign e quali prerequisiti devono essere utilizzati con il pannello di controllo.
+Questo articolo spiega come accedere al Pannello di controllo Campaign e quali sono i prerequisiti per utilizzare il pannello di controllo.
 
 ## Accesso al [!UICONTROL Control Panel]
 
