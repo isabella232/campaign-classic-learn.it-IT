@@ -1,25 +1,27 @@
 ---
 title: Ottimizzazione delle destinazioni attraverso la combinazione dei risultati delle query
-description: Scoprite come perfezionare la destinazione combinando i risultati della query in un flusso di lavoro utilizzando l'intersezione o le attività dell'unione.
-feature: Workflows
+description: Scopri come perfezionare il target combinando i risultati delle query in un flusso di lavoro utilizzando l’intersezione o le attività dell’unione.
+feature: Flussi di lavoro, Attività di targeting, Editor query
 topics: Targeting Activities
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 36%
+source-wordcount: '119'
+ht-degree: 34%
 
 ---
 
 
 # Ottimizzazione delle destinazioni attraverso la combinazione dei risultati delle query
 
-Scoprite come perfezionare la destinazione combinando i risultati della query in un flusso di lavoro utilizzando le attività **[!UICONTROL intersection]** o **[!UICONTROL union]**.
+Scopri come perfezionare la destinazione combinando i risultati delle query in un flusso di lavoro utilizzando le attività **[!UICONTROL intersection]** o **[!UICONTROL union]** .
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
