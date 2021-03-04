@@ -1,27 +1,29 @@
 ---
-title: Personalizzazione di e-mail tramite campi di personalizzazione
-description: Scoprite come aggiungere un campo di personalizzazione alla riga dell'oggetto e al contenuto di una distribuzione tramite e-mail.
-feature: Dynamic Content Blocks
+title: Personalizzazione delle e-mail tramite campi di personalizzazione
+description: Scopri come aggiungere un campo di personalizzazione alla riga dell’oggetto e il contenuto di una consegna e-mail.
+feature: Blocchi di contenuto dinamici
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Professionista
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 37%
+source-wordcount: '130'
+ht-degree: 36%
 
 ---
 
 
-# Personalizzazione di e-mail tramite campi di personalizzazione
+# Personalizzazione delle e-mail tramite campi di personalizzazione
 
-I campi di personalizzazione sono utilizzati per la personalizzazione di primo livello del contenuto dei messaggi inviati. I campi inseriti in un contenuto principale mostrano la posizione in cui inserire i dati da un&#39;origine dati selezionata.
+I campi di personalizzazione sono utilizzati per la personalizzazione di primo livello del contenuto dei messaggi inviati. I campi inseriti in un contenuto principale mostrano la posizione in cui inserire i dati da un’origine dati selezionata.
 
-Scoprite come aggiungere un campo di personalizzazione alla riga dell&#39;oggetto e al contenuto di una distribuzione tramite e-mail.
+Scopri come aggiungere un campo di personalizzazione alla riga dell’oggetto e il contenuto di una consegna e-mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
