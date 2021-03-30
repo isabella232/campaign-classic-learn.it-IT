@@ -10,9 +10,9 @@ team: TM
 role: Amministratore
 level: Esperienza
 translation-type: tm+mt
-source-git-commit: 683f1b38be18468bf34eb5b43988b8c2477f951b
+source-git-commit: f237d0029ee534a2b7872580bccb2c3d74f45510
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 36%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 36%
 
 >[!NOTE]
 >
->Il Pannello di controllo Campaign è accessibile a tutti gli utenti amministratori. I passaggi per concedere all&#39;amministratore l&#39;accesso a un utente sono descritti in dettaglio nella [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel).
+> Il Pannello di controllo Campaign è accessibile a tutti gli utenti amministratori. I passaggi per concedere all&#39;amministratore l&#39;accesso a un utente sono descritti in dettaglio nella [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel).
 Tieni presente che l’istanza deve essere ospitata su AWS e aggiornata con la build [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html) più recente. Scopri come controllare la versione in [questa sezione](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Per verificare se l&#39;istanza è ospitata su AWS, segui i passaggi descritti in [questa pagina](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
 
 [!UICONTROL Control Panel] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione [!DNL SFTP] per istanza, gestire le chiavi [!DNL GPG] o [!UICONTROL subdomains] e [!UICONTROL certificates].
@@ -51,8 +51,6 @@ Prima di iniziare, completa i seguenti prerequisiti:
 Devi conoscere il tuo [!DNL IMS org ID]. Il video seguente spiega dove puoi trovare l’[!DNL IMS org ID] dell’istanza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-
-*Check [!DNL IMS Org ID] (00:26 min)*
 
 ### Diritti di amministratore
 
