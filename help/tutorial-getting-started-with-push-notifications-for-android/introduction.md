@@ -8,12 +8,12 @@ doc-type: article
 activity: setup
 team: TM
 role: Amministratore, sviluppatore
-level: Esperienza
-translation-type: tm+mt
+level: Esperto
+translation-type: ht
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '369'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
