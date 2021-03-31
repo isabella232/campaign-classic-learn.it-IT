@@ -5,13 +5,13 @@ product: Campaign
 sub-product: Campaign Classic
 feature: Panoramica
 topic: null
-role: Business Practices, amministratore, sviluppatore
+role: Professionista, amministratore, sviluppatore
 level: Principiante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -28,19 +28,19 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 * **[Utilizzare i gruppi di controllo](/help/sending-messages/email-channel/use-control-groups.md)**
 
-   *Scopri il concetto di gruppi di controllo e come utilizzare un gruppo di controllo per la consegna.*
+   *Scopri il concetto di gruppi di controllo e come utilizzarli per la consegna.*
 
 * **[Inviare e convalidare le bozze](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
    *Scopri come inviare e convalidare una bozza.*
 
-* **[E-mail di progettazione per il recapito messaggi](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[Progettare le e-mail per ottimizzarne la consegna](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
-   *Scopri come applicare le best practice per il recapito messaggi.*
+   *Scopri come applicare le best practice per la consegna dei messaggi.*
 
 * **[Creare e progettare consegne e-mail](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
-   *Scopri il processo di creazione di una consegna e-mail e come progettare e personalizzare il contenuto delle e-mail.*
+   *Scopri il processo di creazione di una consegna e-mail e come progettare e personalizzare i contenuti.*
 
 
 ## Tutorial scelti dal personale
