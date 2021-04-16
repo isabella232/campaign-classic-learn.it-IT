@@ -8,10 +8,10 @@ feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/campaign-classic-learn.it-IT
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: dfde42fa37a3ae3387d709d50acbe4aeb0f5b891
-workflow-type: tm+mt
-source-wordcount: '131'
+workflow-type: ht
+source-wordcount: '130'
 ht-degree: 100%
 
 ---
