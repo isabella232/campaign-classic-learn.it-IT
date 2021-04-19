@@ -11,16 +11,16 @@ kt: KT-1566
 doc-type: feature video
 activity: setup
 team: TM
-role: Professionista
-level: Avanzate
+role: Business Practitioner
+level: Experienced
+exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
-
 
 # Come configurare i flussi di lavoro di convalida in Adobe Campaign Classic
 
@@ -32,7 +32,7 @@ Questa esercitazione spiega come configurare diversi flussi di lavoro di convali
 
 Prima di abilitare i passaggi di approvazione, il team marketing deve definire i singoli revisori:
 
-* Il ruolo di revisore di Adobe Campaign all’interno di un’attività di approvazione può essere un singolo revisore (Operatore) o un gruppo di revisori (Ruolo Operatore).
+* Il ruolo di revisore Adobe Campaign all&#39;interno di un&#39;attività di approvazione può essere un singolo revisore (Operatore) o un gruppo di revisori (ruolo Operatore).
 * I revisori e i gruppi di revisori devono essere configurati in precedenza in Adobe Campaign tramite un ruolo Amministratore. Questo consente agli sviluppatori di campagne di selezionare i revisori come approvatori in una campagna o una consegna.
 
 ## Configurazione delle approvazioni per le campagne {#configuring-approvals-for-campaigns}
