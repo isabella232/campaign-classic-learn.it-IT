@@ -8,16 +8,16 @@ thumbnail: 329941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practices, amministratore, sviluppatore
-level: Avanzate
+role: Business Practitioner, Administrator, Developer
+level: Experienced
+exl-id: 99b8acff-0105-4764-82ec-7c2dfe75f0f9
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 3%
+source-wordcount: '47'
+ht-degree: 25%
 
 ---
-
 
 # Configurazione e gestione dei servizi di abbonamento
 
@@ -28,4 +28,3 @@ Scopri come impostare e gestire gli abbonamenti e gli abbonati a Target.
 ## Risorse aggiuntive
 
 * [Informazioni su servizi e abbonamenti (documentazione del prodotto)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/about-services-and-subscriptions.html)
-
