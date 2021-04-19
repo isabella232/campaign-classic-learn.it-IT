@@ -3,12 +3,11 @@ title: Esercitazioni Adobe Campaign Classic - Panoramica
 description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.
 sub-product: Campaign Classic
 feature: Panoramica
-topic: null
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 translation-type: tm+mt
-source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 100%
