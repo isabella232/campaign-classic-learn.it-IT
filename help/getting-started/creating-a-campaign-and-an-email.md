@@ -8,16 +8,16 @@ thumbnail: 25604.jpg
 doc-type: feature video
 activity: use
 team: DOC
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
+exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 57%
+source-wordcount: '51'
+ht-degree: 76%
 
 ---
-
 
 # Creazione di un messaggio e-mail da una campagna
 
@@ -27,4 +27,4 @@ Scopri come creare una consegna e-mail direttamente da una campagna.
 
 ## Risorse aggiuntive
 
-* [Caso d’uso: creazione di una consegna e-mail](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case)
+* [Caso d’uso: creazione di una consegna e-mail](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html?lang=it#designing-content)
