@@ -1,23 +1,23 @@
 ---
-title: Come creare un invio SMS
-description: Scoprite come creare una distribuzione SMS.
-feature: sms
+title: Come creare una consegna SMS
+description: Scopri come creare una consegna SMS.
+feature: SMS
 kt: 5083
 thumbnail: 330982.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+exl-id: 53e7951e-d0a9-433c-b668-b384582cda58
 translation-type: tm+mt
-source-git-commit: 58640a8da5bad8c012578e2884299b4b8b566adc
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '24'
-ht-degree: 16%
+source-wordcount: '25'
+ht-degree: 20%
 
 ---
 
-
 # Creare una consegna SMS
 
-Scoprite come creare una distribuzione SMS.
+Scopri come creare una consegna SMS.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330982)
