@@ -1,7 +1,7 @@
 ---
 title: Creare un messaggio e-mail da una campagna
 description: Scopri come creare una consegna e-mail direttamente da una campagna.
-feature: E-mail
+feature: Email
 topics: null
 kt: 2172
 thumbnail: 25604.jpg

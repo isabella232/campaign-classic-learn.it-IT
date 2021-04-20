@@ -1,7 +1,7 @@
 ---
 title: Gestione dell’affaticamento del marketing con le regole di pressione
 description: Scopri come implementare la gestione dell’affaticamento in Adobe Campaign Classic utilizzando i filtri.
-feature: Gestione dell’affaticamento
+feature: Fatigue Management
 topics: null
 kt: 2148
 doc-type: feature video

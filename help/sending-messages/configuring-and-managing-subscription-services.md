@@ -1,7 +1,7 @@
 ---
 title: Configurazione e gestione dei servizi di abbonamento
 description: Scopri come impostare e gestire gli abbonamenti e gli abbonati a Target.
-feature: 'Abbonamenti     '
+feature: Subscriptions     
 topics: null
 kt: 5088
 thumbnail: 329941.jpg

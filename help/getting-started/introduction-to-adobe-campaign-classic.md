@@ -1,7 +1,7 @@
 ---
 title: Introduzione ad Adobe Campaign Classic
 description: Scopri in che modo Adobe Campaign Classic si inserisce nel portfolio delle esperienze digitali Adobe e ottieni una panoramica delle sue funzioni e caratteristiche principali.
-feature: Panoramica
+feature: Overview
 topics: Getting started
 kt: 5457
 thumbnail: 35129.jpg

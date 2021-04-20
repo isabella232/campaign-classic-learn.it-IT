@@ -1,15 +1,15 @@
 ---
 title: Esecuzione di una campagna
 description: Scopri come eseguire una campagna, esaminare una consegna e-mail e le proprietà di consegna.
-feature: Campagne, E-mail
+feature: Campaigns, Email
 topics: null
 kt: 5092
 thumbnail: 329647.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

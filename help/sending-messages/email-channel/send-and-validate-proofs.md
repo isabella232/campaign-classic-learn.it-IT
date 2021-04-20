@@ -1,7 +1,7 @@
 ---
 title: Scopri come inviare e convalidare una bozza
 description: Scopri come inviare e convalidare una bozza.
-feature: E-mail, Bozze
+feature: Email, Proofs
 kt: 5094
 thumbnail: 330945.jpg
 doc-type: feature video

@@ -1,7 +1,7 @@
 ---
 title: Creazione di consegne di direct mailing
 description: Scopri come creare, formattare ed eseguire una consegna direct mailing.
-feature: Direct mailing
+feature: Direct Mail
 topics: null
 kt: 3859
 thumbnail: 21377.jpg

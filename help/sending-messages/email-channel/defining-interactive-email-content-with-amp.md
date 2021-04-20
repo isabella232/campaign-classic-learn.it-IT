@@ -1,7 +1,7 @@
 ---
 title: Definizione del contenuto delle e-mail interattive con AMP
 description: Scopri come configurare il contenuto delle e-mail in formato AMP.
-feature: E-mail, Progettazione e-mail
+feature: Email, Email Design
 topics: Create and Send Email Deliveries
 kt: 3475
 thumbnail: 29940.jpg

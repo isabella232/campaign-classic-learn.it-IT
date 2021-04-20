@@ -1,14 +1,14 @@
 ---
 title: Come impostare la gestione dell’affaticamento utilizzando le regole di tipologia in Adobe Campaign Classic
 description: Scopri come implementare la gestione dell’affaticamento sfruttando le regole di tipologia.
-feature: Gestione dell’affaticamento
+feature: Fatigue Management
 topics: null
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

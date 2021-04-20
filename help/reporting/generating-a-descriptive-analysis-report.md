@@ -1,15 +1,15 @@
 ---
 title: Generazione di un rapporto di analisi descrittivo
 description: Scopri come generare un rapporto di analisi descrittivo da un flusso di lavoro in Adobe Campaign Classic.
-feature: Generazione rapporti
+feature: Reporting
 topics: null
 kt: 5079
 thumbnail: 35616.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

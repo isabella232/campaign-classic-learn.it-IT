@@ -1,7 +1,7 @@
 ---
 title: Come utilizzare i gruppi di controllo
 description: Scopri il concetto di gruppi di controllo e come utilizzarli per la consegna.
-feature: Gruppi di controllo
+feature: Control Groups
 kt: 5085
 thumbnail: 330955.jpg
 doc-type: feature video

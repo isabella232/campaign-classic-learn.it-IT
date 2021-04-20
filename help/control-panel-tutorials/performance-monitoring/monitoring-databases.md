@@ -1,7 +1,7 @@
 ---
 title: Monitoraggio dei database
 description: Scopri come monitorare l’utilizzo del database delle istanze.
-feature: 'Pannello di controllo Campaign   '
+feature: Control Panel
 topics: Control Panel
 kt: 6434
 thumbnail: 327175.jpg
@@ -9,8 +9,8 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
-role: Amministratore
-level: Esperienza
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

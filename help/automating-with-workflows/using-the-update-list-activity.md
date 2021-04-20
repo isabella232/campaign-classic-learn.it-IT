@@ -1,15 +1,15 @@
 ---
 title: Utilizzo dell’attività di aggiornamento elenco per creare un elenco con un flusso di lavoro
 description: Scopri come perfezionare la destinazione applicando un’esclusione standard a un flusso di lavoro. Inoltre verrà illustrato come creare filtri predefiniti e come risolvere i problemi relativi al flusso di lavoro.
-feature: Flussi di lavoro, Attività di targeting, Editor query
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

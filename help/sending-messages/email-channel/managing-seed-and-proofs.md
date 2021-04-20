@@ -1,15 +1,15 @@
 ---
 title: Come gestire seed e bozze in un’e-mail
 description: Scopri come aggiungere sementi e bozze a un’e-mail esistente e come inviarla.
-feature: E-mail
+feature: Email
 topics: null
 kt: 2178
 thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

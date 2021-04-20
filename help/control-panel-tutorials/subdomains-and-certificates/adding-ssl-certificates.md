@@ -1,15 +1,15 @@
 ---
 title: Aggiunta di certificati SSL
 description: Scopri come aggiungere certificati SSL per proteggere i sottodomini.
-feature: 'Pannello di controllo Campaign   '
+feature: Control Panel
 topics: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Amministratore
-level: Esperienza
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

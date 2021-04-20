@@ -1,15 +1,15 @@
 ---
 title: Accesso ai report incorporati
 description: Comprendi le funzioni di reporting e analisi integrate e come generare un rapporto di consegna.
-feature: Generazione rapporti
+feature: Reporting
 topics: null
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

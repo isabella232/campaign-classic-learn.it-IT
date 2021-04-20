@@ -1,7 +1,7 @@
 ---
 title: Personalizzare le e-mail utilizzando blocchi di contenuto dinamici
 description: Questa esercitazione illustra come personalizzare i contenuti di consegna, utilizzare il codice JavaScript nei modelli di consegna e standardizzare e condividere i blocchi di contenuto in diversi modelli di consegna.
-feature: Contenuto dinamico
+feature: Dynamic Content
 topics: Email Channel
 kt: 1559
 doc-type: feature video

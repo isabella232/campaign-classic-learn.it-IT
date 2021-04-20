@@ -4,7 +4,7 @@ user-guide-description: Scopri come monitorare le risorse chiave delle istanze d
 breadcrumb-title: Tutorial del Pannello di controllo Campaign
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
-feature: Pannello di controllo Campaign
+feature: Control Panel
 role: Administrator
 level: Experienced
 translation-type: tm+mt

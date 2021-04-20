@@ -1,15 +1,15 @@
 ---
 title: Gestione delle approvazioni in una campagna
 description: Scopri come impostare le approvazioni e una campagna e come distinguere tra consegna e approvazione di un flusso di lavoro.
-feature: Flussi di lavoro, approvazioni
+feature: Workflows, Approvals
 topics: null
 kt: 5093
 thumbnail: 329605.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

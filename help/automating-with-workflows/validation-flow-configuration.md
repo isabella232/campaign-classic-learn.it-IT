@@ -5,7 +5,7 @@ description: Scopri come configurare diversi flussi di lavoro di convalida dellâ
 seo-description: Questo video spiega come configurare e utilizzare un modello di consegna in ACCAdobe Campaign offre diverse opzioni agli esperti di marketing per rivedere e fornire contenuti di consegna, target della campagna, estrazione dei dati e approvazioni del budget. Questa esercitazione spiega come configurare diversi flussi di lavoro di convalida dell'approvazione.
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Flussi di lavoro, approvazioni
+feature: Workflows, Approvals
 topics: Validation
 kt: KT-1566
 doc-type: feature video

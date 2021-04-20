@@ -1,7 +1,7 @@
 ---
 title: Creare campagne multicanale
 description: Scopri come creare una campagna canale-canale.
-feature: Flussi di lavoro
+feature: Workflows
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video

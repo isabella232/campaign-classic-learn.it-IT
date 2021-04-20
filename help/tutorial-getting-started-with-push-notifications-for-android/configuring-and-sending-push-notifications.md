@@ -8,8 +8,8 @@ thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Amministratore, sviluppatore, Business Practices
-level: principiante, intermedio, esperto
+role: Administrator, Developer, Business Practitioner
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

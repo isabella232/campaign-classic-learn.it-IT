@@ -1,15 +1,15 @@
 ---
 title: Risoluzione dei problemi di consegna e-mail
 description: Scopri come risolvere i problemi di consegna delle e-mail in Campaign.
-feature: E-mail, recapito messaggi
+feature: Email, Deliverability
 topics: deliverability
 kt: 5091
 thumbnail: 329920.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

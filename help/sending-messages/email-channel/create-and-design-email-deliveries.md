@@ -1,7 +1,7 @@
 ---
 title: Come creare e progettare consegne e-mail
 description: Scopri il processo di creazione di una consegna e-mail e come progettare e personalizzare i contenuti.
-feature: E-mail, Progettazione e-mail, Personalizzazione
+feature: Email, Email Design, Personalization
 topics: null
 kt: 6824
 thumbnail: 330941.jpg

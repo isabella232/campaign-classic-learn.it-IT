@@ -1,14 +1,14 @@
 ---
 title: Come impostare campagne e-mail ricorrenti e continue
 description: Scopri come impostare una consegna ricorrente e continua e comprendere le differenze tra i due approcci.
-feature: Flussi di lavoro
+feature: Workflows
 topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
-role: Professionista
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

@@ -3,15 +3,15 @@ title: Aggiunta di indirizzi IP all’elenco consentiti
 seo-title: Aggiunta di indirizzi IP all’elenco consentiti
 description: Scopri come aggiungere un intervallo IP agli elenchi consentiti delle istanze Campaign Classic e come rimuoverli dall’elenco Consentiti utilizzando il pannello di controllo .
 seo-description: Il video seguente spiega come impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti.
-feature: 'Pannello di controllo Campaign   '
+feature: Control Panel
 topics: null
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Amministratore
-level: Esperienza
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

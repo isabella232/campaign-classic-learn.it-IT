@@ -1,7 +1,7 @@
 ---
 title: Personalizzazione delle e-mail tramite campi di personalizzazione
 description: Scopri come aggiungere un campo di personalizzazione alla riga dell’oggetto e il contenuto di una consegna e-mail.
-feature: Contenuto dinamico
+feature: Dynamic Content
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg

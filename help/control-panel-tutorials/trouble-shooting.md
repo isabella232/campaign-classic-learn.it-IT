@@ -1,14 +1,14 @@
 ---
 title: Risoluzione dei problemi del Pannello di controllo Campaign
 description: Il Pannello di controllo Campaign consente di monitorare e gestire l’archiviazione SFTP per istanza e di inserire indirizzi IP nell’elenco Consentiti.
-feature: 'Pannello di controllo Campaign   '
+feature: Control Panel
 topics: Control Panel
 kt: 2938
 doc-type: article
 activity: use
 team: PM
-role: Amministratore
-level: Esperienza
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

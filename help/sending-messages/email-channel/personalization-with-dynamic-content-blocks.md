@@ -1,7 +1,7 @@
 ---
 title: Personalizzazione delle e-mail mediante blocchi di contenuto dinamici
 description: Scopri come sono stati creati blocchi di contenuto dinamici e come utilizzarli per personalizzare il contenuto della consegna e-mail.
-feature: Contenuto dinamico
+feature: Dynamic Content
 topics: Email Channel
 kt: 1559
 thumbnail: 24924

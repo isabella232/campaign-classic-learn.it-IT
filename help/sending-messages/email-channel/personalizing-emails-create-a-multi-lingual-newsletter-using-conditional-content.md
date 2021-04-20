@@ -1,7 +1,7 @@
 ---
 title: Personalizzazione delle e-mail - Creazione di una newsletter multilingue tramite il contenuto condizionale
 description: Scopri come aggiungere contenuto condizionale a una consegna, ad esempio una newsletter multilingue.
-feature: Contenuto dinamico
+feature: Dynamic Content
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg

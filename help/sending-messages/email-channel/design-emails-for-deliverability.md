@@ -1,7 +1,7 @@
 ---
 title: Come posso garantire il recapito dei messaggi durante la progettazione delle e-mail?
 description: Scopri come applicare le best practice per la consegna dei messaggi.
-feature: E-mail, recapito messaggi
+feature: Email, Deliverability
 topics: null
 kt: 5095
 thumbnail: 330943.jpg
