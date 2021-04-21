@@ -1,8 +1,7 @@
 ---
 title: Ottimizzazione delle destinazioni attraverso la combinazione dei risultati delle query
 description: Scopri come perfezionare il target combinando i risultati delle query in un flusso di lavoro utilizzando l’intersezione o le attività dell’unione.
-feature: Workflows, Targeting Activity, Query Editor
-topics: Targeting Activities
+feature: Flussi di lavoro, Attività di targeting, Editor query
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 34%
+source-wordcount: '116'
+ht-degree: 35%
 
 ---
-
 
 # Ottimizzazione delle destinazioni attraverso la combinazione dei risultati delle query
 
