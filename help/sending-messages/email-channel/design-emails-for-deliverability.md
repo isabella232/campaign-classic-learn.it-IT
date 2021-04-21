@@ -1,8 +1,7 @@
 ---
 title: Come posso garantire il recapito dei messaggi durante la progettazione delle e-mail?
 description: Scopri come applicare le best practice per la consegna dei messaggi.
-feature: Email, Deliverability
-topics: null
+feature: E-mail, recapito messaggi
 kt: 5095
 thumbnail: 330943.jpg
 doc-type: feature video
@@ -11,9 +10,9 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 100%
 
