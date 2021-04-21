@@ -1,10 +1,9 @@
 ---
 title: Aggiunta di indirizzi IP all’elenco consentiti
 seo-title: Aggiunta di indirizzi IP all’elenco consentiti
-description: Scopri come aggiungere un intervallo IP agli elenchi consentiti delle istanze Campaign Classic e come rimuoverli dall’elenco Consentiti utilizzando il pannello di controllo .
+description: Scopri come aggiungere un intervallo IP agli elenchi consentiti delle istanze di Campaign Classic e come rimuoverli dall’elenco consentiti utilizzando il pannello di controllo .
 seo-description: Il video seguente spiega come impostare nuove connessioni alle istanze inserendo intervalli di indirizzi IP nell’elenco Consentiti.
-feature: Control Panel
-topics: null
+feature: Pannello di controllo Campaign
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
@@ -13,14 +12,14 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
+exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 translation-type: tm+mt
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 72%
+source-wordcount: '219'
+ht-degree: 73%
 
 ---
-
 
 # Aggiunta di indirizzi IP all’elenco consentiti
 
@@ -37,9 +36,9 @@ Per accedere alla gestione dei sottodomini nel Pannello di controllo Campaign, v
 o
 * Direttamente dall’URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## Aggiungi un intervallo IP all’elenco Consentiti dell’istanza
+## Aggiungi un intervallo IP all’elenco consentiti della tua istanza
 
-Scopri come aggiungere un intervallo IP agli elenchi consentiti delle istanze Campaign Classic e come rimuoverli dall’elenco Consentiti utilizzando il pannello di controllo .
+Scopri come aggiungere un intervallo IP agli elenchi consentiti delle istanze di Campaign Classic e come rimuoverli dall’elenco consentiti utilizzando il pannello di controllo .
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
