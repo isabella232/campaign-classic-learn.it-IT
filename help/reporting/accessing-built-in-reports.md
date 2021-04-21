@@ -1,8 +1,7 @@
 ---
-title: Accesso ai report incorporati
+title: Accesso ai rapporti incorporati
 description: Comprendi le funzioni di reporting e analisi integrate e come generare un rapporto di consegna.
-feature: Reporting
-topics: null
+feature: Generazione di rapporti
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
@@ -10,16 +9,16 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '71'
 ht-degree: 12%
 
 ---
 
-
-# Accesso ai report incorporati
+# Accesso ai rapporti incorporati
 
 Comprendere  reporting e analisi incorporati in Campaign Classic e scopri come generare un rapporto di consegna.
 
