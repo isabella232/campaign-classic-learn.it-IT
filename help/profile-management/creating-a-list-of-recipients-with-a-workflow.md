@@ -1,8 +1,7 @@
 ---
 title: Creazione di un elenco di destinatari con un flusso di lavoro
 description: Scopri come creare un pubblico configurando un elenco di destinatari da Esplora risorse.
-feature: Audiences
-topics: Getting started
+feature: Pubblici
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: setup
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 48%
+source-wordcount: '85'
+ht-degree: 50%
 
 ---
-
 
 # Creazione di un elenco di destinatari con un flusso di lavoro
 
