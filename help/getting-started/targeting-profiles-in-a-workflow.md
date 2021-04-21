@@ -1,8 +1,7 @@
 ---
 title: Come eseguire il targeting dei profili in un flusso di lavoro
 description: Scopri l’utilizzo dei flussi di lavoro delle campagne e come creare un flusso di lavoro e eseguire il targeting dei profili in un flusso di lavoro utilizzando le condizioni di filtro.
-feature: Workflows
-topics: Targeting Activities
+feature: Flussi di lavoro
 kt: 5080
 thumbnail: 35614.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 30%
+source-wordcount: '132'
+ht-degree: 31%
 
 ---
-
 
 # Eseguire il targeting dei profili in un flusso di lavoro
 
@@ -25,7 +24,7 @@ Scopri l’utilizzo dei flussi di lavoro delle campagne e come creare un flusso 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
 
-## Esercitazioni successive da guardare
+## Tutorials successivi da guardare
 
 * [Ottimizzazione delle destinazioni attraverso la combinazione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [Ottimizzazione delle destinazioni attraverso l’esclusione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
