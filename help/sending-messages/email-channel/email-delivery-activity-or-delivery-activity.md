@@ -1,26 +1,25 @@
 ---
-title: Attività di distribuzione tramite e-mail e distribuzione in Adobe Campaign Classic
-description: In questo video viene illustrato come configurare e utilizzare un modello di consegna.
-feature: Delivery Templates
-topics: Templates
+title: Attività di consegna e-mail e attività di consegna in Adobe Campaign Classic
+description: Questo video spiega come configurare e utilizzare un modello di consegna.
+feature: Modelli di consegna
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 9%
+source-wordcount: '135'
+ht-degree: 8%
 
 ---
 
 
-# Attività di distribuzione tramite e-mail e attività di consegna
+# Attività di consegna e-mail e attività di consegna
 
-Un [!UICONTROL Delivery-type activity] consente di creare un&#39;azione di consegna. Può essere costruito utilizzando elementi di input.
+Un [!UICONTROL Delivery-type activity] consente di creare un’azione di consegna. Può essere costruito utilizzando elementi di input.
 
-In questo video viene illustrato come distribuire un modello di consegna e-mail. Vengono illustrate le differenze tra la consegna dell’e-mail e il flusso di lavoro di consegna.
+Questo video spiega come distribuire un modello di consegna e-mail. Spiega la differenza tra una consegna e-mail e un flusso di lavoro di consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
 
