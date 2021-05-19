@@ -10,23 +10,18 @@ team: TM
 role: Business Practitioner, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 03676d22cd0f94ff6ca34692c18a871d82f2c833
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '104'
+ht-degree: 63%
 
 ---
 
 # Definizione del contenuto delle e-mail interattive con AMP
 
-AMP for Email è un nuovo formato open source che consente agli sviluppatori di creare e-mail dinamiche e interattive. Grazie alle funzionalità moderne dell’app disponibili direttamente nelle e-mail, i destinatari possono interagire in modo dinamico con il contenuto all’interno del messaggio stesso.
+AMP for Email è un nuovo formato open-source che consente agli sviluppatori di creare e-mail dinamiche e interattive. Grazie alle funzionalità moderne dell’app disponibili direttamente nelle e-mail, i destinatari possono interagire in modo dinamico con il contenuto all’interno del messaggio stesso.
 
-Attualmente il formato è supportato da due provider di posta elettronica: Gmail e Outlook.
-
->[!NOTE]
->
->Per poter inviare e-mail AMP è necessario registrare l’indirizzo e-mail da cui intendi inviarle con [Google](https://developers.google.com/gmail/ampemail/register) e [Microsoft](https://docs.microsoft.com/it-IT/outlook/amphtml/register-outlook).
+Attualmente solo Gmail, Outlook e Mail.ru supportano il formato AMP.
 
 Il video seguente spiega come attivare AMP in Adobe Campaign Classic e ne illustra l’utilizzo.
 
@@ -34,5 +29,5 @@ Il video seguente spiega come attivare AMP in Adobe Campaign Classic e ne illust
 
 ## Risorse aggiuntive
 
-* [Documentazione](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)
 * [Editor AMP](https://playground.amp.dev/)
+* [Documentazione](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=en#about-amp-for-email)
