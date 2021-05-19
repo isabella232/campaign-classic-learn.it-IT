@@ -8,18 +8,18 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: f67d802678bbfccd6419390bbc175f62c27121e3
+source-git-commit: cfe6c54e84e4c48e6c281c820d2ea09149f781bd
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Creare campagne multicanale
+# Creare campagne cross-channel
 
 In una campagna cross-channel, una singola comunicazione di marketing utilizza più canali per raggiungere un pubblico di destinazione più ampio in base al canale preferito dai destinatari.
 
-Scopri come creare una campagna multicanale utilizzando e-mail, SMS e direct mail.
+Scopri come creare una campagna cross-channel utilizzando le consegne e-mail, SMS e direct mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
