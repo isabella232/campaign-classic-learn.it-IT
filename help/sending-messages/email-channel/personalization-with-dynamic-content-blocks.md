@@ -10,21 +10,18 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 748455765298c639357c8b463f5da8e23bdb7800
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 67%
+source-wordcount: '124'
+ht-degree: 34%
 
 ---
 
-# Personalizzazione delle e-mail mediante blocchi di contenuto dinamici
+# Personalizzazione delle e-mail tramite campi di personalizzazione
 
-In Adobe Campaign puoi personalizzare il contenuto o l’aspetto dei messaggi e combinarli con i criteri dei profili dei destinatari.
+I campi di personalizzazione sono utilizzati per la personalizzazione di primo livello del contenuto dei messaggi inviati. I campi inseriti in un contenuto principale mostrano la posizione in cui inserire i dati da un’origine dati selezionata.
 
-Un blocco di personalizzazione è dinamico, personalizzato e contiene un codice di rendering specifico che può essere aggiunto alle consegne. Ad esempio puoi aggiungere immagini, intestazioni e piè di pagina per i messaggi di posta elettronica, collegamenti alle pagine mirror, collegamenti per annullare l’iscrizione e molto altro.
-
-Scopri come sono stati creati blocchi di contenuto dinamici e come utilizzarli per personalizzare il contenuto della consegna e-mail.
+Scopri come aggiungere un campo di personalizzazione alla riga dell’oggetto e il contenuto di una consegna e-mail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -32,8 +29,8 @@ Scopri come sono stati creati blocchi di contenuto dinamici e come utilizzarli p
 
 Documentazione:
 
-* [Informazioni sulla personalizzazione](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* ([Blocchi di personalizzazione](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
+* [Informazioni sulla personalizzazione](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* ([Blocchi di personalizzazione](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 Tutorial video:
 
