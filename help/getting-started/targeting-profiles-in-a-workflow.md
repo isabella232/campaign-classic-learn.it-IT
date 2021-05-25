@@ -10,10 +10,10 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-source-git-commit: 80718da6eb0fd4be5a26b9b6cd591ee90c41f871
+source-git-commit: 86b546688c3b96505bfca758eca5af9ed65d22e7
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 34%
+source-wordcount: '128'
+ht-degree: 35%
 
 ---
 
@@ -33,9 +33,9 @@ Scopri l’utilizzo dei flussi di lavoro delle campagne e come creare un flusso 
 
 Documentazione:
 
-* [Informazioni sui flussi di lavoro](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-* [Creazione di un flusso di lavoro](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
-* [Informazioni sulle attività di targeting](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
+* [Informazioni sui flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en)
+* [Creazione di un flusso di lavoro](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+* [Informazioni sulle attività di targeting](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
 
 Esercitazioni:
 
