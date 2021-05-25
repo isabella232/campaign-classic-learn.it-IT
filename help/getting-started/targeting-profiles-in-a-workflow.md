@@ -10,15 +10,14 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 80718da6eb0fd4be5a26b9b6cd591ee90c41f871
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 31%
+ht-degree: 34%
 
 ---
 
-# Eseguire il targeting dei profili in un flusso di lavoro
+# Targeting dei profili in un flusso di lavoro
 
 Scopri l’utilizzo dei flussi di lavoro delle campagne e come creare un flusso di lavoro e eseguire il targeting dei profili in un flusso di lavoro utilizzando le condizioni di filtro.
 
