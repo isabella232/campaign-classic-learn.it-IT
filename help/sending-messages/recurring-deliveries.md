@@ -9,10 +9,9 @@ team: TM
 role: Business Practitioner
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 5fb898eca821c5078393003c41032801f8454fd5
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '268'
 ht-degree: 6%
 
 ---
@@ -29,11 +28,11 @@ Le consegne ricorrenti e continue differiscono nel modo in cui vengono gestiti i
 
    Una consegna continua creerà un singolo log di consegna e consegna (wideLog) e registri di tracciamento che fanno riferimento a tale consegna che vengono aggiunti ogni volta che viene eseguita.
 
-![Consegna continua](/help/assets/delivery_continuous.jpg)
+   ![Consegna continua](/help/assets/delivery_continuous.jpg)
 
 * Una **consegna ricorrente** creerà una nuova istanza di consegna ogni volta che viene eseguita. Ad esempio, se il flusso di lavoro è pianificato per essere eseguito una volta alla settimana, si otterranno 52 consegne dopo un anno. Ciò significa anche che i registri di registro e di tracciamento ampi saranno separati da ogni istanza di consegna.
 
-![Consegna ricorrente](/help/assets/delivery_recurring.jpg)
+   ![Consegna ricorrente](/help/assets/delivery_recurring.jpg)
 
 ## Come impostare una consegna ricorrente {#how-to-set-up-a-recurring-delivery}
 
@@ -49,4 +48,4 @@ Questo video mostra come configurare una consegna continua con una query increme
 
 ## Risorse aggiuntive
 
-[Creazione di una consegna ricorrente in un flusso di lavoro di targeting](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/use-cases/sending-a-birthday-email.html#creating-a-recurring-delivery-in-a-targeting-workflow)
+[Creazione di una consegna ricorrente in un flusso di lavoro di targeting](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/deliveries/sending-a-birthday-email.html?lang=en#creating-a-recurring-delivery-in-a-targeting-workflow)
