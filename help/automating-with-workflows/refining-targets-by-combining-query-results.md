@@ -1,19 +1,19 @@
 ---
 title: Ottimizzazione delle destinazioni attraverso la combinazione dei risultati delle query
-description: Scopri come perfezionare il target combinando i risultati delle query in un flusso di lavoro utilizzando l’intersezione o le attività dell’unione.
-feature: Flussi di lavoro, Attività di targeting, Editor query
+description: Scopri come ottenere un target più mirato combinando i risultati delle query in un flusso di lavoro utilizzando le attività di intersezione o di unione.
+feature: Flussi di lavoro, attività di targeting, editor di query
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 37%
+ht-degree: 67%
 
 ---
 
@@ -27,7 +27,7 @@ Scopri come perfezionare la destinazione combinando i risultati delle query in u
 
 Documentazione:
 
-* [Informazioni sui flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Informazioni sui flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=it)
 * [Intersection](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
 * [Union](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
