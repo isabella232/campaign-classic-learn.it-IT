@@ -5,10 +5,10 @@ breadcrumb-title: Tutorial del Pannello di controllo Campaign
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
 feature: Pannello di controllo Campaign
-role: Administrator
+role: Admin
 level: Experienced
-source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -33,7 +33,7 @@ ht-degree: 100%
    + [Aggiunta di indirizzi IP all’elenco consentiti](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [Aggiunta di autorizzazioni URL](/help/control-panel-tutorials/instance-settings/adding-url-permissions.md)
    + Gestione delle chiavi GPG {#gpg-key-management}
-      + [Gestione delle chiavi GPG - panoramica](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [Gestione delle chiavi GPG: panoramica](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
       + [Generazione e installazione di chiavi GPG per la crittografia dei dati](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [Utilizzo di una chiave GPG per crittografare i dati](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Decrittografia dei dati](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
