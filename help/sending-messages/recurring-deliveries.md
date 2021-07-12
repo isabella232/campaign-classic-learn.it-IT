@@ -1,24 +1,24 @@
 ---
 title: Come impostare campagne e-mail ricorrenti e continue
-description: Scopri come impostare una consegna ricorrente e continua e comprendere le differenze tra i due approcci.
+description: Scopri come impostare una consegna ricorrente e continua e le differenze tra i due approcci.
 feature: Flussi di lavoro
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 5fb898eca821c5078393003c41032801f8454fd5
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 6%
+ht-degree: 48%
 
 ---
 
 # Come impostare campagne e-mail ricorrenti e continue
 
-Questa esercitazione spiega come impostare una consegna ricorrente e continua e le differenze tra i due approcci.
+Questo tutorial spiega come impostare una consegna ricorrente e continua, e le differenze tra i due approcci.
 
 ## Tracciamento continuo e ricorrente delle consegne {#recurring-and-continuous-delivery-tracking}
 
@@ -30,7 +30,7 @@ Le consegne ricorrenti e continue differiscono nel modo in cui vengono gestiti i
 
    ![Consegna continua](/help/assets/delivery_continuous.jpg)
 
-* Una **consegna ricorrente** creerà una nuova istanza di consegna ogni volta che viene eseguita. Ad esempio, se il flusso di lavoro è pianificato per essere eseguito una volta alla settimana, si otterranno 52 consegne dopo un anno. Ciò significa anche che i registri di registro e di tracciamento ampi saranno separati da ogni istanza di consegna.
+* Una **consegna ricorrente** creerà una nuova istanza di consegna ogni volta che viene eseguita. Ad esempio, se il flusso di lavoro è pianificato per essere eseguito una volta alla settimana, in un anno si otterranno 52 consegne. Ciò significa anche che i registri di registro e di tracciamento ampi saranno separati da ogni istanza di consegna.
 
    ![Consegna ricorrente](/help/assets/delivery_recurring.jpg)
 
