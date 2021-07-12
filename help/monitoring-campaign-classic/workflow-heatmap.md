@@ -6,17 +6,17 @@ kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
 
 ---
 
-# Workflow Heatmap
+# Mappa di calore del flusso di lavoro
 
 La Workflow HeatMap di Adobe Campaign consiste in una rappresentazione grafica codificata per colori di tutti i flussi di lavoro attualmente in esecuzione. Essa fornisce una rapida panoramica sul numero di flussi di lavoro simultanei, consentendo così agli amministratori della piattaforma Adobe Campaign di monitorare il carico sull’istanza e pianificare i flussi di lavoro di conseguenza.
 
