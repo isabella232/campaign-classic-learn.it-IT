@@ -1,19 +1,19 @@
 ---
 title: Utilizzo dell’attività di aggiornamento elenco per creare un elenco con un flusso di lavoro
-description: Scopri come perfezionare la destinazione applicando un’esclusione standard a un flusso di lavoro. Inoltre verrà illustrato come creare filtri predefiniti e come risolvere i problemi relativi al flusso di lavoro.
-feature: Flussi di lavoro, Attività di targeting, Editor query
+description: Scopri come ottenere un target più mirato applicando un’esclusione standard a un flusso di lavoro. Scopri anche come creare filtri predefiniti e risolvere i problemi relativi al flusso di lavoro.
+feature: Flussi di lavoro, attività di targeting, editor di query
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 36%
+ht-degree: 70%
 
 ---
 
@@ -27,7 +27,7 @@ Scopri il concetto di elenchi in Adobe Campaign Classic e come creare un elenco 
 
 Documentazione:
 
-* [Informazioni sui flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Informazioni sui flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=it)
 * [Aggiornamento elenco](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
 
 Esercitazioni:
