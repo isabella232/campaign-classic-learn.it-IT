@@ -10,19 +10,19 @@ kt: KT-1561
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner, Developer
+role: User, Developer
 level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
-source-git-commit: 57ca0ea806c14c148d67e4f9b609764dfaec80db
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 1%
+ht-degree: 44%
 
 ---
 
 # Come configurare le attività di arricchimento
 
-L’attività di arricchimento è un oggetto del flusso di lavoro che aggiunge dati alla tabella di lavoro. L’utilizzo dell’attività di arricchimento consente di aggiungere colonne a una tabella in cui sono memorizzati dati aggiuntivi o di definire nuovi collegamenti ad altri dati esistenti.
+L’attività di arricchimento è un oggetto flusso di lavoro che aggiunge dati alla tabella di lavoro. Con un’attività di arricchimento puoi aggiungere colonne a una tabella in cui sono memorizzati dati aggiuntivi o definire nuovi collegamenti ad altri dati esistenti.
 
 Scopri come configurare un’attività di arricchimento in base alle informazioni del registro di consegna.
 
