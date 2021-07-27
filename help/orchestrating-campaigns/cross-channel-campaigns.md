@@ -1,6 +1,6 @@
 ---
 title: Creare campagne cross-channel
-description: Scopri come creare una campagna canale-canale.
+description: Scopri come creare una campagna cross-channel utilizzando le consegne di e-mail e direct mail in base all’interazione del cliente con la prima consegna.
 feature: Flussi di lavoro
 kt: 7018
 thumbnail: 330990.jpg
@@ -8,18 +8,18 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: 8eee5de1b133fea146a2b05b1489b786e3117f9f
-workflow-type: ht
-source-wordcount: '59'
-ht-degree: 100%
+source-git-commit: ac74fffaaf15bced07212d0df4b631944f15f742
+workflow-type: tm+mt
+source-wordcount: '93'
+ht-degree: 16%
 
 ---
 
 # Creare campagne cross-channel
 
-In una campagna cross-channel, una singola comunicazione di marketing utilizza più canali per raggiungere un pubblico di destinazione più ampio in base al canale preferito dai destinatari.
+In una campagna cross-channel, una singola comunicazione di marketing utilizza canali diversi. I dati vengono trasmessi tra i canali. Il cliente riceve la comunicazione attraverso più canali in base, ad esempio, alla sua interazione con la comunicazione precedente.
 
-Scopri come creare una campagna cross-channel utilizzando consegne e-mail, SMS e direct mail.
+Scopri come creare una campagna cross-channel utilizzando le consegne di e-mail e direct mail in base all’interazione del cliente con la prima consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
