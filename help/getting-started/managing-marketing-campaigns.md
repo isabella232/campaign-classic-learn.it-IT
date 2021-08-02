@@ -1,6 +1,6 @@
 ---
-title: Come gestire le campagne di marketing
-description: Scopri i concetti chiave di Adobe Campaign per pianificare, eseguire e misurare in modo efficace le campagne di marketing cross-channel.
+title: Gestire le campagne di marketing
+description: Scopri i concetti chiave di Adobe Campaign per pianificare, eseguire e misurare in modo efficace le campagne di marketing su più canali.
 feature: Campagne
 kt: 5077
 thumbnail: 35131.jpg
@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 0a8f07b1-e663-4c64-9d6e-34dfc5b05517
-source-git-commit: dde42d8f7f43a15062c9644276fa71b1c7757886
+source-git-commit: 32ec5c28ea0bb3947b30dd78341e144f6ce273a4
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 61%
+source-wordcount: '41'
+ht-degree: 17%
 
 ---
 
