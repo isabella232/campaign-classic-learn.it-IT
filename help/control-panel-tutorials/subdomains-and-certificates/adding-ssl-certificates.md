@@ -13,8 +13,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 9ba485fb-be26-4f3c-a9de-844fecaec20d
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 89%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
