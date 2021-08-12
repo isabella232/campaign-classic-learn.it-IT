@@ -1,21 +1,26 @@
 ---
 title: Esercitazioni Adobe Campaign Classic - Panoramica
-description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience multicanale e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. Questa guida utente contiene video ed esercitazioni sulle numerose funzioni e capacità di Adobe Campaign Standard.
+description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Standard.
 sub-product: Campaign Classic
 feature: Panoramica
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 226eee423845302431044fc0cff44f30651a0791
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 100%
+source-wordcount: '300'
+ht-degree: 80%
 
 ---
 
 # Tutorial di Adobe Campaign Classic V7: panoramica
 
-Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione su più canali. La presente guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Classic V7.
+Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Classic V7.
+
+>[!INFO]
+> 
+> Lei ha delle domande? Vuoi condividere la tua esperienza o scambiare pensieri con i tuoi colleghi? Oppure, hai un feedback sui contenuti di apprendimento per il team di Adobe?
+Partecipa alla conversazione nel [thread della community di apprendimento Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
 
 ## Novità
 
@@ -88,4 +93,4 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Risorse aggiuntive
 
-* [Documentazione](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html)
+* [Documentazione](https://final-docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)
