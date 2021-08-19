@@ -10,10 +10,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 82c423273671b776f9b1e7bdfaaf092ec23a17a9
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 100%
+source-wordcount: '335'
+ht-degree: 42%
 
 ---
 
@@ -21,26 +21,26 @@ ht-degree: 100%
 
 ## Login e homepage
 
-### Sintomo: impossibile accedere a Experience Cloud
+### Sintomo: Impossibile accedere all&#39;Experience Cloud
 
 **Come procedere:**
-l’utente deve individuare il proprio ID organizzazione IMS (xxx). L’amministratore deve aggiungere l’utente al profilo di prodotto “Campaign-xxx-Admins” per ogni istanza che desidera gestire. Anche se l’utente è amministratore di tutte le istanze, potrebbe comunque dover aggiungere se stesso come utente.
+l’utente deve individuare il proprio ID organizzazione IMS (xxx). L’amministratore deve aggiungere l’utente al profilo di prodotto &quot;Campaign-xxx-Admins&quot; per ogni istanza da gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungere se stesso come utente.
 
 ### Sintomo: i collegamenti nella home di Experience Cloud per accedere al [!UICONTROL Control Panel] non vengono visualizzati per un utente
 
 **Causa:**
-gli utenti non visualizzano i collegamenti finché non vengono aggiunti come utenti al profilo di prodotto _Campaign-xxx-Administrators/Admin_.
+gli utenti non visualizzano i collegamenti finché non vengono aggiunti come utenti al profilo di prodotto  _Campaign-xxx-Administrators/Admin_.
 
 **Come procedere:**
-l’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza che desidera gestire. Anche se l’utente è amministratore di tutte le istanze, potrebbe comunque dover aggiungere se stesso come utente.
+l’amministratore deve aggiungere l’utente al profilo di prodotto  _Campaign-xxx-_  Adminsper ogni istanza da gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungere se stesso come utente.
 
 ### Sintomo: un’istanza non è elencata nel [!UICONTROL Control Panel]
 
 **Causa:**
-probabilmente l’utente deve essere aggiunto come “utente” al profilo di prodotto _Campaign-xxx-Administrators/Admin_ per l’istanza mancante
+probabilmente l’utente deve essere aggiunto come  ** utenteProfilo di prodotto  _Campaign-xxx-Administrators/_ Adminper l’istanza mancante
 
 **Come procedere:**
-l’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza che desidera gestire. Anche se l’utente è amministratore di tutte le istanze, potrebbe comunque dover aggiungere se stesso come “utente”.
+l’amministratore deve aggiungere l’utente al profilo di prodotto  _Campaign-xxx-_  Adminsper ogni istanza da gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungersi come &quot;utenti&quot;.
 
 ### Video utili
 
@@ -54,17 +54,17 @@ l’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-x
 
 ### Documentazione utile
 
-* [Scoprire il Pannello di controllo Campaign](https://helpx.adobe.com/it/campaign/kb/control-panel-overview.html)
-* [Gestione delle autorizzazioni per il [!UICONTROL Control Panel]](https://helpx.adobe.com/it/campaign/kb/control-panel-access.html)
+* [Scoprire il Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it)
+* [Gestione delle autorizzazioni per il [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## Stabilimento di una connessione al server SFTP (client o API)
 
 La connessione ai server SFTP richiede:
 
 * [!UICONTROL Allow listing] l’indirizzo IP da cui desideri connetterti al server SFTP
-* Una coppia di chiavi privata/pubblica che deve essere registrata con Adobe Campaign
-* Se ti connetti direttamente al server SFTP, avrai bisogno anche del software client SFTP
+* Coppia di chiavi privata/pubblica che deve essere registrata con Adobe Campaign
+* Per connettersi direttamente al server SFTP, è necessario anche il software client SFTP
 
 ### Documentazione utile {#helpful-docs}
 
-* [Accesso al server SFTP](https://helpx.adobe.com/it/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [Accesso al server SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
