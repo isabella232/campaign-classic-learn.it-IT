@@ -1,6 +1,6 @@
 ---
 title: Come impostare la gestione dell’affaticamento utilizzando le regole di tipologia in Adobe Campaign Classic
-description: Scopri come implementare la gestione dell’affaticamento sfruttando le regole di tipologia.
+description: Scopri come implementare la gestione dell’eccesso applicando le regole di tipologia.
 feature: Gestione dell’eccesso
 kt: 1564
 doc-type: feature video
@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 29%
+source-wordcount: '156'
+ht-degree: 58%
 
 ---
 
@@ -20,17 +20,13 @@ ht-degree: 29%
 
 La gestione dell’eccesso controlla la frequenza e la quantità di messaggi per evitare un’eccessiva sollecitazione dei destinatari e viene spesso applicata utilizzando una regola di tipologia.
 
-Le regole di tipologia consentono agli esperti di marketing di standardizzare le pratiche aziendali su tutte le consegne in modo più efficiente per controllare la messaggistica delle campagne verso i clienti. A tal fine, elimina la necessità di applicare esclusioni o regole di uso comune a ogni singola campagna. I destinatari che soddisfano i criteri all&#39;interno di una *regola di tipologia* verranno esclusi dalla consegna durante la fase di analisi.
+Le regole di tipologia consentono agli esperti di marketing di standardizzare le pratiche aziendali su tutte le consegne in modo più efficiente per controllare la messaggistica delle campagne verso i clienti. A tal fine, elimina la necessità di applicare esclusioni o regole di uso comune a ogni singola campagna. I destinatari che soddisfano i criteri in una *regola di tipologia* sono esclusi dalla consegna durante la fase di analisi.
 
-Di solito un set di *regole di tipologia* è raggruppato all&#39;interno di una *tipologia* per applicare facilmente più regole di filtro a una consegna alla volta.
-
-Questo elimina i passaggi aggiuntivi durante la creazione di campagne e flussi di lavoro diversi, garantendo al contempo di eseguire il targeting coerente della popolazione corretta al momento giusto.
-
-Questo video spiega come implementare la gestione dell’affaticamento in Adobe Campaign Classic sfruttando le regole di tipologia.
+Questo video spiega come implementare la gestione dell’affaticamento in Adobe Campaign Classic applicando le regole di tipologia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
 ## Risorse aggiuntive
 
-* [Informazioni sulle tipologie di campagne](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
-* [Gestione dell’eccesso di marketing con le regole di pressione](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
+* [Informazioni sulle tipologie di campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=it)
+* [Gestione dell’eccesso di marketing con le regole di pressione](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=it)
