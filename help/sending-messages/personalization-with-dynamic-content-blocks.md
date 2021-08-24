@@ -1,16 +1,15 @@
 ---
 title: Personalizzare le e-mail utilizzando blocchi di contenuto dinamici
-description: Questa esercitazione illustra come personalizzare i contenuti di consegna, utilizzare il codice JavaScript nei modelli di consegna e standardizzare e condividere i blocchi di contenuto in diversi modelli di consegna.
+description: Questa esercitazione illustra come personalizzare il contenuto della consegna, utilizzare il codice JavaScript nei modelli di consegna e standardizzare e condividere i blocchi di contenuto in diversi modelli di consegna.
 feature: Contenuto dinamico
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,11 +23,11 @@ In Adobe Campaign puoi personalizzare il contenuto o l’aspetto dei messaggi e 
 3 - Inserire campi di personalizzazione dinamici\
 4 - Creare contenuto condizionale.
 
-Questa esercitazione illustra come personalizzare i contenuti di consegna, utilizzare il codice JavaScript nei modelli di consegna e standardizzare e condividere i blocchi di contenuto in diversi modelli di consegna.
+Questa esercitazione illustra come personalizzare il contenuto della consegna, utilizzare il codice JavaScript nei modelli di consegna e standardizzare e condividere i blocchi di contenuto in diversi modelli di consegna.
 
 ## Creare e aggiungere un blocco di personalizzazione a una consegna
 
-Un blocco di personalizzazione è dinamico, personalizzato e contiene un codice di rendering specifico che può essere aggiunto alle consegne. Ad esempio puoi aggiungere immagini, intestazioni e piè di pagina per i messaggi di posta elettronica, collegamenti alle pagine mirror, collegamenti per annullare l’iscrizione e molto altro.
+Un blocco di personalizzazione è dinamico e contiene un codice di rendering specifico che può essere aggiunto alle consegne. Ad esempio puoi aggiungere immagini, intestazioni e piè di pagina per i messaggi di posta elettronica, collegamenti alle pagine mirror, collegamenti per annullare l’iscrizione e molto altro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -46,4 +45,4 @@ Configurando i campi di contenuto condizionale puoi creare una personalizzazione
 
 ## Risorse aggiuntive
 
-* [Informazioni sulla personalizzazione](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [Informazioni sulla personalizzazione](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
