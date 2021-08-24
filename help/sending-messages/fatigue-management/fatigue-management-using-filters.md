@@ -9,16 +9,16 @@ team: TM
 role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 25%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Configurazione della gestione dell’affaticamento tramite filtri predefiniti
+# Configurazione della gestione dell’eccesso tramite filtri predefiniti
 
-La gestione dell’eccesso controlla la frequenza e la quantità di messaggi per evitare un’eccessiva sollecitazione dei destinatari. Se nell’istanza della campagna non è presente il modulo di ottimizzazione della campagna, puoi configurare un filtro predefinito che filtrerà la popolazione target in base al numero di messaggi ricevuti.
+La gestione dell’eccesso controlla la frequenza e la quantità di messaggi per evitare un’eccessiva sollecitazione dei destinatari. Se nell’istanza della campagna non è presente il modulo di ottimizzazione della campagna, puoi configurare un filtro predefinito che filtra la popolazione target in base al numero di messaggi ricevuti.
 
 Questo video spiega come implementare la gestione dell’affaticamento in Adobe Campaign Classic utilizzando i filtri.
 
@@ -26,4 +26,4 @@ Questo video spiega come implementare la gestione dell’affaticamento in Adobe 
 
 ## Risorse aggiuntive
 
-* [Informazioni sulle tipologie di campagne](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
+* [Informazioni sulle tipologie di campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=it)
