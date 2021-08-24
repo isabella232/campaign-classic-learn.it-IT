@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 50%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,7 @@ Scopri come creare un flusso di lavoro per eseguire il targeting dei destinatari
 
 Documentazione:
 
-* [Creazione e gestione di elenchi](https://docs.adobe.com/content/help/it-IT/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
+* [Creazione e gestione di elenchi](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
 
 Esercitazioni:
 
