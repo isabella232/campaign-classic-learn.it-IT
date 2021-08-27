@@ -7,7 +7,7 @@ index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
+source-git-commit: 8fead8e1e71f26c87033cc72f5a14e38beb602f7
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
    + [Filtrare i flussi di lavoro per mantenere la condizione dei risultati](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
 + Consegne e canali {#deliveries-and-channels}
    + [Errore annullato del messaggio di debug in una consegna](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
-   + [Consegna SMS in sospeso](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
+   + [SMS delivery in sospeso](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
    + [Lo stato del registro ampio non è corretto quando un SMS viene inviato a un numero errato](/help/troubleshoot-adobe-campaign/sms-broad-log.md)
 + Amministrazione del sistema {#administration}
    + [Consenti a tutti gli indirizzi IP di effettuare chiamate API SOAP](/help/troubleshoot-adobe-campaign/allow-all-ip-address-to-make-soap-calls.md)
