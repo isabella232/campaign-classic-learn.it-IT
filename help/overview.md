@@ -2,14 +2,14 @@
 title: Esercitazioni Adobe Campaign Classic - Panoramica
 description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Standard.
 sub-product: Campaign Classic
-feature: Panoramica
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: af19780541ac0f2bc3dbcd37f095ae602b872223
+source-git-commit: 566aeb86b931525137cc1ad5edb766272976390d
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 80%
+source-wordcount: '297'
+ht-degree: 93%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 80%
 Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Classic V7.
 
 >[!INFO]
-> Lei ha delle domande? Vuoi condividere la tua esperienza o scambiare pensieri con i tuoi colleghi? Oppure, hai un feedback sui contenuti di apprendimento per il team di Adobe? Partecipa alla conversazione nel [thread della community di apprendimento Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
+> Hai delle domande? Vuoi condividere la tua esperienza o scambiare idee con altri utenti? O forse vuoi inviare al team Adobe un feedback sui contenuti di apprendimento? Partecipa alla conversazione nel [thread della community di apprendimento Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096).
 
 ## Novità
 
