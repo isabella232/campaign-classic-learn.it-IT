@@ -4,15 +4,15 @@ description: Scopri come filtrare i flussi di lavoro in cui la condizione "keep 
 feature: Workflows
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8383
-source-git-commit: 632e0cb3d9cc04f635092860b1a10100782709d1
+exl-id: b46a41a5-c439-440d-b492-dc6653ad5011
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Filtrare i flussi di lavoro per mantenere la proprietà risultato
 
