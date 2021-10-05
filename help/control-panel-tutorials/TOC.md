@@ -1,21 +1,20 @@
 ---
 user-guide-title: Tutorial sul Pannello di controllo Adobe Campaign
 user-guide-description: Scopri come monitorare le risorse chiave delle istanze di Adobe Campaign ed eseguire attività di amministrazione nel Pannello di controllo Campaign.
-breadcrumb-title: Tutorial del Pannello di controllo Campaign
-breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
+breadcrumb-title: Tutorial sul Pannello di controllo Campaign
 index: true
-feature: Pannello di controllo Campaign
+feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: d0fc0f9009f090af6f2bc366d199594026044d18
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Pannello di controllo di Adobe Campaign - Tutorial {#control-panel}
+# Pannello di controllo di Adobe Campaign: tutorial {#control-panel}
 
 + [Panoramica del Pannello di controllo Campaign](/help/control-panel-tutorials/control-panel-overview.md)
 + [Guida introduttiva al Pannello di controllo Campaign](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
