@@ -1,6 +1,6 @@
 ---
 title: '     Connessione a un server SFTP     '
-description: Scopri come connettersi al server SFTP utilizzando un’applicazione client SFTP utilizzando le chiavi memorizzate nel Pannello di controllo Campaign.
+description: Scopri come è possibile connettersi al server SFTP con un’applicazione client SFTP utilizzando le chiavi memorizzate nel Pannello di controllo Campaign.
 feature: Control Panel
 kt: 2924
 thumbnail: 27263.jpg
@@ -14,7 +14,7 @@ exl-id: 6b615904-283b-4197-9fd4-d91e20a14657
 source-git-commit: e6446906ccd0ca521175a24675b7fae61854217c
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -34,8 +34,8 @@ Per accedere alla gestione SFTP nel Pannello di controllo Campaign, vai a:
 La connessione ai server SFTP richiede:
 
 * l’inserimento nell’elenco Consentiti dell’indirizzo IP da cui ti stai connettendo al server SFTP
-* Coppia di chiavi privata/pubblica che deve essere registrata con Adobe Campaign
-* Se ti connetti direttamente al server SFTP, hai anche bisogno del software client SFTP
+* Una coppia di chiavi privata/pubblica che deve essere registrata con Adobe Campaign
+* Se ti connetti direttamente al server SFTP, devi avere anche il software client SFTP
 
 Questo video spiega come connettersi al server SFTP con un’applicazione client SFTP utilizzando le chiavi memorizzate nel Pannello di controllo Campaign.
 

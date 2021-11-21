@@ -11,14 +11,14 @@ level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 63%
+source-wordcount: '107'
+ht-degree: 62%
 
 ---
 
 # Gestione dei big data su Snowflake
 
-Questa esercitazione spiega come sfruttare il connettore [!DNL Snowflake] in Adobe Campaign Classic.
+Questa esercitazione spiega come sfruttare il [!DNL Snowflake] connettore in Adobe Campaign Classic.
 Scopri come
 
 * Connettere Snowflake

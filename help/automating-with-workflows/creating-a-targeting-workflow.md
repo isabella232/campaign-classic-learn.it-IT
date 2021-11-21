@@ -1,7 +1,7 @@
 ---
 title: Creazione di un flusso di lavoro di targeting
 description: Scopri come definire diversi target di consegna utilizzando un flusso di lavoro di targeting.
-feature: Flussi di lavoro, attività di targeting, editor di query
+feature: Workflows, Targeting Activity, Query Editor
 kt: 2174
 doc-type: feature video
 activity: use
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 56%
+source-wordcount: '82'
+ht-degree: 53%
 
 ---
 
@@ -22,5 +22,5 @@ Adobe Campaign utilizza i flussi di lavoro per eseguire campagne di targeting, g
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-Consulta la documentazione [sui flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=it)
+Consulta la documentazione [Informazioni sui flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=it)
 e [informazioni sulle attività di targeting](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) per ulteriori informazioni.

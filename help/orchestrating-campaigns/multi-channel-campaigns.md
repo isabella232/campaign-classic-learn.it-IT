@@ -1,7 +1,7 @@
 ---
 title: Creare campagne multicanale
 description: Scopri come creare una campagna multicanale utilizzando e-mail, SMS e una consegna direct mailing, in base al canale preferito del destinatario.
-feature: Flussi di lavoro
+feature: Workflows
 kt: 1563
 thumbnail: 24981.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
 source-git-commit: cfd9148fddd9bfca9595f5acacc3e9d9d9140020
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 16%
+source-wordcount: '92'
+ht-degree: 79%
 
 ---
 

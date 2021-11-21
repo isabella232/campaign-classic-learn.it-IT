@@ -1,7 +1,7 @@
 ---
 title: Come configurare le pagine di destinazione in Adobe Campaign Classic
 description: Scopri come navigare nell’editor delle applicazioni web creando un centro preferenze.
-feature: Pagine di destinazione
+feature: Landing Pages
 kt: 1562
 thumbnail: 25041.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: d14d0b67-dcc7-4cc8-b507-9ce389234c09
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 35%
+source-wordcount: '85'
+ht-degree: 34%
 
 ---
 

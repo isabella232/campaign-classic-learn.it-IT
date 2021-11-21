@@ -1,7 +1,7 @@
 ---
 title: Estensione dello schema di abbonamento all’app per personalizzare le notifiche push
 description: Scopri come estendere lo schema di abbonamento all’app per memorizzare i valori di personalizzazione che Campaign riceve da un’app mobile.
-feature: Push, estensione schema
+feature: Push, Schema Extension
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 40%
+source-wordcount: '89'
+ht-degree: 38%
 
 ---
 
-# Estensione dello schema [!UICONTROL app subscription] per personalizzare le notifiche push
+# Estensione della [!UICONTROL app subscription] schema per personalizzare le notifiche push
 
-Scopri come estendere lo schema [!UICONTROL app subscription] per memorizzare i valori di personalizzazione ricevuti da [!DNL Campaign] da un’app mobile.
+Scopri come estendere il [!UICONTROL app subscription] schema per memorizzare i valori di personalizzazione [!DNL Campaign] riceve da un’app mobile.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 

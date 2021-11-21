@@ -1,11 +1,11 @@
 ---
 title: Come configurare le attività di arricchimento
-seo-title: Come configurare le attività di arricchimento in Adobe Campaign Classic
+seo-title: How to configure enrichment activities in Adobe Campaign Classic
 description: Scopri come configurare un’attività di arricchimento in base alle informazioni del registro di consegna.
-seo-description: Un’attività di arricchimento è un oggetto del flusso di lavoro che consente all’utente di aggiungere dati alla tabella di lavoro. Con un arricchimento, puoi aggiungere colonne a quella tabella per contenere dati aggiuntivi OPPURE definire nuovi collegamenti da quella tabella di lavoro ad altri dati esistenti.   Questo video spiega come configurare un’attività di arricchimento in base alle informazioni del registro di consegna.
+seo-description: An enrichment activity is a workflow object that allows the user to add data to the working table. With an enrichment, you can add columns to that table to hold additional data OR define new links from that working table to other existing data.   This video explains how to configure an enrichment activity based on delivery log information.
 uuid: 544128b9-9912-4ba7-8910-ad11a26a73ff
 discoiquuid: ff2a1e2f-9df1-4ad0-bdff-5a257df5ff66
-feature: Flussi di lavoro, attività di arricchimento
+feature: Workflows, Enrichment Activity
 kt: KT-1561
 doc-type: feature video
 activity: use
@@ -15,8 +15,8 @@ level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 44%
+source-wordcount: '83'
+ht-degree: 78%
 
 ---
 

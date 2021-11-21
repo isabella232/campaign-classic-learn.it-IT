@@ -1,7 +1,7 @@
 ---
 title: Gestione delle chiavi GPG - Panoramica
 description: Nei video seguenti viene illustrato come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza Campaign per la crittografia dei dati in uscita, nonché come importare e installare una chiave pubblica in un’istanza Campaign per la decrittografia dei dati in ingresso.
-feature: Pannello di controllo Campaign
+feature: Control Panel
 team: TM
 role: Admin
 level: Experienced
@@ -9,7 +9,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 1a3e8320-f992-428a-8dc8-ba5429042751
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '159'
 ht-degree: 100%
 
 ---

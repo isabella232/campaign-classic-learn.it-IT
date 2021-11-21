@@ -1,7 +1,7 @@
 ---
 title: Risoluzione dei problemi del Pannello di controllo Campaign
 description: Scopri come risolvere i problemi del Pannello di controllo Campaign.
-feature: Pannello di controllo Campaign
+feature: Control Panel
 kt: 2938
 doc-type: article
 activity: use
@@ -12,8 +12,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
 source-git-commit: 2f8ae3d47e4debf71311f341d3c02ff3a7f5297a
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 38%
+source-wordcount: '320'
+ht-degree: 100%
 
 ---
 
@@ -21,32 +21,32 @@ ht-degree: 38%
 
 ## Login e homepage
 
-### Sintomo: Impossibile accedere all&#39;Experience Cloud
+### Sintomo: impossibile accedere a Experience Cloud
 
 **Come procedere:**
-l’utente deve individuare il proprio ID organizzazione IMS (xxx). L’amministratore deve aggiungere l’utente al profilo di prodotto &quot;Campaign-xxx-Admins&quot; per ogni istanza da gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungere se stesso come utente.
+L’utente deve individuare il proprio ID organizzazione IMS (xxx). L’amministratore deve aggiungere l’utente al profilo di prodotto “Campaign-xxx-Admins” per ogni istanza che desidera gestire. Se l’utente è amministratore di tutte le istanze, deve comunque aggiungere se stesso come utente.
 
 ### Sintomo: i collegamenti nella home di Experience Cloud per accedere al [!UICONTROL Control Panel] non vengono visualizzati per un utente
 
 **Causa:**
-gli utenti non visualizzano i collegamenti finché non vengono aggiunti come utenti al profilo di prodotto  _Campaign-xxx-Administrators/Admin_.
+Gli utenti non visualizzano i collegamenti finché non vengono aggiunti come utenti al profilo di prodotto _Campaign-xxx-Administrators/Admin_.
 
 **Come procedere:**
-l’amministratore deve aggiungere l’utente al profilo di prodotto  _Campaign-xxx-_  Adminsper ogni istanza da gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungere se stesso come utente.
+L’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza che desidera gestire. Se l’utente è amministratore di tutte le istanze, deve comunque aggiungere se stesso come utente.
 
 ### Sintomo: un’istanza non è elencata nel [!UICONTROL Control Panel]
 
 **Causa:**
-probabilmente l’utente deve essere aggiunto come  ** utenteProfilo di prodotto  _Campaign-xxx-Administrators/_ Adminper l’istanza mancante
+Probabilmente l’utente deve essere aggiunto come *utente* al Profilo di prodotto _Campaign-xxx-Administrators/Admin_ per l’istanza mancante
 
 **Come procedere:**
-l’amministratore deve aggiungere l’utente al profilo di prodotto  _Campaign-xxx-_  Adminsper ogni istanza da gestire. Se l’utente è amministratore di tutte le istanze, deve aggiungersi come &quot;utenti&quot;.
+L’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza che desidera gestire. Se l’utente è amministratore di tutte le istanze, deve comunque aggiungere se stesso come “utente”.
 
 ### Video utili
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Check IMS Org ID (00:26 min)*
+*Verificare Org ID IMS (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
@@ -62,8 +62,8 @@ l’amministratore deve aggiungere l’utente al profilo di prodotto  _Campaign-
 La connessione ai server SFTP richiede:
 
 * [!UICONTROL Allow listing] l’indirizzo IP da cui desideri connetterti al server SFTP
-* Coppia di chiavi privata/pubblica che deve essere registrata con Adobe Campaign
-* Per connettersi direttamente al server SFTP, è necessario anche il software client SFTP
+* Una coppia di chiavi privata/pubblica che deve essere registrata con Adobe Campaign
+* Per connetterti direttamente al server SFTP, devi usare anche un software client SFTP.
 
 ### Documentazione utile {#helpful-docs}
 

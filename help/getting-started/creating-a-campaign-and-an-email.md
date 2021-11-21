@@ -1,7 +1,7 @@
 ---
 title: Creare un messaggio e-mail da una campagna
 description: Scopri come creare una consegna e-mail direttamente da una campagna.
-feature: E-mail
+feature: Email
 kt: 2172
 thumbnail: 25604.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
 source-git-commit: e7fab13d8fe549c48b89027d50a563065e2c022e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '51'
+ht-degree: 47%
 
 ---
 

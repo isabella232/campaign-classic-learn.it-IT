@@ -1,7 +1,7 @@
 ---
 title: Guida introduttiva al Pannello di controllo Campaign
-description: Scopri come accedere al Pannello di controllo Campaign e quali sono i prerequisiti per utilizzare il pannello di controllo.
-feature: Pannello di controllo Campaign
+description: Scopri come accedere al Pannello di controllo Campaign e quali sono i prerequisiti per poterci lavorare.
+feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '278'
+ht-degree: 73%
 
 ---
 
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Il Pannello di controllo Campaign è accessibile a tutti gli utenti amministratori. I passaggi per concedere all&#39;amministratore l&#39;accesso a un utente sono descritti in dettaglio nella [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=it#discover-control-panel).
+> Il Pannello di controllo Campaign è accessibile a tutti gli utenti amministratori. I passaggi per concedere a un utente i diritti di amministratore sono descritti nella [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=it#discover-control-panel).
 >
-> L’istanza deve essere ospitata su AWS e aggiornata con la build [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=it) più recente o con la build [GA più recente (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Scopri come controllare la versione in [questa sezione](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Per verificare se l’istanza è ospitata su AWS, segui i passaggi descritti in [questa sezione](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
+> L’istanza deve essere ospitata su AWS e aggiornata con l’ultima [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=it) build o versione più recente [Build GA (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Scopri come controllare la versione in [questa sezione](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Per verificare se l’istanza è ospitata su AWS, segui i passaggi descritti in [questa sezione](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
 
-[!UICONTROL Control Panel] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire l’archiviazione [!DNL SFTP] per istanza, gestire le chiavi [!DNL GPG] o [!UICONTROL subdomains] e [!UICONTROL certificates].
+La [!UICONTROL Control Panel] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire [!DNL SFTP] archiviazione per istanza, gestione [!DNL GPG] le chiavi o [!UICONTROL subdomains] e [!UICONTROL certificates].
 
-Questo articolo spiega come accedere al Pannello di controllo Campaign e quali sono i prerequisiti per lavorare con il pannello di controllo.
+Questo articolo spiega come accedere al Pannello di controllo Campaign e quali sono i prerequisiti per lavorarci.
 
 ## Accesso al [!UICONTROL Control Panel]
 
-Per accedere al Pannello di controllo Campaign, vai a Home Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Per accedere al Pannello di controllo Campaign, vai alla Home di Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -48,7 +48,7 @@ Prima di iniziare, completa i seguenti prerequisiti:
 
 ### Conferma l’[!DNL IMS Org ID]
 
-Il video seguente descrive dove puoi cercare l’ [!DNL IMS org ID] dell’istanza.
+Il video seguente spiega dove puoi trovare l’[!DNL IMS org ID] dell’istanza.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 

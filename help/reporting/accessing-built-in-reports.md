@@ -1,7 +1,7 @@
 ---
 title: Accesso ai rapporti incorporati
 description: Comprendi le funzioni di reporting e analisi integrate e come generare un rapporto sulla consegna.
-feature: Generazione rapporti
+feature: Reporting
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '70'
 ht-degree: 30%
 
 ---
 
 # Accesso ai rapporti incorporati
 
-Comprendere  reporting e analisi incorporati in Campaign Classic e scopri come generare un rapporto di consegna.
+Comprendere le funzioni di reporting e analisi integrate in Campaign Classic e imparare a generare un rapporto di consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
 

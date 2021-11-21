@@ -1,7 +1,7 @@
 ---
 title: Come eseguire il targeting dei profili in un flusso di lavoro
 description: Scopri come usare i flussi di lavoro delle campagne, e come creare un flusso di lavoro e definirne i profili target mediante condizioni di filtro.
-feature: Flussi di lavoro
+feature: Workflows
 kt: 5080
 thumbnail: 35614.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
 source-git-commit: 6dc03c7b994e4a734e2aae9e66264462d5a9bbd3
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 73%
 
 ---
@@ -26,7 +26,7 @@ Scopri come usare i flussi di lavoro delle campagne, e come creare un flusso di 
 ## Prossimi tutorial da guardare
 
 * [Ottimizzazione delle destinazioni attraverso la combinazione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [Ottimizzazione delle destinazioni attraverso l’esclusione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Ottimizzazione del targeting attraverso l’esclusione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
 * [Utilizzo dell’attività di aggiornamento elenco per creare un elenco con un flusso di lavoro](/help/automating-with-workflows/using-the-update-list-activity.md)
 
 ## Risorse aggiuntive

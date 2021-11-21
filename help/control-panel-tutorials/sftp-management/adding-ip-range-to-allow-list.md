@@ -1,7 +1,7 @@
 ---
 title: 'Aggiunta di un intervallo IP all’elenco Consentiti '
 description: Scopri come aggiungere un intervallo di indirizzi IP all’elenco consentiti.
-feature: Pannello di controllo Campaign
+feature: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
 doc-type: feature video
@@ -13,8 +13,8 @@ level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 20%
+source-wordcount: '94'
+ht-degree: 31%
 
 ---
 
@@ -28,4 +28,4 @@ Scopri come aggiungere un intervallo di indirizzi IP all’elenco consentiti.
 
 ## Risorse aggiuntive
 
-* [Inserimento di intervalli IP nell’elenco Consentiti (documentazione)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)
+* [Inserimento di intervalli IP nell’elenco Consentiti (documentazione)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=it)

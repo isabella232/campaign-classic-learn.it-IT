@@ -1,7 +1,7 @@
 ---
-title: Esplorare l’interfaccia utente di Adobe Campaign Classic
+title: Interfaccia utente di Adobe Campaign Classic
 description: Comprendere l’interfaccia utente principale di Adobe Campaign Classic e mostra come navigare tra le funzionalità principali.
-feature: Panoramica
+feature: Overview
 kt: 5009
 thumbnail: 35130.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 521b970a-55eb-498f-9350-3fd7546bf1df
 source-git-commit: 77aa26692532bd83d219dc6e83af0704ea35367e
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 65%
+source-wordcount: '68'
+ht-degree: 64%
 
 ---
 
