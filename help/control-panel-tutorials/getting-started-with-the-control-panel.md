@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: f4cd1e05d6785abd66b83b309c98eecc97033bac
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 73%
+source-wordcount: '257'
+ht-degree: 72%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 73%
 
 >[!NOTE]
 >
-> Il Pannello di controllo Campaign è accessibile a tutti gli utenti amministratori. I passaggi per concedere a un utente i diritti di amministratore sono descritti nella [documentazione del prodotto](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=it#discover-control-panel).
+>Il Pannello di controllo Campaign è accessibile solo agli utenti amministratori. Ulteriori informazioni sulle autorizzazioni in [questa sezione](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=it#discover-control-panel).
 >
-> L’istanza deve essere ospitata su AWS e aggiornata con l’ultima [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=it) build o versione più recente [Build GA (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Scopri come controllare la versione in [questa sezione](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Per verificare se l’istanza è ospitata su AWS, segui i passaggi descritti in [questa sezione](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
+>Per Campaign Classic v7, l’istanza deve essere ospitata su Amazon Web Services (AWS) e aggiornata alla versione più recente [Build stabile della campagna](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=it#rn-statuses) (o per costruire 9032 o superiore). Scopri come controllare la versione in [questa sezione](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=it#getting-your-campaign-version). Per verificare se l’istanza è ospitata su AWS, segui i passaggi descritti in [questa sezione](faq.md#hosted-aws).
 
 La [!UICONTROL Control Panel] consente agli amministratori di Adobe Campaign di monitorare le risorse chiave ed eseguire attività amministrative, ad esempio gestire [!DNL SFTP] archiviazione per istanza, gestione [!DNL GPG] le chiavi o [!UICONTROL subdomains] e [!UICONTROL certificates].
 
