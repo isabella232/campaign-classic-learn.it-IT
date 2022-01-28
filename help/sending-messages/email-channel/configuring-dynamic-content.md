@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 77%
+source-wordcount: '66'
+ht-degree: 72%
 
 ---
 
@@ -23,13 +23,4 @@ Scopri i diversi tipi di contenuti dinamici e come creare e applicare blocchi di
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
 
-## Risorse aggiuntive
-
-Documentazione del prodotto:
-
-* [Contenuto condizionale](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en)
-
-Esercitazioni video:
-
-* [Personalizzazione delle e-mail mediante blocchi di contenuto dinamici](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [Personalizzazione delle e-mail tramite campi di personalizzazione](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+Per ulteriori informazioni, consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en).

@@ -1,7 +1,7 @@
 ---
 title: Creare campagne multicanale
 description: Scopri come creare una campagna multicanale utilizzando e-mail, SMS e una consegna direct mailing, in base al canale preferito del destinatario.
-feature: Workflows
+feature: Cross Channel Orchestration
 kt: 1563
 thumbnail: 24981.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
-source-git-commit: cfd9148fddd9bfca9595f5acacc3e9d9d9140020
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 79%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,3 @@ In una campagna multicanale, una singola comunicazione di marketing utilizza piÃ
 Scopri come creare una campagna multicanale utilizzando e-mail, SMS e una consegna direct mailing, in base al canale preferito del destinatario.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
-
-## Risorse aggiuntive
-
-* [Introduzione a campagne multicanale e cross-channel](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)

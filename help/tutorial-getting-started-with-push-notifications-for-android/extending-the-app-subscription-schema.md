@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 38%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,3 @@ Scopri come estendere il [!UICONTROL app subscription] schema per memorizzare i 
 **Passaggio successivo**
 
 Passaggio 2: [Configurazione di un servizio Android e creazione di un’app mobile Android in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
-
-## Risorse aggiuntive
-
-* [Estendi lo schema integrato per adattare la configurazione](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#extend-subscription-schema)

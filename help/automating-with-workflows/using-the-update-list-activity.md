@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 69%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,15 +23,3 @@ Scopri il concetto di elenchi in Adobe Campaign Classic e come creare un elenco 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
 
-## Risorse aggiuntive
-
-Documentazione:
-
-* [Informazioni sui flussi di lavoro](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=it)
-* [Aggiornamento elenco](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html)
-
-Esercitazioni:
-
-* [Targeting dei profili in un flusso di lavoro](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [Ottimizzazione delle destinazioni attraverso la combinazione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [Ottimizzazione del targeting attraverso l’esclusione dei risultati delle query](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)

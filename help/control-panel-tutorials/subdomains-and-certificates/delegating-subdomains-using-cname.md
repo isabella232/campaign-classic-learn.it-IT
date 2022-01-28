@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,9 +28,3 @@ Per poter iniziare a inviare e-mail o pubblicare pagine di destinazione con Adob
 Scopri come impostare e inviare un sottodominio tramite CNAME nel Pannello di controllo Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
-
-## Risorse aggiuntive
-
-* [Delega completa dei sottodomini (video)](./subdomain-delegation.md)
-* [Configurazione di un nuovo sottodominio (documentazione)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=it)
-

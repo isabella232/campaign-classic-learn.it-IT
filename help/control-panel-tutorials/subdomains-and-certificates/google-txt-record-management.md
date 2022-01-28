@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html
 exl-id: 0a39dfe3-8f89-406e-b7b2-d8a3a5eabfca
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,3 @@ Per assicurare che la maggior parte delle e-mail arrivino nella casella in entra
 Il video seguente descrive come aggiungere record [!UICONTROL Google TXT] per la verifica del sito a tutti i sottodomini utilizzati per inviare e-mail agli indirizzi [!DNL GMAIL] con [!UICONTROL Campaign Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
-
-## Risorse aggiuntive
-
-* [Gestione dei record TXT (documentazione)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html)

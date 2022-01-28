@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: f1e71f7d-4af1-4122-ae30-14c9f2ff2a19
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 82%
+source-wordcount: '73'
+ht-degree: 65%
 
 ---
 
@@ -23,6 +23,4 @@ Scopri come verificare se il canale dell’app mobile è installato nella tua is
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
-## Risorse aggiuntive
-
-* [Introduzione alla configurazione dell’app (documentazione)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios)
+Per ulteriori informazioni sulla configurazione del canale dell’app mobile, consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios).

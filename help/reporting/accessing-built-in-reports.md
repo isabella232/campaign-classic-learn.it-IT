@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 30%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,9 +22,3 @@ ht-degree: 30%
 Comprendere le funzioni di reporting e analisi integrate in Campaign Classic e imparare a generare un rapporto di consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
-
-## Risorse aggiuntive
-
-* [Generazione di un rapporto di analisi descrittivo (video)](/help/reporting/generating-a-descriptive-analysis-report.md)
-* [Guida introduttiva al reporting (documentazione del prodotto)](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html)
-* [Best practice per la generazione di rapporti (documentazione del prodotto)](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/best-practices.html)

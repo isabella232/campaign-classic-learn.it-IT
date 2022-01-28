@@ -1,7 +1,7 @@
 ---
 title: Come impostare la gestione dell’affaticamento utilizzando le regole di tipologia in Adobe Campaign Classic
 description: Scopri come implementare la gestione dell’eccesso applicando le regole di tipologia.
-feature: Fatigue Management
+feature: Fatigue Management, Typology Rules
 kt: 1564
 doc-type: feature video
 activity: use
@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 58%
+source-wordcount: '143'
+ht-degree: 48%
 
 ---
 
@@ -26,7 +26,4 @@ Questo video spiega come implementare la gestione dell’affaticamento in Adobe 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
-## Risorse aggiuntive
-
-* [Informazioni sulle tipologie di campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=it)
-* [Gestione dell’eccesso di marketing con le regole di pressione](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=it)
+Per ulteriori informazioni, consulta la documentazione del prodotto . [tipologie di campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=it).

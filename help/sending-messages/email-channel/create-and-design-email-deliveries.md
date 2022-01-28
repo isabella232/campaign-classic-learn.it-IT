@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '62'
+ht-degree: 87%
 
 ---
 
@@ -23,6 +23,4 @@ Scopri il processo di creazione di una consegna e-mail e come progettare e perso
 
 >[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12)
 
-## Risorse aggiuntive
-
-* [Definizione del contenuto dell’e-mail (documentazione)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=it)
+Per ulteriori informazioni, consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=it)

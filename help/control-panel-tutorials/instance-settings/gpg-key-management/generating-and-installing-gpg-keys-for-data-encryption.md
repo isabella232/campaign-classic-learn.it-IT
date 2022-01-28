@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.html
 exl-id: 823e299e-dc61-426b-80c8-7c5cb889f04f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,8 +23,3 @@ ht-degree: 100%
 Il Pannello di controllo Campaign consente di crittografare i dati provenienti dall’istanza Adobe Campaign. Scopri come generare e installare una coppia di chiavi pubblica/privata in una specifica istanza [!DNL Campaign] per la crittografia dei dati in uscita.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
-
-## Risorse aggiuntive
-
-* [Gestione delle chiavi GPG (video)](./gpg-key-management-overview.md)
-* [Gestione delle chiavi GPG (documentazione)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=it)

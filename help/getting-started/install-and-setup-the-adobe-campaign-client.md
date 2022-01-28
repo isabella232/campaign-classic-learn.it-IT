@@ -10,21 +10,15 @@ team: DOC
 role: User, Admin, Developer
 level: Beginner
 exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 82%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Installare e configurare la client di Adobe Campaign
 
-Nel video seguente viene illustrato come scaricare e installare la console client di Adobe Campaign, creare e gestire le connessioni a più ambienti e verificare l’accesso alla console client di Adobe Campaign.
+Il video seguente spiega come scaricare e installare la console client di Adobe Campaign, creare e gestire le connessioni a più ambienti e verificare l’accesso alla console client di Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12)
-
-## Risorse aggiuntive
-
-* [Matrice di compatibilità](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/compatibility-matrix.html?lang=en#compatibility-matrix)
-* [Installazione della console client](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/installing-the-client-console.html?lang=en)
-* [Guida all’implementazione di Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=it)

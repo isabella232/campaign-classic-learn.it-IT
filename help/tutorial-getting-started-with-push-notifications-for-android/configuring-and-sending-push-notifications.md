@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
 exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
-source-git-commit: e89f2b239a3d783e7fddbb5c9249524db0018cc5
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,6 +27,3 @@ Scopri come configurare e inviare un [!DNL push] notifica agli utenti di un [!DN
 
 Passaggio 2: [Configurazione di un servizio Android e creazione di un’app mobile Android in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
-## Risorse aggiuntive
-
-* [Creare una notifica push per Android (documentazione)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/create-a-push-msg/create-notifications-android.html)
