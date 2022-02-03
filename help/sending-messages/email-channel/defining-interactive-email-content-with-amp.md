@@ -11,9 +11,9 @@ role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
 source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '116'
+ht-degree: 100%
 
 ---
 
@@ -27,6 +27,6 @@ Il video seguente spiega come attivare AMP in Adobe Campaign Classic e ne illust
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
-È possibile utilizzare [Editor AMP](https://playground.amp.dev/) per creare il tuo codice AMP.
+Per creare il tuo codice AMP, puoi utilizzare l’[editor AMP](https://playground.amp.dev/).
 
-Vedi la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=it#about-amp-for-email) per ulteriori informazioni.
+Per ulteriori informazioni, consulta la [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html?lang=it#about-amp-for-email).
