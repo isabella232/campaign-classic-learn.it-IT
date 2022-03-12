@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '264'
-ht-degree: 100%
+source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 93%
 
 ---
 
@@ -23,6 +23,10 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
+* **[Integrare con Adobe Target](/help/integrations/target-integration.md)**
+
+   *Scopri come personalizzare una consegna con contenuti dinamici forniti da Adobe Target.*
+
 * **[Creare campagne cross-channel](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
    *Scopri come creare ed eseguire una campagna cross-channel.*
@@ -30,11 +34,6 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 * **[Utilizzare i gruppi di controllo](/help/sending-messages/email-channel/use-control-groups.md)**
 
    *Scopri il concetto di gruppi di controllo e come utilizzarli per la consegna.*
-
-* **[Inviare e convalidare le bozze](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
-
-   *Scopri come inviare e convalidare una bozza.*
-
 
 ## Tutorial scelti dal personale
 
