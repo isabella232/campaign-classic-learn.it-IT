@@ -6,17 +6,17 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: d0fc0f9009f090af6f2bc366d199594026044d18
-workflow-type: ht
-source-wordcount: '123'
-ht-degree: 100%
+source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Pannello di controllo di Adobe Campaign: tutorial {#control-panel}
 
-+ [Panoramica del Pannello di controllo Campaign](/help/control-panel-tutorials/control-panel-overview.md)
++ [Pannello di controllo Campaign](/help/control-panel-tutorials/control-panel-overview.md)
 + [Guida introduttiva al Pannello di controllo Campaign](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + Gestione SFTP {#sftp-management}
    + [Monitoraggio della capacità del server](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
