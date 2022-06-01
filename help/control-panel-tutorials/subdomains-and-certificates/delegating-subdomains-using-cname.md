@@ -10,18 +10,14 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 1c6626847e3fcd8f07332dddabc6a9355f83a120
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Delega dei sottodomini tramite CNAME (beta)
-
->[!IMPORTANT]
->
-> L’utilizzo dei CNAME per la delega dei sottodomini è in versione beta e soggetto a frequenti aggiornamenti e modifiche senza preavviso.
+# Delega dei sottodomini tramite CNAME
 
 Per poter iniziare a inviare e-mail o pubblicare pagine di destinazione con Adobe Campaign, devi impostare un nuovo sottodominio.
 
