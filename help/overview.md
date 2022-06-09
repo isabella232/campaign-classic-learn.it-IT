@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,17 +23,20 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
-* **[Integrare con Adobe Target](/help/integrations/target-integration.md)**
+* **[Introduzione all’SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**:
+   *Scopri come funziona SMS e come Adobe Campaign invia SMS*
 
-   *Scopri come personalizzare una consegna con il contenuto dinamico fornito da Adobe Target.*
+* **[Configurare un account SMS per un provider SMPP standard](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
 
-* **[Creare campagne cross-channel](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+   *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione, imposta la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
-   *Scopri come creare ed eseguire una campagna cross-channel.*
+* **[Adatta il connettore SMS al provider SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
 
-* **[Utilizzare i gruppi di controllo](/help/sending-messages/email-channel/use-control-groups.md)**
+   *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione, impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
-   *Scopri il concetto di gruppi di controllo e come utilizzarli per la consegna.*
+* **[Ottimizza il ROI delle e-mail e scopri le best practice per il nuovo coinvolgimento degli utenti](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *Scopri come ottimizzare il ROI delle e-mail e apprendere le best practice per il nuovo coinvolgimento degli utenti. Scopri le strategie per migliorare il coinvolgimento degli abbonati e il successo complessivo delle campagne e-mail.*
 
 ## Tutorial scelti dal personale
 
