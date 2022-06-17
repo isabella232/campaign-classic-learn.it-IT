@@ -5,16 +5,16 @@ user-guide-title: Tutorial su Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic consente agli esperti di marketing di progettare esperienze cliente cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Esercitazioni
 source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '404'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 
 # Tutorial su Adobe Campaign Classic {#tutorials}
 
-+ [Adobe Campaign Classic V7](/help/overview.md)
++ [Adobe Campaign Classic v7](/help/overview.md)
 + Introduzione {#getting-started}
    + [Introduzione ad Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Installare e configurare il client di Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -44,7 +44,7 @@ ht-degree: 90%
       + [Risoluzione dei problemi di consegna e-mail](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Progettare le e-mail per la consegna](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + Canale SMS {#sms-channel}
-      + [Configurare SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
+      + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
       + [Creare una consegna SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canale push {#push-channel}
       + [Installazione del canale app mobile](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -91,6 +91,6 @@ ht-degree: 90%
    + Accesso a un database esterno (FDA) {#fda}
       + [Gestione dei big data su [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Risoluzione dei problemi in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=it)
-+ Strategia e leadership del pensiero{#strategy}
-   + [Ottimizzazione del ROI delle e-mail e delle best practice per il nuovo coinvolgimento degli utenti](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
++ Strategia e leadership di pensiero{#strategy}
+   + [Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=it)
    + [Guida alle best practice per la consegna](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=it)
