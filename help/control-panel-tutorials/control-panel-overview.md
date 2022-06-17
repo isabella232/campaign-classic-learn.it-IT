@@ -13,9 +13,9 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 recommendations: noDisplay
 exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
 source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '252'
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Il Pannello di controllo di Adobe Campaign consente agli amministratori di monit
 
    *Scopri come impostare e inviare un sottodominio tramite CNAME nel Pannello di controllo Campaign.*
 
-Consulta la sezione [Note sulla versione](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=it) per ulteriori informazioni sulle ultime versioni dei prodotti.
+Consulta le [Note sulla versione](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=it) per ulteriori informazioni sulle ultime versioni dei prodotti.
 
 ## Tutorial scelti dal personale
 
