@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
-workflow-type: ht
-source-wordcount: '371'
-ht-degree: 100%
+source-git-commit: 7e0296bfd4b22a8ef913a50fa594cff08ff783ed
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,6 +23,14 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 ## Novità
 
+* **[Monitorare i flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)**
+
+   *Scopri come monitorare l’utilizzo dello storage temporaneo dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
+
+* **[Monitoraggio delle uscite e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)**
+
+   *Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali dell’istanza della campagna.*
+
 * **[Introduzione alla funzione SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=it-IT)**
 
    *Scopri la funzione SMS e come Adobe Campaign invia SMS*
@@ -30,14 +38,6 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 * **[Configurare un account SMS per un provider SMPP standard](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=it-IT)**
 
    *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
-
-* **[Adattare il connettore SMS al provider SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=it-IT)**
-
-   *Scopri come ottimizzare le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
-
-* **[Massimizzare il ROI delle e-mail e best practice per coinvolgere di nuovo le persone iscritte](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=it-IT)**
-
-   *Scopri come massimizzare il ROI delle e-mail e le best practice per coinvolgere di nuovo le persone iscritte. Scopri le strategie per migliorare il coinvolgimento degli utenti iscritti e comprendi il livello di successo complessivo delle campagne e-mail.*
 
 ## Tutorial scelti dal personale
 
