@@ -1,6 +1,6 @@
 ---
 title: Creare e gestire i profili
-description: Scopri come accedere ai dati del profilo, ordinare e filtrare i profili e come crearli e gestirli manualmente. Scopri la conformità con il Regolamento generale sulla protezione dei dati (RGPD) e il California Consumer Privacy Act (CCPA).
+description: Scopri come accedere ai dati di profilo, ordinare e filtrare i profili e come crearli e gestirli manualmente. Scopri la conformità con il Regolamento generale sulla protezione dei dati (RGPD) e il California Consumer Privacy Act (CCPA).
 landing-page-description: Scopri il concetto dei profili. Scopri come accedere ai dati, ordinare e filtrare i profili e come crearli e gestirli manualmente. Informazioni su RGPD e CCPA.
 feature: Profiles
 kt: 5081
