@@ -4,8 +4,8 @@ sub-product: Campaign Classic
 user-guide-title: Tutorial su Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic consente agli esperti di marketing di progettare esperienze cliente cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Esercitazioni
-source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
-workflow-type: ht
+source-git-commit: 5ea94a7e00a2c9fdc9fbadb563aa61f43479cb24
+workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 100%
 
@@ -44,7 +44,6 @@ ht-degree: 100%
       + [Risoluzione dei problemi di consegna e-mail](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Progettare le e-mail per la consegna](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + Canale SMS {#sms-channel}
-      + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
       + [Creare una consegna SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canale push {#push-channel}
       + [Installazione del canale app mobile](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -88,6 +87,7 @@ ht-degree: 100%
    + [Integrare con Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Amministrare {#administrating}
    + [Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=it){target=&quot;_blank&quot;}
+   + [Configurare gli SMS per Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=it)
    + Accesso a un database esterno (FDA) {#fda}
       + [Gestione dei big data su [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Risoluzione dei problemi in Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=it)
