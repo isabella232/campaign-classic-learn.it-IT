@@ -1,5 +1,5 @@
 ---
-title: Come impostare campagne e-mail ricorrenti e continue
+title: Configurare campagne e-mail ricorrenti e continue
 description: Scopri come impostare una consegna ricorrente e continua e le differenze tra i due approcci.
 feature: Workflows, Campaigns
 kt: 1560
@@ -9,14 +9,14 @@ team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 5f0cfc42aa1405c37787cd16d4cd0d6b7a462227
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 51%
+source-wordcount: '239'
+ht-degree: 50%
 
 ---
 
-# Come impostare campagne e-mail ricorrenti e continue
+# Configurare campagne e-mail ricorrenti e continue
 
 Questo tutorial spiega come impostare una consegna ricorrente e continua, e le differenze tra i due approcci.
 
