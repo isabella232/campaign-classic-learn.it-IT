@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: e9b7b7e76e026227bd8c44a854bde98d1adf1428
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '420'
+ht-degree: 100%
 
 ---
 
@@ -27,15 +27,15 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
    *Scopri come vengono stabilite le connessioni SMPP e come il protocollo SMPP scambia i dati tramite le PDU. Come risolvere i problemi relativi alle connessioni.*
 
-* **[Pannello di controllo Campaign per modelli di hosting ibridi](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=en)**
+* **[Pannello di controllo per modelli di hosting ibridi](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=it)**
 
-   *Scopri come abilitare il Pannello di controllo Campaign per i modelli di hosting ibridi di Adobe Campaign, accedere al Pannello di controllo Campaign e usufruire delle funzioni chiave.*
+   *Scopri come abilitare il Pannello di controllo per i modelli di hosting ibridi di Adobe Campaign, accedere al Pannello di controllo e usufruire delle funzioni chiave.*
 
-* **[Pannello di controllo Campaign - Monitoraggio dei flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
+* **[Pannello di controllo - Monitoraggio dei flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=it){target=&quot;_blank&quot;}**
 
    *Scopri come monitorare l’utilizzo temporaneo dell’archiviazione da parte dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
 
-* **[Pannello di controllo Campaign - Monitoraggio delle velocità effettive e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
+* **[Pannello di controllo - Monitoraggio delle velocità effettive e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=it){target=&quot;_blank&quot;}**
 
    *Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali dell’istanza della campagna.*
 
