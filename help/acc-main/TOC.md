@@ -7,7 +7,7 @@ breadcrumb-title: Esercitazioni
 source-git-commit: 4be021933b4124a19282a235fc364b663c9028bf
 workflow-type: tm+mt
 source-wordcount: '413'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 97%
    + [Configurare le attività di arricchimento](/help/automating-with-workflows/enrichment-activity.md)
    + [Segmentazione dei dati](/help/data-management/data-segmentation.md)
    + [Gestione delle approvazioni](/help/automating-with-workflows/managing-approvals.md)
-   + [Scopri i tuoi pari - Best practice per i flussi di lavoro](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
+   + [Consigli da altri professionisti: best practice per i flussi di lavoro](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + Progettazione di contenuti{#designing-content}
    + [Configurare le pagine di destinazione](/help/designing-content/configure-landingpages.md)
 + Monitoraggio {#monitoring}
