@@ -1,15 +1,15 @@
 ---
 title: 'Tutorial su Adobe Campaign Classic: panoramica'
-description: Adobe Campaign fornisce una piattaforma per la progettazione di esperienze cliente cross-channel e un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e il Cross-channel Execution. Questa guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Standard.
+description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Standard.
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 24ef8cdb92d45d24fc15f23045deae137d018b10
-workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 92%
+workflow-type: ht
+source-wordcount: '413'
+ht-degree: 100%
 
 ---
 
@@ -32,19 +32,19 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
    *Scopri come abilitare il Pannello di controllo per i modelli di hosting ibridi di Adobe Campaign, accedere al Pannello di controllo e usufruire delle funzioni chiave.*
 
-* **[Pannello di controllo - Monitoraggio dei flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=it){target=&quot;_blank&quot;}**
+* **[Pannello di controllo - Monitoraggio dei flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=it){target="_blank"}**
 
    *Scopri come monitorare l’utilizzo temporaneo dell’archiviazione da parte dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
 
-* **[Pannello di controllo - Monitoraggio delle velocità effettive e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=it){target=&quot;_blank&quot;}**
+* **[Pannello di controllo - Monitoraggio delle velocità effettive e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=it){target="_blank"}**
 
-   *Scopri come monitorare i flussi di consegna e le latenze dei messaggi transazionali dell’istanza della campagna.*
+   *Scopri come monitorare le velocità effettive di consegna e le latenze dei messaggi transazionali dell’istanza Campaign.*
 
-* **[Introduzione alla funzione SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=it-IT)**
+* **[Introduzione alla funzione SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=it)**
 
    *Scopri la funzione SMS e come Adobe Campaign invia SMS*
 
-* **[Configurare un account SMS per un provider SMPP standard](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=it-IT)**
+* **[Configurare un account SMS per un provider SMPP standard](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=it)**
 
    *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
@@ -59,7 +59,7 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 
 <div id="staff-picks-section">
 
-## Scelte del personale
+## Scelti dallo staff
 
 <table>
 <tr>
