@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Tutorial su Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic consente agli esperti di marketing di progettare esperienze cliente cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Esercitazioni
-source-git-commit: 13fea9184efd6b8bacedda44aba5e37a63f92e05
+source-git-commit: 545da6c56096f6d695d63490dc1833bdbbcb46cf
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 98%
+source-wordcount: '436'
+ht-degree: 97%
 
 ---
 
@@ -77,6 +77,7 @@ ht-degree: 98%
    + [Gestire i fusi orari](/help/automating-with-workflows/manage-time-zones.md)
    + [Configurazione dei flussi di lavoro di convalida](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Configurare le attività di arricchimento](/help/automating-with-workflows/enrichment-activity.md)
+   + [Configurare le attività di pianificazione](/help/automating-with-workflows/configure-scheduler-activities.md)
    + [Segmentazione dei dati](/help/data-management/data-segmentation.md)
    + [Gestione delle approvazioni](/help/automating-with-workflows/managing-approvals.md)
    + [Consigli da altri professionisti: best practice per i flussi di lavoro](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
