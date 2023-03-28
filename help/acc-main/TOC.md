@@ -5,9 +5,9 @@ user-guide-title: Tutorial su Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic consente agli esperti di marketing di progettare esperienze cliente cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Esercitazioni
 source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 96%
    + [Gestire i fusi orari](/help/automating-with-workflows/manage-time-zones.md)
    + [Configurazione dei flussi di lavoro di convalida](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Configurare le attività di arricchimento](/help/automating-with-workflows/enrichment-activity.md)
-   + [Configurare le attività di pianificazione](/help/automating-with-workflows/configure-scheduler-activities.md)
+   + [Configurare le attività del modulo di pianificazione](/help/automating-with-workflows/configure-scheduler-activities.md)
    + [Segmentazione dei dati](/help/data-management/data-segmentation.md)
    + [Gestione delle approvazioni](/help/automating-with-workflows/managing-approvals.md)
    + [Consigli da altri professionisti: best practice per i flussi di lavoro](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
@@ -88,7 +88,7 @@ ht-degree: 96%
    + [Mappa di calore del flusso di lavoro](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Audit Trail](/help/monitoring-campaign-classic/audit-trail.md)
 + Gestione dei dati {#data-management}
-   + [Eseguire query sui dati](/help/data-management/query-data.md)
+   + [Dati della query](/help/data-management/query-data.md)
 + Integrare {#integrating}
    + [Integrare con Adobe Target](/help/integrations/target-integration.md)
    + [Integrare con Dynamics 365](/help/integrations/dynamics365-integration.md)
