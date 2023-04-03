@@ -10,10 +10,10 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 32%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Scopri come configurare un servizio [!DNL Android] e creare un’app mobile [!DNL Android] in Campaign. Questo passaggio è necessario per definire l’app mobile di destinazione per la notifica push.
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on)
 
 **Passaggio precedente**
 

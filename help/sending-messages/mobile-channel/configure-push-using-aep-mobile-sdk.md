@@ -1,6 +1,6 @@
 ---
-title: 'Configurare il canale push con l’SDK di Experience Platform Mobile '
-description: 'Scopri come configurare il canale push utilizzando l’SDK di Experience Cloud Mobile. '
+title: Configurare il canale push con l’SDK di Experience Platform Mobile
+description: Scopri come configurare il canale push utilizzando l’SDK di Experience Cloud Mobile.
 feature: Push, Mobile SDK Integration
 kt: 2683
 doc-type: feature video
@@ -9,7 +9,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 54%
@@ -20,6 +20,6 @@ ht-degree: 54%
 
 Questo video spiega come configurare e installare l’SDK di Adobe Experience Platform Mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on)
 
 Per ulteriori informazioni su come configurare l&#39;estensione Campaign Classic nell&#39;SDK di Mobile, consulta la sezione [documentazione del prodotto](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic).

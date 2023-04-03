@@ -1,12 +1,12 @@
 ---
-title: Risoluzione dei problemi del Pannello di controllo Campaign
+title: Risoluzione dei problemi del Pannello di controllo
 description: Il Pannello di controllo Campaign ti consente di monitorare e gestire l’archiviazione SFTP per istanza e inserire nell'elenco Consentiti gli indirizzi IP.
 feature: Control Panel
 kt: 2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 84%
@@ -41,18 +41,18 @@ L’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-x
 
 ### Video utili
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on)
 
 *Verificare Org ID IMS (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on)
 
-*How to add an administrator to the product profile administrators to be able to use [!UICONTROL Control panel] (01:03 min)*
+*Come aggiungere un amministratore al profilo di prodotto in modo che possa utilizzare il [!UICONTROL Control panel] (01:03 min)*
 
 ### Documentazione utile
 
-* [Scoprire il Pannello di controllo Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it)
-* [Gestione delle autorizzazioni per il [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Scoprire il Pannello di controllo](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it)
+* [Gestione delle autorizzazioni per il [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it)
 
 ## Stabilimento di una connessione al server SFTP (client o API)
 
@@ -64,5 +64,5 @@ La connessione ai server SFTP richiede:
 
 ### Documentazione utile {#helpful-docs}
 
-* [Accesso al server SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Accesso al server SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=it)
 

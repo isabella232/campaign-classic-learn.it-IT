@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 89%
 
 ---
 
@@ -23,6 +23,6 @@ I campi di personalizzazione sono utilizzati per la personalizzazione di primo l
 
 Scopri come aggiungere un campo di personalizzazione alla riga dell’oggetto e il contenuto di una consegna e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on)
 
-Per ulteriori informazioni sulla personalizzazione, consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html).
+Per ulteriori informazioni sulla personalizzazione, consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=it).
