@@ -5,9 +5,9 @@ user-guide-title: Tutorial su Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic consente agli esperti di marketing di progettare esperienze cliente cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Esercitazioni
 source-git-commit: d91185009803755731f07a0b187dd60cf9141699
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '452'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 98%
       + [Configurare campagne e-mail ricorrenti e continue](/help/sending-messages/recurring-deliveries.md)
       + [Definizione del contenuto delle e-mail interattive con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Risoluzione dei problemi di consegna e-mail](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
-      + [Aggiungere allegati a una consegna e-mail](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
+      + [Aggiungi allegati a una consegna e-mail](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [Progettare le e-mail per la consegna](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + Canale SMS {#sms-channel}
       + [Creare una consegna SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
@@ -61,7 +61,7 @@ ht-degree: 98%
       + [Utilizzo delle regole di tipologia](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Utilizzo di filtri predefiniti](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
    + Monitoraggio dei messaggi {#monitoring-messages}
-      + [Gestione della quarantena](/help/sending-messages/quarantine-management.md)
+      + [Informazioni sulla gestione della quarantena](/help/sending-messages/quarantine-management.md)
    + [Configurazione e gestione dei servizi di abbonamento](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestrare le campagne {#orchestration}
    + [Esecuzione di una campagna](/help/orchestrating-campaigns/executing-a-campaign.md)
