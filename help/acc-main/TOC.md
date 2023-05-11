@@ -5,9 +5,9 @@ user-guide-title: Tutorial su Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic consente agli esperti di marketing di progettare esperienze cliente cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Esercitazioni
 source-git-commit: 3812f2852958edb7be5fca16fe2e5e9b31a91199
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '459'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 98%
 + Inviare messaggi{#sending-messages}
    + Canale e-mail{#email-channel}
       + [Creare e progettare consegne e-mail](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
-      + [Progettazione di contenuti di consegna e-mail](/help/sending-messages/email-channel/design-email-delivery-content.md)
+      + [Progettare i contenuti delle consegne e-mail](/help/sending-messages/email-channel/design-email-delivery-content.md)
       + [Gestire seed e bozze in un’e-mail](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Inviare e convalidare le bozze](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Utilizzare i gruppi di controllo](/help/sending-messages/email-channel/use-control-groups.md)
@@ -88,7 +88,7 @@ ht-degree: 98%
 + Configurare le pagine di destinazione {#landing-pages}
    + [Configurare le pagine di destinazione](/help/designing-content/configure-landingpages.md)
    + [Creare un centro preferenze](/help/designing-content/create-a-preference-center.md)
-+ [Creazione di un sondaggio](/help/designing-content/create-a-survey.md)
++ [Creare un sondaggio](/help/designing-content/create-a-survey.md)
 + Monitoraggio {#monitoring}
    + [Mappa di calore del flusso di lavoro](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Audit Trail](/help/monitoring-campaign-classic/audit-trail.md)
