@@ -19,7 +19,7 @@ ht-degree: 69%
 
 # Utilizzo dell’attività di aggiornamento elenco per creare un elenco con un flusso di lavoro
 
-Scopri il concetto di elenchi in Adobe Campaign Classic e come creare un elenco utilizzando l’attività di aggiornamento elenco in un flusso di lavoro.
+Scopri gli elenchi in Adobe Campaign Classic e come creare un elenco utilizzando l’attività di aggiornamento elenco in un flusso di lavoro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12&learn=on)
 

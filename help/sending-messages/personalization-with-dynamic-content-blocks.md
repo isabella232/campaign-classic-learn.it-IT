@@ -1,6 +1,6 @@
 ---
 title: Personalizzare le e-mail utilizzando blocchi di contenuto dinamici
-description: Questa esercitazione illustra come personalizzare il contenuto della consegna, utilizzare il codice JavaScript nei modelli di consegna e standardizzare e condividere i blocchi di contenuto in diversi modelli di consegna.
+description: Questa esercitazione illustra come personalizzare i contenuti di consegna, utilizzare il codice JavaScript nei modelli di consegna e standardizzare e condividere i blocchi di contenuto in diversi modelli di consegna.
 feature: Dynamic Content, Personalization
 kt: 1559
 doc-type: feature video
@@ -23,7 +23,7 @@ In Adobe Campaign puoi personalizzare il contenuto o l’aspetto dei messaggi e 
 3 - Inserire campi di personalizzazione dinamici\
 4 - Creare contenuto condizionale.
 
-Questa esercitazione illustra come personalizzare il contenuto della consegna, utilizzare il codice JavaScript nei modelli di consegna e standardizzare e condividere i blocchi di contenuto in diversi modelli di consegna.
+Questa esercitazione illustra come personalizzare i contenuti di consegna, utilizzare il codice JavaScript nei modelli di consegna e standardizzare e condividere i blocchi di contenuto in diversi modelli di consegna.
 
 ## Creare e aggiungere un blocco di personalizzazione a una consegna
 
@@ -43,4 +43,4 @@ Configurando i campi di contenuto condizionale puoi creare una personalizzazione
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
 
-Per ulteriori informazioni sulla personalizzazione, consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).
+Per ulteriori informazioni sulla personalizzazione, consulta [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

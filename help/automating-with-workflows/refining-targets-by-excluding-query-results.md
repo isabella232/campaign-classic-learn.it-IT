@@ -19,6 +19,6 @@ ht-degree: 82%
 
 # Ottimizzazione del targeting attraverso l’esclusione dei risultati delle query
 
-Scopri come perfezionare il target applicando un **[!UICONTROL standard exclusion]** a un flusso di lavoro. Scopri anche come creare filtri predefiniti e risolvere i problemi relativi al flusso di lavoro.
+Scopri come ottenere un target più mirato applicando una **[!UICONTROL standard exclusion]** a un flusso di lavoro. Scopri anche come creare filtri predefiniti e risolvere i problemi relativi al flusso di lavoro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on)

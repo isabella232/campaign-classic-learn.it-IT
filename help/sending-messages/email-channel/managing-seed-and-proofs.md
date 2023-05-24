@@ -1,6 +1,6 @@
 ---
 title: Come gestire seed e bozze in un’e-mail
-description: Scopri come aggiungere sementi e bozze a un’e-mail esistente e come inviarla.
+description: Scopri come aggiungere seed e bozze a un’e-mail esistente e come inviarla.
 feature: Email, Seed Address, Proofs
 kt: 2178
 thumbnail: 25606.jpg
@@ -19,6 +19,6 @@ ht-degree: 36%
 
 # Come gestire seed e bozze in un’e-mail
 
-Scopri come aggiungere sementi e bozze a un’e-mail esistente e come inviarla.
+Scopri come aggiungere seed e bozze a un’e-mail esistente e come inviarla.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Configurazione e invio di notifiche push
-description: Scopri come configurare e inviare una notifica push agli utenti delle app android.
+description: Scopri come configurare e inviare una notifica push agli utenti delle app Android.
 feature: Push
 kt: 6579
 thumbnail: 328154.jpg

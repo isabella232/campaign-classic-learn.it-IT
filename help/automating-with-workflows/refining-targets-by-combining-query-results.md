@@ -19,6 +19,6 @@ ht-degree: 64%
 
 # Ottimizzazione delle destinazioni attraverso la combinazione dei risultati delle query
 
-Scopri come perfezionare la destinazione combinando i risultati delle query in un flusso di lavoro utilizzando **[!UICONTROL intersection]** o **[!UICONTROL union]** attività.
+Scopri come ottenere un target più mirato combinando i risultati delle query in un flusso di lavoro utilizzando **[!UICONTROL intersection]** o **[!UICONTROL union]** attività.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Personalizzazione delle e-mail - Creazione di una newsletter multilingue tramite il contenuto condizionale
-description: Scopri come aggiungere contenuto condizionale a una consegna, ad esempio una newsletter multilingue.
+description: Scopri come aggiungere contenuti condizionali a una consegna, ad esempio una newsletter multilingue.
 feature: Dynamic Content, Personalization
 kt: 5922
 thumbnail: 24926.jpg
@@ -21,7 +21,7 @@ ht-degree: 45%
 
 Configurando i campi di contenuto condizionale puoi creare una personalizzazione avanzata. I blocchi di testo completi e/o le immagini vengono sostituiti quando viene soddisfatta una particolare condizione.
 
-Scopri come aggiungere contenuto condizionale a una consegna, ad esempio una newsletter multilingue.
+Scopri come aggiungere contenuti condizionali a una consegna, ad esempio una newsletter multilingue.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
 

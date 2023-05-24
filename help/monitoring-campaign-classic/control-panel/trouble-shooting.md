@@ -1,6 +1,6 @@
 ---
 title: Risoluzione dei problemi del Pannello di controllo
-description: Il Pannello di controllo Campaign ti consente di monitorare e gestire l’archiviazione SFTP per istanza e inserire nell'elenco Consentiti gli indirizzi IP.
+description: Il Pannello di controllo Campaign ti consente di monitorare e gestire l’archiviazione SFTP per istanza e di inserire nell'elenco Consentiti gli indirizzi IP di.
 feature: Control Panel
 kt: 2938
 doc-type: article
@@ -34,7 +34,7 @@ L’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-x
 ### Sintomo: un’istanza non è elencata nel [!UICONTROL Control Panel]
 
 **Causa:**
-Probabilmente l’utente deve essere aggiunto come profilo di prodotto &quot;utente&quot; _Campaign-xxx-Administrators/Admin_ per l&#39;istanza mancante
+Probabilmente l’utente deve essere aggiunto come profilo di prodotto &quot;utente&quot; _Campaign-xxx-Administrators/Admin_ per l’istanza mancante
 
 **Come procedere:**
 L’amministratore deve aggiungere l’utente al profilo di prodotto _Campaign-xxx-Admins_ per ogni istanza che desidera gestire. Se l’utente è amministratore di tutte le istanze, deve comunque aggiungere se stesso come “utente”.
@@ -60,7 +60,7 @@ La connessione ai server SFTP richiede:
 
 * [!UICONTROL Allow listing] l’indirizzo IP da cui desideri connetterti al server SFTP
 * Una coppia di chiavi privata/pubblica che deve essere registrata con Adobe Campaign
-* Se ti connetti direttamente al server SFTP, devi disporre di un software client SFTP
+* Se ti connetti direttamente al server SFTP, devi usare il software client SFTP
 
 ### Documentazione utile {#helpful-docs}
 

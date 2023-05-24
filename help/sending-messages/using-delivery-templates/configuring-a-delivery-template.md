@@ -28,7 +28,7 @@ Un modello può includere sistematicamente:
 * Indirizzi di invio e risposta
 * Blocchi di personalizzazione di base
 * Collegamenti a pagine mirror e annullamento dell’abbonamento
-* Contenuto, logo o firma dell&#39;azienda
+* Contenuto, logo o firma dell’azienda
 * Altre proprietà di consegna, ad esempio validità delle risorse, quantità batch...
 
 Il video seguente illustra come configurare un modello per una consegna ad hoc.

@@ -1,6 +1,6 @@
 ---
 title: Gestione dei big data su Snowflake
-description: Scopri come sfruttare il connettore del Snowflake in Adobe Campaign Classic
+description: Scopri come sfruttare il connettore di Snowflake in Adobe Campaign Classic
 feature: Federated Data Access, Data Management
 kt: 4405
 doc-type: feature video
@@ -18,7 +18,7 @@ ht-degree: 56%
 
 # Gestione dei big data su Snowflake
 
-Questa esercitazione spiega come sfruttare il [!DNL Snowflake] connettore in Adobe Campaign Classic.
+Questo tutorial spiega come sfruttare [!DNL Snowflake] in Adobe Campaign Classic.
 Scopri come
 
 * Connettere Snowflake
@@ -32,4 +32,4 @@ Scopri come
 
 >[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
 
-Per ulteriori informazioni su come configurare l’accesso al Snowflake, consulta la sezione [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic).
+Per ulteriori informazioni su come configurare l&#39;accesso al Snowflake, vedere [documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic).

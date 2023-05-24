@@ -1,5 +1,5 @@
 ---
-title: Come configurare i flussi di lavoro di convalida in Adobe Campaign Classic
+title: Configurare i flussi di lavoro di convalida in Adobe Campaign Classic
 description: Scopri come configurare diversi flussi di lavoro di convalida dell’approvazione.
 feature: Workflows, Approvals
 kt: 1566

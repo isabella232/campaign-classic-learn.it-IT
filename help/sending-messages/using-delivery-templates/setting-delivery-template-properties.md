@@ -19,6 +19,6 @@ ht-degree: 32%
 
 # Impostazione delle proprietà del modello di consegna {#setting-the-delivery-template-properties}
 
-Il video seguente mostra come impostare le proprietà del modello di consegna e spiega in dettaglio ciascuna proprietà .
+Il video seguente mostra come impostare le proprietà del modello di consegna e spiega in dettaglio ciascuna proprietà.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&learn=on)

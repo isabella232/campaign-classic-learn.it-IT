@@ -1,5 +1,5 @@
 ---
-title: Come impostare la gestione dell’affaticamento utilizzando le regole di tipologia in Adobe Campaign Classic
+title: Come impostare la gestione dell’eccesso utilizzando le regole di tipologia in Adobe Campaign Classic
 description: Scopri come implementare la gestione dell’eccesso applicando le regole di tipologia.
 feature: Fatigue Management, Typology Rules
 kt: 1564
@@ -20,10 +20,10 @@ ht-degree: 48%
 
 La gestione dell’eccesso controlla la frequenza e la quantità di messaggi per evitare un’eccessiva sollecitazione dei destinatari e viene spesso applicata utilizzando una regola di tipologia.
 
-Le regole di tipologia consentono agli esperti di marketing di standardizzare le pratiche aziendali su tutte le consegne in modo più efficiente per controllare la messaggistica delle campagne verso i clienti. A tal fine, elimina la necessità di applicare esclusioni o regole di uso comune a ogni singola campagna. Destinatari che corrispondono a criteri in un *regola di tipologia* sono esclusi dalla consegna durante la fase di analisi.
+Le regole di tipologia consentono agli esperti di marketing di standardizzare le pratiche aziendali su tutte le consegne in modo più efficiente per controllare la messaggistica delle campagne verso i clienti. A tal fine, elimina la necessità di applicare esclusioni o regole di uso comune a ogni singola campagna. Destinatari che soddisfano i criteri di una *regola di tipologia* sono esclusi dalla consegna durante la fase di analisi.
 
-Questo video spiega come implementare la gestione dell’affaticamento in Adobe Campaign Classic applicando le regole di tipologia.
+Questo video spiega come implementare la gestione dell’eccesso in Adobe Campaign Classic applicando le regole di tipologia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on)
 
-Per ulteriori informazioni, consulta la documentazione del prodotto . [tipologie di campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=it).
+Per ulteriori informazioni, consulta la documentazione del prodotto. [tipologie di campagne](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=it).

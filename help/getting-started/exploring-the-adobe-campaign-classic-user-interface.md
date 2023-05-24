@@ -1,6 +1,6 @@
 ---
 title: Interfaccia utente di Adobe Campaign Classic
-description: Comprendere l’interfaccia utente principale di Adobe Campaign Classic e mostra come navigare tra le funzionalità principali.
+description: Scopri l’interfaccia utente principale di Adobe Campaign Classic e come navigare tra le funzionalità principali.
 feature: Overview
 kt: 5009
 thumbnail: 35130.jpg

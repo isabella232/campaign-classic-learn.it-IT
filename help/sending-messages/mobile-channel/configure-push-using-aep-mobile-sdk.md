@@ -22,4 +22,4 @@ Questo video spiega come configurare e installare l’SDK di Adobe Experience Pl
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12&learn=on)
 
-Per ulteriori informazioni su come configurare l&#39;estensione Campaign Classic nell&#39;SDK di Mobile, consulta la sezione [documentazione del prodotto](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic).
+Per ulteriori informazioni su come configurare l’estensione Campaign Classic nell’SDK di Mobile, consulta [documentazione del prodotto](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic).

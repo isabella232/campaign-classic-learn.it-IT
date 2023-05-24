@@ -1,6 +1,6 @@
 ---
 title: Creare un centro preferenze
-description: Scopri come creare un centro preferenze utilizzando l’editor di applicazioni web Adobe Campaign.
+description: Scopri come creare un centro preferenze utilizzando l’editor di applicazioni web di Adobe Campaign.
 feature: Landing Pages
 kt: 1562
 thumbnail: 25041.jpg
@@ -20,7 +20,7 @@ ht-degree: 14%
 
 # Creare un centro preferenze
 
-Scopri come creare un centro preferenze utilizzando l’editor di applicazioni web Adobe Campaign.
+Scopri come creare un centro preferenze utilizzando l’editor di applicazioni web di Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on)
 

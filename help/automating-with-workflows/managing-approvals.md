@@ -24,4 +24,4 @@ Scopri come impostare le approvazioni e una campagna, e come distinguere tra le 
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on)
 
-Per ulteriori informazioni sulla definizione delle approvazioni, consulta la sezione [Documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).
+Per ulteriori informazioni sulla definizione delle approvazioni, consulta [Documentazione del prodotto](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).

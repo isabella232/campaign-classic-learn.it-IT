@@ -19,6 +19,6 @@ ht-degree: 57%
 
 # Creazione di consegne di direct mailing
 
-Comprendere come [!UICONTROL direct mail] lavora in [!UICONTROL Adobe Campaign] e scopri come creare, formattare ed eseguire un [!UICONTROL direct mail ]consegna.
+Comprendere come [!UICONTROL direct mail] funziona in [!UICONTROL Adobe Campaign] e scopri come creare, formattare ed eseguire una [!UICONTROL direct mail ]consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12&learn=on)

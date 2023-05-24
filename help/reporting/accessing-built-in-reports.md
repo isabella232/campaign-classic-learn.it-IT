@@ -19,6 +19,6 @@ ht-degree: 54%
 
 # Accesso ai rapporti incorporati
 
-Comprendere le funzioni di reporting e analisi integrate in Campaign Classic e imparare a generare un rapporto di consegna.
+Scopri le funzioni di reporting e analisi integrate in Campaign Classic e come generare un rapporto sulla consegna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on)
