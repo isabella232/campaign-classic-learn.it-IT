@@ -1,7 +1,7 @@
 ---
 title: Configurazione di contenuti dinamici
 description: Scopri i diversi tipi di contenuti dinamici e come creare e applicare blocchi di personalizzazione e istruzioni condizionali a una consegna.
-feature: Dynamic Content, Personalization, Email
+feature: Personalization, Email
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f155a48a2eea11867a217051741941d57ad54915
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 84%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
