@@ -2,7 +2,7 @@
 title: Introduzione ad Adobe Campaign Classic
 description: Scopri in che modo Adobe Campaign Classic si inserisce nel portfolio delle esperienze digitali Adobe e ottieni una panoramica delle sue funzioni e caratteristiche principali.
 feature: Overview
-kt: 5457
+jira: KT-5457
 thumbnail: 35129.jpg
 doc-type: feature video
 activity: understand
@@ -10,9 +10,9 @@ team: WWFRE
 role: User, Admin, Developer
 level: Beginner
 exl-id: 40411fe3-44d8-4c2e-99df-940d17ab9f3e
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
-workflow-type: tm+mt
-source-wordcount: '54'
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
