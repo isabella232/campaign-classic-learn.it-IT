@@ -2,7 +2,7 @@
 title: Personalizzazione delle e-mail - Creazione di una newsletter multilingue tramite il contenuto condizionale
 description: Scopri come aggiungere contenuti condizionali a una consegna, ad esempio una newsletter multilingue.
 feature: Personalization
-kt: 5922
+jira: KT-5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: f155a48a2eea11867a217051741941d57ad54915
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 45%
 
 ---
 

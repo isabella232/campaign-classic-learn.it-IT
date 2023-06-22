@@ -4,7 +4,7 @@ description: Scopri come accedere ai dati di profilo, ordinare e filtrare i prof
 landing-page-description: Scopri il concetto dei profili. Scopri come accedere ai dati, ordinare e filtrare i profili e come crearli e gestirli manualmente. Informazioni su RGPD e CCPA.
 short-description: Scopri il concetto dei profili. Scopri come accedere ai dati, ordinare e filtrare i profili e come crearli e gestirli manualmente. Informazioni su RGPD e CCPA.
 feature: Profiles
-kt: 5081
+jira: KT-5081
 thumbnail: 35611.jpg
 doc-type: feature video
 activity: use
@@ -12,7 +12,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 100%

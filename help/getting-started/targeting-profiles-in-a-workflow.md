@@ -2,7 +2,7 @@
 title: Eseguire il targeting dei profili in un flusso di lavoro
 description: Scopri come usare i flussi di lavoro delle campagne, e come creare un flusso di lavoro e definirne i profili target mediante condizioni di filtro.
 feature: Workflows
-kt: 5080
+jira: KT-5080
 thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 91%

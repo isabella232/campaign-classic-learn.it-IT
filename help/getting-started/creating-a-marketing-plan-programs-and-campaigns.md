@@ -2,7 +2,7 @@
 title: Creare un piano marketing, programmi e campagne
 description: Scopri i concetti chiave di Adobe Campaign per pianificare, eseguire e misurare in modo efficace le campagne di marketing cross-channel.
 feature: Campaigns
-kt: 5347
+jira: KT-5347
 thumbnail: 35132.jpg
 doc-type: feature video
 activity: understand
@@ -10,7 +10,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: b63431c6-d09a-49d1-9281-e1f260842b86
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 100%

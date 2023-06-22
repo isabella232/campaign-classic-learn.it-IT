@@ -2,7 +2,7 @@
 title: Personalizzazione delle e-mail tramite campi di personalizzazione
 description: Scopri come aggiungere un campo di personalizzazione alla riga dell’oggetto e il contenuto di una consegna e-mail.
 feature: Personalization
-kt: 5921
+jira: KT-5921
 thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-source-git-commit: f155a48a2eea11867a217051741941d57ad54915
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 89%
 
 ---
 
