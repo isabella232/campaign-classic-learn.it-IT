@@ -2,7 +2,7 @@
 title: Personalizzazione delle e-mail mediante blocchi di contenuto dinamici
 description: Scopri come creare blocchi di contenuto dinamici e come utilizzarli per personalizzare il contenuto della consegna e-mail.
 feature: Personalization
-kt: 1559
+jira: KT-1559
 thumbnail: 24924.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: f155a48a2eea11867a217051741941d57ad54915
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
