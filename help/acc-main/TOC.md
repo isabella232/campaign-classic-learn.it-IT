@@ -5,7 +5,7 @@ user-guide-title: Tutorial su Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic consente agli esperti di marketing di progettare esperienze cliente cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel.
 breadcrumb-title: Esercitazioni
 source-git-commit: 4d9fa1a0755d372ba5b535c6a7edfba89589929c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '460'
 ht-degree: 100%
 
