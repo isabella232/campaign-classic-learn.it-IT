@@ -2,15 +2,16 @@
 title: Dieci best practice per il successo Adobe Campaign per gli addetti al marketing
 description: Scopri le dieci best practice per aiutare i professionisti di Adobe Campaign a scoprire e accelerare la trasformazione digitale del consumatore e una migliore esperienza per i loro clienti.
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
-workflow-type: ht
+source-git-commit: eae208987b8430773421cba7aec2f77d5441b618
+workflow-type: tm+mt
 source-wordcount: '1279'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -49,7 +50,7 @@ Come i tuoi clienti, anche tu segui una routine quotidiana. L’invio e l’orch
 
 Ad esempio, se i clienti controllano il telefono al mattino per le migliori offerte, prendi in considerazione la possibilità di inviare loro un messaggio promozionale. Se cercando la tendenza più in voga durante la notte, prendi in considerazione l&#39;invio di un&#39;e-mail di follow-up con un codice promozionale per la spedizione gratuita. È anche importante utilizzare lo strumento mappa termica in [!DNL Campaign] per tracciare il momento in cui vengono eseguiti i flussi di lavoro e gli invii. Coordinare e facilitare le comunicazioni tra più marchi può risultare impegnativo. [Tenere d&#39;occhio e conoscere il ritmo, la cadenza e la tempistica delle e-mail](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554) è prezioso per la stabilità e la forza complessiva del messaggio e dell’istanza di Campaign.
 
-## 4. Utilizzare la personalizzazione dove è importante
+## 4. Utilizza la personalizzazione quando conta
 
 Al giorno d’oggi, i consumatori si aspettano un certo livello di personalizzazione nei messaggi che ricevono. [L’80% dei clienti ha più probabilità di acquistare da un marchio che offre esperienze personalizzate](https://us.epsilon.com/power-of-me). Mettere il loro nome nell’oggetto è ideale. Tuttavia, la personalizzazione può fare molto di più. Puoi includere i prodotti che hanno visionato, collegarli a prodotti simili o continuare a rafforzare l’esperienza e l’aspetto del tuo marchio in modo coerente. Ogni dettaglio conta e stimola il coinvolgimento e i tassi di apertura dei messaggi.
 
