@@ -25,28 +25,22 @@ Adobe Campaign fornisce una piattaforma per la progettazione di customer experie
 ## Novità
 
 * **[Approfondimento sul protocollo SMPP e risoluzione dei problemi](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=it)**
-
-   *Scopri come vengono stabilite le connessioni SMPP e come il protocollo SMPP scambia i dati tramite le PDU. Come risolvere i problemi relativi alle connessioni.*
+  *Scopri come vengono stabilite le connessioni SMPP e come il protocollo SMPP scambia i dati tramite le PDU. Come risolvere i problemi relativi alle connessioni.*
 
 * **[Pannello di controllo per modelli di hosting ibridi](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=it)**
-
-   *Scopri come abilitare il Pannello di controllo per i modelli di hosting ibridi di Adobe Campaign, accedere al Pannello di controllo e usufruire delle funzioni chiave.*
+  *Scopri come abilitare il Pannello di controllo per i modelli di hosting ibridi di Adobe Campaign, accedere al Pannello di controllo e usufruire delle funzioni chiave.*
 
 * **[Pannello di controllo - Monitoraggio dei flussi di lavoro](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=it){target="_blank"}**
-
-   *Scopri come monitorare l’utilizzo temporaneo dell’archiviazione da parte dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
+  *Scopri come monitorare l’utilizzo temporaneo dell’archiviazione da parte dei flussi di lavoro e dove configurare le impostazioni del flusso di lavoro per evitare problemi di database o flusso di lavoro nell’istanza.*
 
 * **[Pannello di controllo - Monitoraggio delle velocità effettive e della latenza](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=it){target="_blank"}**
-
-   *Scopri come monitorare le velocità effettive di consegna e le latenze dei messaggi transazionali dell’istanza Campaign.*
+  *Scopri come monitorare le velocità effettive di consegna e le latenze dei messaggi transazionali dell’istanza Campaign.*
 
 * **[Introduzione alla funzione SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=it)**
-
-   *Scopri la funzione SMS e come Adobe Campaign invia SMS*
+  *Scopri la funzione SMS e come Adobe Campaign invia SMS*
 
 * **[Configurare un account SMS per un provider SMPP standard](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=it)**
-
-   *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
+  *Scopri come adattare il connettore SMS al provider SMPP. Ottimizza le impostazioni SMS per gestire i limiti di connessione e impostare la velocità effettiva massima, la finestra di invio e la crittografia con TLS.*
 
 </div>
 
