@@ -10,10 +10,10 @@ team: TM
 role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '118'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,7 @@ Attualmente solo Gmail, Outlook e Mail.ru supportano il formato AMP.
 
 Il video seguente spiega come attivare AMP in Adobe Campaign Classic e ne illustra l’utilizzo.
 
->[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on){transcript=true}
 
 Per creare il tuo codice AMP, puoi utilizzare l’[editor AMP](https://playground.amp.dev/).
 

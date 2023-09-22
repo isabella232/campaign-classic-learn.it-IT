@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 91%
+source-wordcount: '86'
+ht-degree: 89%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 91%
 
 Scopri come usare i flussi di lavoro delle campagne, e come creare un flusso di lavoro e definirne i profili target mediante condizioni di filtro.
 
->[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&learn=on){transcript=true}
 
 ## Prossimi tutorial da guardare
 
