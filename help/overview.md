@@ -1,19 +1,19 @@
 ---
-title: 'Tutorial su Adobe Campaign Classic: panoramica'
+title: Tutorial su Adobe Campaign Classic v7
 description: Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. Questa guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Standard.
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 3b25a787f7fe0457cbf40c4903815c82eec04073
+source-git-commit: 303705cfde82c630dbf603ab40b7df1c73113449
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 100%
 
 ---
 
-# Tutorial su Adobe Campaign Classic V7
+# Tutorial su Adobe Campaign Classic v7
 
 Adobe Campaign fornisce una piattaforma per la progettazione di customer experience cross-channel e fornisce un ambiente per l’orchestrazione visiva delle campagne, la gestione delle interazioni in tempo reale e l’esecuzione cross-channel. La presente guida utente contiene video e tutorial sulle numerose funzioni e caratteristiche di Adobe Campaign Classic v7.
 
